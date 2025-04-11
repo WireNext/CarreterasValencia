@@ -11,9 +11,16 @@ data = response.json()
 # Colores por estado
 colores = {
     0: "#00FF00",  # verde
-    5: "#00FF00",
     1: "#FFA500",  # naranja
+    2: "#FF0000",
     3: "#000000",  # negro
+    4: "#9b9b9b",
+    5: "#00FF00",
+    6: "#FFA500",
+    7: "#FF0000",
+    8: "#000000",
+    9: "#000000"
+
 }
 
 # Añadir estilo a cada feature
