@@ -11,6 +11,7 @@ data = response.json()
 # Colores por estado
 colores = {
     0: "#00FF00",  # verde
+    5: "#00FF00",
     1: "#FFA500",  # naranja
     3: "#000000",  # negro
 }
