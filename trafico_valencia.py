@@ -34,8 +34,11 @@ for feature in data['features']:
         "opacity": 1
     }
 
-# Guardar el nuevo GeoJSON
-with open('trafico_valencia_umap.geojson', 'w', encoding='utf-8') as f:
+filename = 'trafico_valencia_umap.geojson'
+if os.path.exists(filename):
+    os.remove(filename)
+
+with open(filename, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 print("GeoJSON generado: trafico_valencia_umap.geojson")
