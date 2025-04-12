@@ -1,5 +1,7 @@
 import requests
 import json
+import os
+import time
 
 # URL del GeoJSON original
 url = "https://geoportal.valencia.es/server/rest/services/OPENDATA/Trafico/MapServer/192/query?where=1=1&outFields=*&f=geojson"
