@@ -40,6 +40,12 @@ filename = 'trafico_valencia_umap.geojson'
 if os.path.exists(filename):
     os.remove(filename)
 
+# Filtrar features con geometría válida
+data['features'] = [
+    feature for feature in data['features']
+    if feature.get('geometry') and feature['geometry'].get('type') in ['Point', 'LineString', 'Polygon']
+]
+
 with open(filename, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
