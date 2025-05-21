@@ -5432,6 +5432,35 @@
     },
     {
       "type": "Feature",
+      "id": 2216,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3331406670776611,
+            39.47671598982298
+          ],
+          [
+            -0.3317682678038281,
+            39.48424029873477
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2216,
+        "denominacion": "INGENIERO FAUSTO ELIO HACIA V-21",
+        "estado": 0,
+        "idtramo": 325,
+        "fiwareid": "EstadoTrafico_325",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1913,
       "geometry": {
         "type": "LineString",
@@ -9259,35 +9288,6 @@
     },
     {
       "type": "Feature",
-      "id": 2216,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3331406670776611,
-            39.47671598982298
-          ],
-          [
-            -0.3317682678038281,
-            39.48424029873477
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2216,
-        "denominacion": "INGENIERO FAUSTO ELIO HACIA V-21",
-        "estado": 0,
-        "idtramo": 325,
-        "fiwareid": "EstadoTrafico_325",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1884,
       "geometry": {
         "type": "LineString",
@@ -12309,6 +12309,35 @@
     },
     {
       "type": "Feature",
+      "id": 2225,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3521353776532706,
+            39.47512963633044
+          ],
+          [
+            -0.34831384140531085,
+            39.473986246625614
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2225,
+        "denominacion": "BLASCO IBAÑEZ (DE CARDENAL BENLLOCH A M. CANDELA)",
+        "estado": 0,
+        "idtramo": 423,
+        "fiwareid": "EstadoTrafico_423",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1957,
       "geometry": {
         "type": "LineString",
@@ -13911,35 +13940,6 @@
         "estado": 0,
         "idtramo": 166,
         "fiwareid": "EstadoTrafico_166",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2225,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3521353776532706,
-            39.47512963633044
-          ],
-          [
-            -0.34831384140531085,
-            39.473986246625614
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2225,
-        "denominacion": "BLASCO IBAÑEZ (DE CARDENAL BENLLOCH A M. CANDELA)",
-        "estado": 0,
-        "idtramo": 423,
-        "fiwareid": "EstadoTrafico_423",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -19611,6 +19611,39 @@
     },
     {
       "type": "Feature",
+      "id": 1964,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.34255240915133567,
+            39.45960311005976
+          ],
+          [
+            -0.3481740789742747,
+            39.46093376761905
+          ],
+          [
+            -0.3574893514409705,
+            39.46386326797331
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1964,
+        "denominacion": "BALEARES (DE MENORCA A E. BOSCÁ)",
+        "estado": 0,
+        "idtramo": 232,
+        "fiwareid": "EstadoTrafico_232",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2233,
       "geometry": {
         "type": "LineString",
@@ -20080,6 +20113,35 @@
         "estado": 0,
         "idtramo": 10,
         "fiwareid": "EstadoTrafico_10",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1927,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3712400285687148,
+            39.490005593058
+          ],
+          [
+            -0.3639659538142739,
+            39.48458593592721
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1927,
+        "denominacion": "PRIMAT REIG (DES DE BILBAO A CAVANILLES)",
+        "estado": 0,
+        "idtramo": 148,
+        "fiwareid": "EstadoTrafico_148",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -22661,35 +22723,6 @@
     },
     {
       "type": "Feature",
-      "id": 1927,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3712400285687148,
-            39.490005593058
-          ],
-          [
-            -0.3639659538142739,
-            39.48458593592721
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1927,
-        "denominacion": "PRIMAT REIG (DES DE BILBAO A CAVANILLES)",
-        "estado": 0,
-        "idtramo": 148,
-        "fiwareid": "EstadoTrafico_148",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1935,
       "geometry": {
         "type": "LineString",
@@ -24709,39 +24742,6 @@
         "estado": 0,
         "idtramo": 403,
         "fiwareid": "EstadoTrafico_403",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1964,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.34255240915133567,
-            39.45960311005976
-          ],
-          [
-            -0.3481740789742747,
-            39.46093376761905
-          ],
-          [
-            -0.3574893514409705,
-            39.46386326797331
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1964,
-        "denominacion": "BALEARES (DE MENORCA A E. BOSCÁ)",
-        "estado": 0,
-        "idtramo": 232,
-        "fiwareid": "EstadoTrafico_232",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
