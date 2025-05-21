@@ -684,6 +684,35 @@
     },
     {
       "type": "Feature",
+      "id": 2070,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35110190674271935,
+            39.453679996030644
+          ],
+          [
+            -0.3480632012654322,
+            39.45571523051734
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2070,
+        "denominacion": "PUENTE DEL ASSUT DE L'OR HACIA MENORCA",
+        "estado": 0,
+        "idtramo": 274,
+        "fiwareid": "EstadoTrafico_274",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2029,
       "geometry": {
         "type": "LineString",
@@ -1708,35 +1737,6 @@
         "estado": 0,
         "idtramo": 454,
         "fiwareid": "EstadoTrafico_454",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2070,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35110190674271935,
-            39.453679996030644
-          ],
-          [
-            -0.3480632012654322,
-            39.45571523051734
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2070,
-        "denominacion": "PUENTE DEL ASSUT DE L'OR HACIA MENORCA",
-        "estado": 0,
-        "idtramo": 274,
-        "fiwareid": "EstadoTrafico_274",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -4736,6 +4736,39 @@
     },
     {
       "type": "Feature",
+      "id": 2001,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3834190964396114,
+            39.4580675164691
+          ],
+          [
+            -0.3816232350566776,
+            39.46501960516974
+          ],
+          [
+            -0.3816224981847235,
+            39.46503925480212
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2001,
+        "denominacion": "SAN VICENTE (DE GIORGETA A PLAZA ESPAÑA)",
+        "estado": 0,
+        "idtramo": 6,
+        "fiwareid": "EstadoTrafico_6",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2230,
       "geometry": {
         "type": "LineString",
@@ -6063,39 +6096,6 @@
         "estado": 0,
         "idtramo": 240,
         "fiwareid": "EstadoTrafico_240",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2001,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3834190964396114,
-            39.4580675164691
-          ],
-          [
-            -0.3816232350566776,
-            39.46501960516974
-          ],
-          [
-            -0.3816224981847235,
-            39.46503925480212
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2001,
-        "denominacion": "SAN VICENTE (DE GIORGETA A PLAZA ESPAÑA)",
-        "estado": 0,
-        "idtramo": 6,
-        "fiwareid": "EstadoTrafico_6",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -7805,6 +7805,63 @@
     },
     {
       "type": "Feature",
+      "id": 2067,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.32881640518145727,
+            39.462841038585324
+          ],
+          [
+            -0.3286384486682486,
+            39.46289508149891
+          ],
+          [
+            -0.3285588961158682,
+            39.46291632420819
+          ],
+          [
+            -0.32847858588013423,
+            39.46293580174931
+          ],
+          [
+            -0.32839758936004126,
+            39.46295347071852
+          ],
+          [
+            -0.3283159758886258,
+            39.462969341717056
+          ],
+          [
+            -0.32823379329717406,
+            39.46298337980843
+          ],
+          [
+            -0.32733511829237877,
+            39.46307582938836
+          ],
+          [
+            -0.3251134556453242,
+            39.463090018916475
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2067,
+        "denominacion": "MARCOS SOPENA (DE PLAZA ARMADA ESPAÑOLA A EUGENIA VIÑES)",
+        "estado": 0,
+        "idtramo": 266,
+        "fiwareid": "EstadoTrafico_266",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2081,
       "geometry": {
         "type": "LineString",
@@ -9132,63 +9189,6 @@
         "estado": 0,
         "idtramo": 334,
         "fiwareid": "EstadoTrafico_334",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2067,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.32881640518145727,
-            39.462841038585324
-          ],
-          [
-            -0.3286384486682486,
-            39.46289508149891
-          ],
-          [
-            -0.3285588961158682,
-            39.46291632420819
-          ],
-          [
-            -0.32847858588013423,
-            39.46293580174931
-          ],
-          [
-            -0.32839758936004126,
-            39.46295347071852
-          ],
-          [
-            -0.3283159758886258,
-            39.462969341717056
-          ],
-          [
-            -0.32823379329717406,
-            39.46298337980843
-          ],
-          [
-            -0.32733511829237877,
-            39.46307582938836
-          ],
-          [
-            -0.3251134556453242,
-            39.463090018916475
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2067,
-        "denominacion": "MARCOS SOPENA (DE PLAZA ARMADA ESPAÑOLA A EUGENIA VIÑES)",
-        "estado": 0,
-        "idtramo": 266,
-        "fiwareid": "EstadoTrafico_266",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11920,6 +11920,35 @@
     },
     {
       "type": "Feature",
+      "id": 2199,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39052310596129103,
+            39.48803835601422
+          ],
+          [
+            -0.3925687902885662,
+            39.48715292161815
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2199,
+        "denominacion": "VÍA DE SERVICIO DE GENERAL AVILÉS A NICASIO BENLLOCH",
+        "estado": 0,
+        "idtramo": 433,
+        "fiwareid": "EstadoTrafico_433",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1945,
       "geometry": {
         "type": "LineString",
@@ -13370,35 +13399,6 @@
         "estado": 0,
         "idtramo": 310,
         "fiwareid": "EstadoTrafico_310",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2199,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39052310596129103,
-            39.48803835601422
-          ],
-          [
-            -0.3925687902885662,
-            39.48715292161815
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2199,
-        "denominacion": "VÍA DE SERVICIO DE GENERAL AVILÉS A NICASIO BENLLOCH",
-        "estado": 0,
-        "idtramo": 433,
-        "fiwareid": "EstadoTrafico_433",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -15698,6 +15698,35 @@
     },
     {
       "type": "Feature",
+      "id": 2088,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3841269286651612,
+            39.481518172237855
+          ],
+          [
+            -0.38332408252982886,
+            39.48039405071826
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2088,
+        "denominacion": "PUENTE DE LAS ARTES HACIA GUILLEM DE CASTRO",
+        "estado": 0,
+        "idtramo": 298,
+        "fiwareid": "EstadoTrafico_298",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2259,
       "geometry": {
         "type": "LineString",
@@ -16745,6 +16774,99 @@
         "estado": 0,
         "idtramo": 455,
         "fiwareid": "EstadoTrafico_455",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1932,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4010176494575181,
+            39.483322297891135
+          ],
+          [
+            -0.4008896494431759,
+            39.483501178806094
+          ],
+          [
+            -0.400877497481408,
+            39.483517492229105
+          ],
+          [
+            -0.400864614159596,
+            39.48353346497484
+          ],
+          [
+            -0.40085102304477777,
+            39.483549088561375
+          ],
+          [
+            -0.40083674837462974,
+            39.48356433650415
+          ],
+          [
+            -0.40082179115484257,
+            39.48357918179892
+          ],
+          [
+            -0.4008061746173148,
+            39.483593624965145
+          ],
+          [
+            -0.4007899346159135,
+            39.483607639778036
+          ],
+          [
+            -0.40077306054047723,
+            39.4836211989736
+          ],
+          [
+            -0.4007555988551012,
+            39.48363430359087
+          ],
+          [
+            -0.4007375618464727,
+            39.483646935886775
+          ],
+          [
+            -0.4007189621366313,
+            39.48365906911697
+          ],
+          [
+            -0.40069983490914085,
+            39.48367069505937
+          ],
+          [
+            -0.4006801924508427,
+            39.483681795970895
+          ],
+          [
+            -0.40066006994539305,
+            39.48369236362958
+          ],
+          [
+            -0.40063947967973573,
+            39.48370238029237
+          ],
+          [
+            -0.39645384905973385,
+            39.485532587061364
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1932,
+        "denominacion": "GENERAL AVILÉS (DE MTRO. RODRIGO A PÍO XII)",
+        "estado": 0,
+        "idtramo": 48,
+        "fiwareid": "EstadoTrafico_48",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18408,128 +18530,6 @@
         "estado": 0,
         "idtramo": 359,
         "fiwareid": "EstadoTrafico_359",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1932,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.4010176494575181,
-            39.483322297891135
-          ],
-          [
-            -0.4008896494431759,
-            39.483501178806094
-          ],
-          [
-            -0.400877497481408,
-            39.483517492229105
-          ],
-          [
-            -0.400864614159596,
-            39.48353346497484
-          ],
-          [
-            -0.40085102304477777,
-            39.483549088561375
-          ],
-          [
-            -0.40083674837462974,
-            39.48356433650415
-          ],
-          [
-            -0.40082179115484257,
-            39.48357918179892
-          ],
-          [
-            -0.4008061746173148,
-            39.483593624965145
-          ],
-          [
-            -0.4007899346159135,
-            39.483607639778036
-          ],
-          [
-            -0.40077306054047723,
-            39.4836211989736
-          ],
-          [
-            -0.4007555988551012,
-            39.48363430359087
-          ],
-          [
-            -0.4007375618464727,
-            39.483646935886775
-          ],
-          [
-            -0.4007189621366313,
-            39.48365906911697
-          ],
-          [
-            -0.40069983490914085,
-            39.48367069505937
-          ],
-          [
-            -0.4006801924508427,
-            39.483681795970895
-          ],
-          [
-            -0.40066006994539305,
-            39.48369236362958
-          ],
-          [
-            -0.40063947967973573,
-            39.48370238029237
-          ],
-          [
-            -0.39645384905973385,
-            39.485532587061364
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1932,
-        "denominacion": "GENERAL AVILÉS (DE MTRO. RODRIGO A PÍO XII)",
-        "estado": 0,
-        "idtramo": 48,
-        "fiwareid": "EstadoTrafico_48",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2088,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3841269286651612,
-            39.481518172237855
-          ],
-          [
-            -0.38332408252982886,
-            39.48039405071826
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2088,
-        "denominacion": "PUENTE DE LAS ARTES HACIA GUILLEM DE CASTRO",
-        "estado": 0,
-        "idtramo": 298,
-        "fiwareid": "EstadoTrafico_298",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
