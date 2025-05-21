@@ -1799,6 +1799,39 @@
     },
     {
       "type": "Feature",
+      "id": 2196,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35288046384153177,
+            39.453075372507456
+          ],
+          [
+            -0.3604190736144111,
+            39.449835890681776
+          ],
+          [
+            -0.36427963030593435,
+            39.44824640528982
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2196,
+        "denominacion": "ANTONIO FERRANDIS HACIA AUSIAS MARCH",
+        "estado": 0,
+        "idtramo": 253,
+        "fiwareid": "EstadoTrafico_253",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1941,
       "geometry": {
         "type": "LineString",
@@ -3331,39 +3364,6 @@
     },
     {
       "type": "Feature",
-      "id": 2196,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35288046384153177,
-            39.453075372507456
-          ],
-          [
-            -0.3604190736144111,
-            39.449835890681776
-          ],
-          [
-            -0.36427963030593435,
-            39.44824640528982
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2196,
-        "denominacion": "ANTONIO FERRANDIS HACIA AUSIAS MARCH",
-        "estado": 0,
-        "idtramo": 253,
-        "fiwareid": "EstadoTrafico_253",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2013,
       "geometry": {
         "type": "LineString",
@@ -3907,6 +3907,35 @@
         "estado": 0,
         "idtramo": 414,
         "fiwareid": "EstadoTrafico_414",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2123,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36694480213984965,
+            39.47657529101379
+          ],
+          [
+            -0.3647545843536806,
+            39.47383503727923
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2123,
+        "denominacion": "PASEO DE LA ALAMEDA (DE PUENTE DE LA EXPOSICION A LLANO DEL REAL)",
+        "estado": 0,
+        "idtramo": 330,
+        "fiwareid": "EstadoTrafico_330",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -5654,35 +5683,6 @@
     },
     {
       "type": "Feature",
-      "id": 2123,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36694480213984965,
-            39.47657529101379
-          ],
-          [
-            -0.3647545843536806,
-            39.47383503727923
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2123,
-        "denominacion": "PASEO DE LA ALAMEDA (DE PUENTE DE LA EXPOSICION A LLANO DEL REAL)",
-        "estado": 0,
-        "idtramo": 330,
-        "fiwareid": "EstadoTrafico_330",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1872,
       "geometry": {
         "type": "LineString",
@@ -6484,6 +6484,39 @@
         "estado": 0,
         "idtramo": 180,
         "fiwareid": "EstadoTrafico_180",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1989,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33010301898115546,
+            39.46781071717016
+          ],
+          [
+            -0.32764979721780674,
+            39.46765989954949
+          ],
+          [
+            -0.32557583591513856,
+            39.46748950759711
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1989,
+        "denominacion": "MEDITERRÁNEO (DE E.VIÑES A PROGRESO)",
+        "estado": 0,
+        "idtramo": 73,
+        "fiwareid": "EstadoTrafico_73",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -8207,30 +8240,26 @@
     },
     {
       "type": "Feature",
-      "id": 1989,
+      "id": 2129,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.33010301898115546,
-            39.46781071717016
+            -0.3798557831493669,
+            39.47310564815366
           ],
           [
-            -0.32764979721780674,
-            39.46765989954949
-          ],
-          [
-            -0.32557583591513856,
-            39.46748950759711
+            -0.37967678730994064,
+            39.46894441096039
           ]
         ]
       },
       "properties": {
-        "gid": 1989,
-        "denominacion": "MEDITERRÁNEO (DE E.VIÑES A PROGRESO)",
+        "gid": 2129,
+        "denominacion": "OEST (SANT AGUSTI)",
         "estado": 0,
-        "idtramo": 73,
-        "fiwareid": "EstadoTrafico_73",
+        "idtramo": 337,
+        "fiwareid": "EstadoTrafico_337",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11048,6 +11077,35 @@
     },
     {
       "type": "Feature",
+      "id": 2231,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39375239044011284,
+            39.48298542656164
+          ],
+          [
+            -0.39570934513589295,
+            39.48574151108051
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2231,
+        "denominacion": "VÍA DE SERVICIO DE PÍO XII A GRAL. AVILÉS",
+        "estado": 0,
+        "idtramo": 430,
+        "fiwareid": "EstadoTrafico_430",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2007,
       "geometry": {
         "type": "LineString",
@@ -12822,35 +12880,6 @@
     },
     {
       "type": "Feature",
-      "id": 2231,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39375239044011284,
-            39.48298542656164
-          ],
-          [
-            -0.39570934513589295,
-            39.48574151108051
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2231,
-        "denominacion": "VÍA DE SERVICIO DE PÍO XII A GRAL. AVILÉS",
-        "estado": 0,
-        "idtramo": 430,
-        "fiwareid": "EstadoTrafico_430",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2180,
       "geometry": {
         "type": "LineString",
@@ -12958,6 +12987,35 @@
         "estado": 0,
         "idtramo": 259,
         "fiwareid": "EstadoTrafico_259",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2099,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.381243775740637,
+            39.49740464807775
+          ],
+          [
+            -0.3812231966236973,
+            39.49971651909297
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2099,
+        "denominacion": "PASO INFERIOR Cº MONCADA DE SALIDA",
+        "estado": 0,
+        "idtramo": 306,
+        "fiwareid": "EstadoTrafico_306",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -14345,6 +14403,35 @@
     },
     {
       "type": "Feature",
+      "id": 2112,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3475780192564546,
+            39.47429426429964
+          ],
+          [
+            -0.3453338084058063,
+            39.47951442263473
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2112,
+        "denominacion": "RAMÓN LLULL HACIA NARANJOS",
+        "estado": 0,
+        "idtramo": 323,
+        "fiwareid": "EstadoTrafico_323",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1972,
       "geometry": {
         "type": "LineString",
@@ -14864,35 +14951,6 @@
         "estado": 0,
         "idtramo": 460,
         "fiwareid": "EstadoTrafico_460",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2099,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.381243775740637,
-            39.49740464807775
-          ],
-          [
-            -0.3812231966236973,
-            39.49971651909297
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2099,
-        "denominacion": "PASO INFERIOR Cº MONCADA DE SALIDA",
-        "estado": 0,
-        "idtramo": 306,
-        "fiwareid": "EstadoTrafico_306",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18356,35 +18414,6 @@
         "estado": 0,
         "idtramo": 48,
         "fiwareid": "EstadoTrafico_48",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2112,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3475780192564546,
-            39.47429426429964
-          ],
-          [
-            -0.3453338084058063,
-            39.47951442263473
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2112,
-        "denominacion": "RAMÓN LLULL HACIA NARANJOS",
-        "estado": 0,
-        "idtramo": 323,
-        "fiwareid": "EstadoTrafico_323",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -23832,35 +23861,6 @@
         "estado": 0,
         "idtramo": 320,
         "fiwareid": "EstadoTrafico_320",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2129,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3798557831493669,
-            39.47310564815366
-          ],
-          [
-            -0.37967678730994064,
-            39.46894441096039
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2129,
-        "denominacion": "OEST (SANT AGUSTI)",
-        "estado": 0,
-        "idtramo": 337,
-        "fiwareid": "EstadoTrafico_337",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
