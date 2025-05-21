@@ -281,6 +281,39 @@
     },
     {
       "type": "Feature",
+      "id": 2214,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.32881575445235534,
+            39.46753248538772
+          ],
+          [
+            -0.32901424587909717,
+            39.46616183729602
+          ],
+          [
+            -0.3294775711301634,
+            39.463220997542855
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2214,
+        "denominacion": "REINA",
+        "estado": 0,
+        "idtramo": 264,
+        "fiwareid": "EstadoTrafico_264",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2100,
       "geometry": {
         "type": "LineString",
@@ -330,6 +363,64 @@
         "estado": 0,
         "idtramo": 158,
         "fiwareid": "EstadoTrafico_158",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1888,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36632922319712624,
+            39.479623504460015
+          ],
+          [
+            -0.36402128142105983,
+            39.48428311828256
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1888,
+        "denominacion": "CAVANILLES",
+        "estado": 0,
+        "idtramo": 12,
+        "fiwareid": "EstadoTrafico_12",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1881,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33510290823382965,
+            39.45234417803024
+          ],
+          [
+            -0.33547420456713456,
+            39.45010468930301
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1881,
+        "denominacion": "CAMI CANAL D'EIXIDA",
+        "estado": 0,
+        "idtramo": 463,
+        "fiwareid": "EstadoTrafico_463",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -555,6 +646,35 @@
         "estado": 0,
         "idtramo": 211,
         "fiwareid": "EstadoTrafico_211",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2177,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38974873725676823,
+            39.44772714757084
+          ],
+          [
+            -0.3886312353469015,
+            39.45299408978344
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2177,
+        "denominacion": "CARTEROS HACIA TOMAS SALA",
+        "estado": 0,
+        "idtramo": 408,
+        "fiwareid": "EstadoTrafico_408",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -5283,6 +5403,35 @@
     },
     {
       "type": "Feature",
+      "id": 2176,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.386705374669799,
+            39.44659672649728
+          ],
+          [
+            -0.3892691646366351,
+            39.44719366535951
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2176,
+        "denominacion": "TOMAS SALA (DE SAN VICENTE A CARTEROS)",
+        "estado": 0,
+        "idtramo": 407,
+        "fiwareid": "EstadoTrafico_407",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1913,
       "geometry": {
         "type": "LineString",
@@ -7805,6 +7954,107 @@
     },
     {
       "type": "Feature",
+      "id": 2093,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36515100054775335,
+            39.447629735000206
+          ],
+          [
+            -0.3716425232989134,
+            39.44492028756578
+          ],
+          [
+            -0.37170130637642496,
+            39.44489677050035
+          ],
+          [
+            -0.3717611094921768,
+            39.444874862022694
+          ],
+          [
+            -0.37182187324867777,
+            39.44485459682348
+          ],
+          [
+            -0.3718835157072422,
+            39.44483599106621
+          ],
+          [
+            -0.37194595425233584,
+            39.44481907891678
+          ],
+          [
+            -0.372009118893678,
+            39.44480386780032
+          ],
+          [
+            -0.37207293896409577,
+            39.44479038314441
+          ],
+          [
+            -0.3721373212550964,
+            39.44477863184946
+          ],
+          [
+            -0.3722022063707083,
+            39.44476864860708
+          ],
+          [
+            -0.3722674898320121,
+            39.44476043105439
+          ],
+          [
+            -0.3723331132588786,
+            39.44475398687982
+          ],
+          [
+            -0.37239898310487335,
+            39.4447493319857
+          ],
+          [
+            -0.37246502938075704,
+            39.44474647379826
+          ],
+          [
+            -0.37253115955570065,
+            39.44474540121681
+          ],
+          [
+            -0.37259729169273204,
+            39.444746130406614
+          ],
+          [
+            -0.3726633561411303,
+            39.44474865979337
+          ],
+          [
+            -0.3727292719793296,
+            39.444752978539256
+          ],
+          [
+            -0.37344515076780105,
+            39.4448207155048
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2093,
+        "denominacion": "PASO INFERIOR ANTONIO FERRANDIS HACIA AUT. DEL SALER",
+        "estado": 0,
+        "idtramo": 314,
+        "fiwareid": "EstadoTrafico_314",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1915,
       "geometry": {
         "type": "LineString",
@@ -8470,35 +8720,6 @@
     },
     {
       "type": "Feature",
-      "id": 2177,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.38974873725676823,
-            39.44772714757084
-          ],
-          [
-            -0.3886312353469015,
-            39.45299408978344
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2177,
-        "denominacion": "CARTEROS HACIA TOMAS SALA",
-        "estado": 0,
-        "idtramo": 408,
-        "fiwareid": "EstadoTrafico_408",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2075,
       "geometry": {
         "type": "LineString",
@@ -9000,136 +9221,6 @@
         "estado": 0,
         "idtramo": 386,
         "fiwareid": "EstadoTrafico_386",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2176,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.386705374669799,
-            39.44659672649728
-          ],
-          [
-            -0.3892691646366351,
-            39.44719366535951
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2176,
-        "denominacion": "TOMAS SALA (DE SAN VICENTE A CARTEROS)",
-        "estado": 0,
-        "idtramo": 407,
-        "fiwareid": "EstadoTrafico_407",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2093,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36515100054775335,
-            39.447629735000206
-          ],
-          [
-            -0.3716425232989134,
-            39.44492028756578
-          ],
-          [
-            -0.37170130637642496,
-            39.44489677050035
-          ],
-          [
-            -0.3717611094921768,
-            39.444874862022694
-          ],
-          [
-            -0.37182187324867777,
-            39.44485459682348
-          ],
-          [
-            -0.3718835157072422,
-            39.44483599106621
-          ],
-          [
-            -0.37194595425233584,
-            39.44481907891678
-          ],
-          [
-            -0.372009118893678,
-            39.44480386780032
-          ],
-          [
-            -0.37207293896409577,
-            39.44479038314441
-          ],
-          [
-            -0.3721373212550964,
-            39.44477863184946
-          ],
-          [
-            -0.3722022063707083,
-            39.44476864860708
-          ],
-          [
-            -0.3722674898320121,
-            39.44476043105439
-          ],
-          [
-            -0.3723331132588786,
-            39.44475398687982
-          ],
-          [
-            -0.37239898310487335,
-            39.4447493319857
-          ],
-          [
-            -0.37246502938075704,
-            39.44474647379826
-          ],
-          [
-            -0.37253115955570065,
-            39.44474540121681
-          ],
-          [
-            -0.37259729169273204,
-            39.444746130406614
-          ],
-          [
-            -0.3726633561411303,
-            39.44474865979337
-          ],
-          [
-            -0.3727292719793296,
-            39.444752978539256
-          ],
-          [
-            -0.37344515076780105,
-            39.4448207155048
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2093,
-        "denominacion": "PASO INFERIOR ANTONIO FERRANDIS HACIA AUT. DEL SALER",
-        "estado": 0,
-        "idtramo": 314,
-        "fiwareid": "EstadoTrafico_314",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11760,6 +11851,75 @@
     },
     {
       "type": "Feature",
+      "id": 2108,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.393894599902037,
+            39.47773474161904
+          ],
+          [
+            -0.39665521078863514,
+            39.476508800370645
+          ],
+          [
+            -0.39684297822988823,
+            39.47642847695277
+          ],
+          [
+            -0.3970339532732312,
+            39.476352837588514
+          ],
+          [
+            -0.39722794709102144,
+            39.47628195911254
+          ],
+          [
+            -0.3974247708583743,
+            39.476215918360644
+          ],
+          [
+            -0.39762420158009,
+            39.47615477338684
+          ],
+          [
+            -0.39782605043646047,
+            39.47609860102944
+          ],
+          [
+            -0.3980301180021734,
+            39.476047450863994
+          ],
+          [
+            -0.3982361816244956,
+            39.47600137194729
+          ],
+          [
+            -0.3984440415465631,
+            39.47596042285899
+          ],
+          [
+            -0.3994722621224145,
+            39.47577120731696
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2108,
+        "denominacion": "PASO INFERIOR TIRSO DE MOLINA - MANUEL DE FALLA",
+        "estado": 0,
+        "idtramo": 317,
+        "fiwareid": "EstadoTrafico_317",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1945,
       "geometry": {
         "type": "LineString",
@@ -13181,6 +13341,35 @@
         "estado": 0,
         "idtramo": 310,
         "fiwareid": "EstadoTrafico_310",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2199,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39052310596129103,
+            39.48803835601422
+          ],
+          [
+            -0.3925687902885662,
+            39.48715292161815
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2199,
+        "denominacion": "VÍA DE SERVICIO DE GENERAL AVILÉS A NICASIO BENLLOCH",
+        "estado": 0,
+        "idtramo": 433,
+        "fiwareid": "EstadoTrafico_433",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -14960,95 +15149,26 @@
     },
     {
       "type": "Feature",
-      "id": 2108,
+      "id": 1933,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.393894599902037,
-            39.47773474161904
+            -0.3701751419960775,
+            39.47273446711281
           ],
           [
-            -0.39665521078863514,
-            39.476508800370645
-          ],
-          [
-            -0.39684297822988823,
-            39.47642847695277
-          ],
-          [
-            -0.3970339532732312,
-            39.476352837588514
-          ],
-          [
-            -0.39722794709102144,
-            39.47628195911254
-          ],
-          [
-            -0.3974247708583743,
-            39.476215918360644
-          ],
-          [
-            -0.39762420158009,
-            39.47615477338684
-          ],
-          [
-            -0.39782605043646047,
-            39.47609860102944
-          ],
-          [
-            -0.3980301180021734,
-            39.476047450863994
-          ],
-          [
-            -0.3982361816244956,
-            39.47600137194729
-          ],
-          [
-            -0.3984440415465631,
-            39.47596042285899
-          ],
-          [
-            -0.3994722621224145,
-            39.47577120731696
+            -0.3741820187290576,
+            39.473532579702635
           ]
         ]
       },
       "properties": {
-        "gid": 2108,
-        "denominacion": "PASO INFERIOR TIRSO DE MOLINA - MANUEL DE FALLA",
+        "gid": 1933,
+        "denominacion": "PAZ (DE GENERAL TOVAR A MARQUÉS DE DOS AGUAS)",
         "estado": 0,
-        "idtramo": 317,
-        "fiwareid": "EstadoTrafico_317",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2199,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39052310596129103,
-            39.48803835601422
-          ],
-          [
-            -0.3925687902885662,
-            39.48715292161815
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2199,
-        "denominacion": "VÍA DE SERVICIO DE GENERAL AVILÉS A NICASIO BENLLOCH",
-        "estado": 0,
-        "idtramo": 433,
-        "fiwareid": "EstadoTrafico_433",
+        "idtramo": 52,
+        "fiwareid": "EstadoTrafico_52",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17346,39 +17466,6 @@
     },
     {
       "type": "Feature",
-      "id": 2214,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.32881575445235534,
-            39.46753248538772
-          ],
-          [
-            -0.32901424587909717,
-            39.46616183729602
-          ],
-          [
-            -0.3294775711301634,
-            39.463220997542855
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2214,
-        "denominacion": "REINA",
-        "estado": 0,
-        "idtramo": 264,
-        "fiwareid": "EstadoTrafico_264",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2106,
       "geometry": {
         "type": "LineString",
@@ -18952,35 +19039,6 @@
     },
     {
       "type": "Feature",
-      "id": 1933,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3701751419960775,
-            39.47273446711281
-          ],
-          [
-            -0.3741820187290576,
-            39.473532579702635
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1933,
-        "denominacion": "PAZ (DE GENERAL TOVAR A MARQUÉS DE DOS AGUAS)",
-        "estado": 0,
-        "idtramo": 52,
-        "fiwareid": "EstadoTrafico_52",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1971,
       "geometry": {
         "type": "LineString",
@@ -19573,35 +19631,6 @@
         "estado": 0,
         "idtramo": 432,
         "fiwareid": "EstadoTrafico_432",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1888,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36632922319712624,
-            39.479623504460015
-          ],
-          [
-            -0.36402128142105983,
-            39.48428311828256
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1888,
-        "denominacion": "CAVANILLES",
-        "estado": 0,
-        "idtramo": 12,
-        "fiwareid": "EstadoTrafico_12",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -21383,35 +21412,6 @@
         "estado": 0,
         "idtramo": 215,
         "fiwareid": "EstadoTrafico_215",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1881,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.33510290823382965,
-            39.45234417803024
-          ],
-          [
-            -0.33547420456713456,
-            39.45010468930301
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1881,
-        "denominacion": "CAMI CANAL D'EIXIDA",
-        "estado": 0,
-        "idtramo": 463,
-        "fiwareid": "EstadoTrafico_463",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
