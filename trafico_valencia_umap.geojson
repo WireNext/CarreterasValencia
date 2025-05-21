@@ -194,6 +194,35 @@
     },
     {
       "type": "Feature",
+      "id": 1916,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38286911217213654,
+            39.466853169529244
+          ],
+          [
+            -0.3865637979301861,
+            39.462569091918574
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1916,
+        "denominacion": "JESUS",
+        "estado": 0,
+        "idtramo": 71,
+        "fiwareid": "EstadoTrafico_71",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2079,
       "geometry": {
         "type": "LineString",
@@ -1795,35 +1824,6 @@
         "estado": 0,
         "idtramo": 383,
         "fiwareid": "EstadoTrafico_383",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1916,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.38286911217213654,
-            39.466853169529244
-          ],
-          [
-            -0.3865637979301861,
-            39.462569091918574
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1916,
-        "denominacion": "JESUS",
-        "estado": 0,
-        "idtramo": 71,
-        "fiwareid": "EstadoTrafico_71",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17715,6 +17715,35 @@
     },
     {
       "type": "Feature",
+      "id": 1971,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3858974126932364,
+            39.47022596674011
+          ],
+          [
+            -0.3911116550848929,
+            39.46915231886328
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1971,
+        "denominacion": "ANGEL GUIMERÁ (DE F. CATÓLICO A P. GALDÓS)",
+        "estado": 0,
+        "idtramo": 78,
+        "fiwareid": "EstadoTrafico_78",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1942,
       "geometry": {
         "type": "LineString",
@@ -19030,35 +19059,6 @@
         "estado": 0,
         "idtramo": 174,
         "fiwareid": "EstadoTrafico_174",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1971,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3858974126932364,
-            39.47022596674011
-          ],
-          [
-            -0.3911116550848929,
-            39.46915231886328
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1971,
-        "denominacion": "ANGEL GUIMERÁ (DE F. CATÓLICO A P. GALDÓS)",
-        "estado": 0,
-        "idtramo": 78,
-        "fiwareid": "EstadoTrafico_78",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
