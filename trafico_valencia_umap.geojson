@@ -434,6 +434,39 @@
     },
     {
       "type": "Feature",
+      "id": 2214,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.32881575445235534,
+            39.46753248538772
+          ],
+          [
+            -0.32901424587909717,
+            39.46616183729602
+          ],
+          [
+            -0.3294775711301634,
+            39.463220997542855
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2214,
+        "denominacion": "REINA",
+        "estado": 0,
+        "idtramo": 264,
+        "fiwareid": "EstadoTrafico_264",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1950,
       "geometry": {
         "type": "LineString",
@@ -12906,6 +12939,43 @@
     },
     {
       "type": "Feature",
+      "id": 2170,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40554910375250997,
+            39.4873185588564
+          ],
+          [
+            -0.4055508241101727,
+            39.487315128873384
+          ],
+          [
+            -0.40592027567877587,
+            39.48609244839411
+          ],
+          [
+            -0.4072748224267006,
+            39.481663095936575
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2170,
+        "denominacion": "PÍO BAROJA (DE LA SAFOR A GRAL. AVILÉS)",
+        "estado": 0,
+        "idtramo": 400,
+        "fiwareid": "EstadoTrafico_400",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1935,
       "geometry": {
         "type": "LineString",
@@ -14197,43 +14267,6 @@
         "estado": 0,
         "idtramo": 409,
         "fiwareid": "EstadoTrafico_409",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2170,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40554910375250997,
-            39.4873185588564
-          ],
-          [
-            -0.4055508241101727,
-            39.487315128873384
-          ],
-          [
-            -0.40592027567877587,
-            39.48609244839411
-          ],
-          [
-            -0.4072748224267006,
-            39.481663095936575
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2170,
-        "denominacion": "PÍO BAROJA (DE LA SAFOR A GRAL. AVILÉS)",
-        "estado": 0,
-        "idtramo": 400,
-        "fiwareid": "EstadoTrafico_400",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -16017,6 +16050,35 @@
     },
     {
       "type": "Feature",
+      "id": 2203,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37693917855631814,
+            39.46771206629439
+          ],
+          [
+            -0.3767815485109228,
+            39.469066305643494
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2203,
+        "denominacion": "MARQUÉS DE SOTELO (DE XÀTIVA A AYUNTAMIENTO)",
+        "estado": 0,
+        "idtramo": 440,
+        "fiwareid": "EstadoTrafico_440",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1901,
       "geometry": {
         "type": "LineString",
@@ -16799,35 +16861,6 @@
         "estado": 0,
         "idtramo": 130,
         "fiwareid": "EstadoTrafico_130",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2203,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37693917855631814,
-            39.46771206629439
-          ],
-          [
-            -0.3767815485109228,
-            39.469066305643494
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2203,
-        "denominacion": "MARQUÉS DE SOTELO (DE XÀTIVA A AYUNTAMIENTO)",
-        "estado": 0,
-        "idtramo": 440,
-        "fiwareid": "EstadoTrafico_440",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -23710,39 +23743,6 @@
         "estado": 0,
         "idtramo": 210,
         "fiwareid": "EstadoTrafico_210",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2214,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.32881575445235534,
-            39.46753248538772
-          ],
-          [
-            -0.32901424587909717,
-            39.46616183729602
-          ],
-          [
-            -0.3294775711301634,
-            39.463220997542855
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2214,
-        "denominacion": "REINA",
-        "estado": 0,
-        "idtramo": 264,
-        "fiwareid": "EstadoTrafico_264",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
