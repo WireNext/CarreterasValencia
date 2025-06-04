@@ -843,6 +843,35 @@
     },
     {
       "type": "Feature",
+      "id": 2129,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3798557831493669,
+            39.47310564815366
+          ],
+          [
+            -0.37967678730994064,
+            39.46894441096039
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2129,
+        "denominacion": "OEST (SANT AGUSTI)",
+        "estado": 0,
+        "idtramo": 337,
+        "fiwareid": "EstadoTrafico_337",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2163,
       "geometry": {
         "type": "LineString",
@@ -1410,6 +1439,43 @@
     },
     {
       "type": "Feature",
+      "id": 2185,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3693848906772758,
+            39.47554035682012
+          ],
+          [
+            -0.36866707756097294,
+            39.474866365092524
+          ],
+          [
+            -0.3669313570765257,
+            39.47267911297796
+          ],
+          [
+            -0.3651592730745934,
+            39.470647853830805
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2185,
+        "denominacion": "CIUDADELA",
+        "estado": 0,
+        "idtramo": 63,
+        "fiwareid": "EstadoTrafico_63",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2001,
       "geometry": {
         "type": "LineString",
@@ -1739,35 +1805,6 @@
         "estado": 0,
         "idtramo": 413,
         "fiwareid": "EstadoTrafico_413",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2129,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3798557831493669,
-            39.47310564815366
-          ],
-          [
-            -0.37967678730994064,
-            39.46894441096039
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2129,
-        "denominacion": "OEST (SANT AGUSTI)",
-        "estado": 0,
-        "idtramo": 337,
-        "fiwareid": "EstadoTrafico_337",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10529,11 +10566,11 @@
       "properties": {
         "gid": 1919,
         "denominacion": "PAS INFERIOR GERMANIES CAP A MARQUES DEL TURIA",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 226,
         "fiwareid": "EstadoTrafico_226",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -11851,43 +11888,6 @@
     },
     {
       "type": "Feature",
-      "id": 2185,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3693848906772758,
-            39.47554035682012
-          ],
-          [
-            -0.36866707756097294,
-            39.474866365092524
-          ],
-          [
-            -0.3669313570765257,
-            39.47267911297796
-          ],
-          [
-            -0.3651592730745934,
-            39.470647853830805
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2185,
-        "denominacion": "CIUDADELA",
-        "estado": 0,
-        "idtramo": 63,
-        "fiwareid": "EstadoTrafico_63",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1963,
       "geometry": {
         "type": "LineString",
@@ -12362,6 +12362,35 @@
         "estado": 0,
         "idtramo": 400,
         "fiwareid": "EstadoTrafico_400",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1871,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3526208272170453,
+            39.47551609171354
+          ],
+          [
+            -0.35517358406138994,
+            39.47622290508532
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1871,
+        "denominacion": "BLASCO IBAÑEZ A VIVERS (DES DE CLARIANO A AV. ARAGO)",
+        "estado": 0,
+        "idtramo": 421,
+        "fiwareid": "EstadoTrafico_421",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -14328,35 +14357,6 @@
     },
     {
       "type": "Feature",
-      "id": 1871,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3526208272170453,
-            39.47551609171354
-          ],
-          [
-            -0.35517358406138994,
-            39.47622290508532
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1871,
-        "denominacion": "BLASCO IBAÑEZ A VIVERS (DES DE CLARIANO A AV. ARAGO)",
-        "estado": 0,
-        "idtramo": 421,
-        "fiwareid": "EstadoTrafico_421",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1894,
       "geometry": {
         "type": "LineString",
@@ -15305,6 +15305,35 @@
         "estado": 0,
         "idtramo": 432,
         "fiwareid": "EstadoTrafico_432",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1884,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.34112628869478884,
+            39.451476088193544
+          ],
+          [
+            -0.34035376799260375,
+            39.452732171321614
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1884,
+        "denominacion": "ACCES DES DE EDUARDO PRIMO YUFERA A CAMI DE LES MORERES",
+        "estado": 0,
+        "idtramo": 466,
+        "fiwareid": "EstadoTrafico_466",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17814,35 +17843,6 @@
         "estado": 0,
         "idtramo": 316,
         "fiwareid": "EstadoTrafico_316",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1884,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.34112628869478884,
-            39.451476088193544
-          ],
-          [
-            -0.34035376799260375,
-            39.452732171321614
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1884,
-        "denominacion": "ACCES DES DE EDUARDO PRIMO YUFERA A CAMI DE LES MORERES",
-        "estado": 0,
-        "idtramo": 466,
-        "fiwareid": "EstadoTrafico_466",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
