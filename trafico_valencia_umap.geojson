@@ -24371,11 +24371,11 @@
       "properties": {
         "gid": 1919,
         "denominacion": "PAS INFERIOR GERMANIES CAP A MARQUES DEL TURIA",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 226,
         "fiwareid": "EstadoTrafico_226",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
