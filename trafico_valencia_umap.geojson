@@ -327,11 +327,11 @@
       "properties": {
         "gid": 1916,
         "denominacion": "JESUS",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 71,
         "fiwareid": "EstadoTrafico_71",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
@@ -1297,11 +1297,11 @@
       "properties": {
         "gid": 1906,
         "denominacion": "TRES CREUS (DES DE TRES FORQUES A AV. DEL CID)",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 67,
         "fiwareid": "EstadoTrafico_67",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -5862,11 +5862,11 @@
       "properties": {
         "gid": 1915,
         "denominacion": "SANT PIUS V - TRINITAT - GUADALAVIAR - PLA DE LA ZAIDIA",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 64,
         "fiwareid": "EstadoTrafico_64",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
@@ -11552,11 +11552,11 @@
       "properties": {
         "gid": 1943,
         "denominacion": "AUSIAS MARCH (DE V-31 A A. FERRANDIS)",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 190,
         "fiwareid": "EstadoTrafico_190",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -14451,11 +14451,11 @@
       "properties": {
         "gid": 1939,
         "denominacion": "PASO ELEVADO HACIA GIORGETA",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 19,
         "fiwareid": "EstadoTrafico_19",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -16662,11 +16662,11 @@
       "properties": {
         "gid": 2138,
         "denominacion": "BURJASSOT (DE PESET ALEIXANDRE A BENICALAP)",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 351,
         "fiwareid": "EstadoTrafico_351",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
@@ -22166,11 +22166,11 @@
       "properties": {
         "gid": 2063,
         "denominacion": "ACCESO DESDE CV-30 A MAESTRO RODRIGO",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 258,
         "fiwareid": "EstadoTrafico_258",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
