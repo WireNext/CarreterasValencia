@@ -194,6 +194,35 @@
     },
     {
       "type": "Feature",
+      "id": 1888,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36632922319712624,
+            39.479623504460015
+          ],
+          [
+            -0.36402128142105983,
+            39.48428311828256
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1888,
+        "denominacion": "CAVANILLES",
+        "estado": 0,
+        "idtramo": 12,
+        "fiwareid": "EstadoTrafico_12",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2079,
       "geometry": {
         "type": "LineString",
@@ -243,35 +272,6 @@
         "estado": 0,
         "idtramo": 383,
         "fiwareid": "EstadoTrafico_383",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1888,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36632922319712624,
-            39.479623504460015
-          ],
-          [
-            -0.36402128142105983,
-            39.48428311828256
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1888,
-        "denominacion": "CAVANILLES",
-        "estado": 0,
-        "idtramo": 12,
-        "fiwareid": "EstadoTrafico_12",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -15786,6 +15786,35 @@
     },
     {
       "type": "Feature",
+      "id": 2056,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39391438166559034,
+            39.48293934908677
+          ],
+          [
+            -0.3981963241229932,
+            39.488874595114716
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2056,
+        "denominacion": "PASO INFERIOR PIO XII DE SALIDA",
+        "estado": 0,
+        "idtramo": 280,
+        "fiwareid": "EstadoTrafico_280",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1958,
       "geometry": {
         "type": "LineString",
@@ -20020,35 +20049,6 @@
         "estado": 0,
         "idtramo": 316,
         "fiwareid": "EstadoTrafico_316",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2056,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39391438166559034,
-            39.48293934908677
-          ],
-          [
-            -0.3981963241229932,
-            39.488874595114716
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2056,
-        "denominacion": "PASO INFERIOR PIO XII DE SALIDA",
-        "estado": 0,
-        "idtramo": 280,
-        "fiwareid": "EstadoTrafico_280",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
