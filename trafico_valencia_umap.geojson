@@ -1683,6 +1683,35 @@
     },
     {
       "type": "Feature",
+      "id": 2174,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.380291671524975,
+            39.446281753758115
+          ],
+          [
+            -0.37871596337159824,
+            39.4527439250366
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2174,
+        "denominacion": "MALILLA HACIA FDO. ABRIL MARTORELL",
+        "estado": 0,
+        "idtramo": 405,
+        "fiwareid": "EstadoTrafico_405",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2164,
       "geometry": {
         "type": "LineString",
@@ -2644,35 +2673,6 @@
     },
     {
       "type": "Feature",
-      "id": 2174,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.380291671524975,
-            39.446281753758115
-          ],
-          [
-            -0.37871596337159824,
-            39.4527439250366
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2174,
-        "denominacion": "MALILLA HACIA FDO. ABRIL MARTORELL",
-        "estado": 0,
-        "idtramo": 405,
-        "fiwareid": "EstadoTrafico_405",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2080,
       "geometry": {
         "type": "LineString",
@@ -3078,6 +3078,35 @@
         "estado": 0,
         "idtramo": 251,
         "fiwareid": "EstadoTrafico_251",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1884,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.34112628869478884,
+            39.451476088193544
+          ],
+          [
+            -0.34035376799260375,
+            39.452732171321614
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1884,
+        "denominacion": "ACCES DES DE EDUARDO PRIMO YUFERA A CAMI DE LES MORERES",
+        "estado": 0,
+        "idtramo": 466,
+        "fiwareid": "EstadoTrafico_466",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -4020,35 +4049,6 @@
         "estado": 0,
         "idtramo": 342,
         "fiwareid": "EstadoTrafico_342",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1884,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.34112628869478884,
-            39.451476088193544
-          ],
-          [
-            -0.34035376799260375,
-            39.452732171321614
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1884,
-        "denominacion": "ACCES DES DE EDUARDO PRIMO YUFERA A CAMI DE LES MORERES",
-        "estado": 0,
-        "idtramo": 466,
-        "fiwareid": "EstadoTrafico_466",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10282,6 +10282,35 @@
     },
     {
       "type": "Feature",
+      "id": 2124,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36493637268252543,
+            39.473710937639765
+          ],
+          [
+            -0.3671526929298296,
+            39.476493354929026
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2124,
+        "denominacion": "PASEO DE LA ALAMEDA (DE LLANO DEL REAL A PUENTE DE LA EXPOSICION)",
+        "estado": 0,
+        "idtramo": 331,
+        "fiwareid": "EstadoTrafico_331",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1961,
       "geometry": {
         "type": "LineString",
@@ -12008,35 +12037,6 @@
     },
     {
       "type": "Feature",
-      "id": 2124,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36493637268252543,
-            39.473710937639765
-          ],
-          [
-            -0.3671526929298296,
-            39.476493354929026
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2124,
-        "denominacion": "PASEO DE LA ALAMEDA (DE LLANO DEL REAL A PUENTE DE LA EXPOSICION)",
-        "estado": 0,
-        "idtramo": 331,
-        "fiwareid": "EstadoTrafico_331",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1917,
       "geometry": {
         "type": "LineString",
@@ -12591,6 +12591,35 @@
         "estado": 0,
         "idtramo": 473,
         "fiwareid": "EstadoTrafico_473",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2079,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3918969130723222,
+            39.46898583138683
+          ],
+          [
+            -0.395167137202115,
+            39.46830267004622
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2079,
+        "denominacion": "LINARES",
+        "estado": 0,
+        "idtramo": 238,
+        "fiwareid": "EstadoTrafico_238",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -13157,11 +13186,11 @@
       "properties": {
         "gid": 1999,
         "denominacion": "VÍA DE SERVICIO DEL PASO INFERIOR A. FERRANDIS (DE CRA. MALILLA A A. MARCH)",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 132,
         "fiwareid": "EstadoTrafico_132",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
@@ -17309,11 +17338,11 @@
       "properties": {
         "gid": 1919,
         "denominacion": "PAS INFERIOR GERMANIES CAP A MARQUES DEL TURIA",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 226,
         "fiwareid": "EstadoTrafico_226",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -17399,6 +17428,35 @@
         "estado": 0,
         "idtramo": 261,
         "fiwareid": "EstadoTrafico_261",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2232,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39854374674257903,
+            39.48871783696749
+          ],
+          [
+            -0.3965175164633626,
+            39.48593691438882
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2232,
+        "denominacion": "VÍA DE SERVICIO DE CORTES VALENCIANAS A GRAL. AVILÉS",
+        "estado": 0,
+        "idtramo": 431,
+        "fiwareid": "EstadoTrafico_431",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17774,11 +17832,11 @@
       "properties": {
         "gid": 2105,
         "denominacion": "AUSIAS MARCH DE SALIDA",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 318,
         "fiwareid": "EstadoTrafico_318",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
@@ -19179,64 +19237,6 @@
     },
     {
       "type": "Feature",
-      "id": 2079,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3918969130723222,
-            39.46898583138683
-          ],
-          [
-            -0.395167137202115,
-            39.46830267004622
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2079,
-        "denominacion": "LINARES",
-        "estado": 0,
-        "idtramo": 238,
-        "fiwareid": "EstadoTrafico_238",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2232,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39854374674257903,
-            39.48871783696749
-          ],
-          [
-            -0.3965175164633626,
-            39.48593691438882
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2232,
-        "denominacion": "VÍA DE SERVICIO DE CORTES VALENCIANAS A GRAL. AVILÉS",
-        "estado": 0,
-        "idtramo": 431,
-        "fiwareid": "EstadoTrafico_431",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2073,
       "geometry": {
         "type": "LineString",
@@ -19677,11 +19677,11 @@
       "properties": {
         "gid": 1943,
         "denominacion": "AUSIAS MARCH (DE V-31 A A. FERRANDIS)",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 190,
         "fiwareid": "EstadoTrafico_190",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
