@@ -227,6 +227,151 @@
     },
     {
       "type": "Feature",
+      "id": 2209,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37954099582657297,
+            39.46833647999582
+          ],
+          [
+            -0.37936102047738124,
+            39.46884065327345
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2209,
+        "denominacion": "PL. SAN AGUSTÍN",
+        "estado": 0,
+        "idtramo": 448,
+        "fiwareid": "EstadoTrafico_448",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1954,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.34661534511317676,
+            39.45667149151433
+          ],
+          [
+            -0.33918471425062374,
+            39.46130023941925
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1954,
+        "denominacion": "MENORCA HACIA AV. DEL PUERTO",
+        "estado": 0,
+        "idtramo": 198,
+        "fiwareid": "EstadoTrafico_198",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1859,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3820981057104063,
+            39.482693705752965
+          ],
+          [
+            -0.3838901481611286,
+            39.481939164902236
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1859,
+        "denominacion": "MAURO GUILLEN",
+        "estado": 0,
+        "idtramo": 383,
+        "fiwareid": "EstadoTrafico_383",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1916,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38286911217213654,
+            39.466853169529244
+          ],
+          [
+            -0.3865637979301861,
+            39.462569091918574
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1916,
+        "denominacion": "JESUS",
+        "estado": 0,
+        "idtramo": 71,
+        "fiwareid": "EstadoTrafico_71",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1860,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3748881208627105,
+            39.46707693838494
+          ],
+          [
+            -0.3739313045285729,
+            39.4651362307989
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1860,
+        "denominacion": "RUSSAFA",
+        "estado": 0,
+        "idtramo": 158,
+        "fiwareid": "EstadoTrafico_158",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2133,
       "geometry": {
         "type": "LineString",
@@ -247,6 +392,35 @@
         "estado": 0,
         "idtramo": 342,
         "fiwareid": "EstadoTrafico_342",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1881,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33510290823382965,
+            39.45234417803024
+          ],
+          [
+            -0.33547420456713456,
+            39.45010468930301
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1881,
+        "denominacion": "CAMI CANAL D'EIXIDA",
+        "estado": 0,
+        "idtramo": 463,
+        "fiwareid": "EstadoTrafico_463",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -6132,35 +6306,6 @@
     },
     {
       "type": "Feature",
-      "id": 2209,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37954099582657297,
-            39.46833647999582
-          ],
-          [
-            -0.37936102047738124,
-            39.46884065327345
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2209,
-        "denominacion": "PL. SAN AGUSTÍN",
-        "estado": 0,
-        "idtramo": 448,
-        "fiwareid": "EstadoTrafico_448",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2112,
       "geometry": {
         "type": "LineString",
@@ -6519,35 +6664,6 @@
         "estado": 0,
         "idtramo": 331,
         "fiwareid": "EstadoTrafico_331",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1954,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.34661534511317676,
-            39.45667149151433
-          ],
-          [
-            -0.33918471425062374,
-            39.46130023941925
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1954,
-        "denominacion": "MENORCA HACIA AV. DEL PUERTO",
-        "estado": 0,
-        "idtramo": 198,
-        "fiwareid": "EstadoTrafico_198",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -13369,35 +13485,6 @@
     },
     {
       "type": "Feature",
-      "id": 1881,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.33510290823382965,
-            39.45234417803024
-          ],
-          [
-            -0.33547420456713456,
-            39.45010468930301
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1881,
-        "denominacion": "CAMI CANAL D'EIXIDA",
-        "estado": 0,
-        "idtramo": 463,
-        "fiwareid": "EstadoTrafico_463",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2183,
       "geometry": {
         "type": "LineString",
@@ -14373,35 +14460,6 @@
         "estado": 0,
         "idtramo": 409,
         "fiwareid": "EstadoTrafico_409",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1859,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3820981057104063,
-            39.482693705752965
-          ],
-          [
-            -0.3838901481611286,
-            39.481939164902236
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1859,
-        "denominacion": "MAURO GUILLEN",
-        "estado": 0,
-        "idtramo": 383,
-        "fiwareid": "EstadoTrafico_383",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17379,35 +17437,6 @@
         "estado": 0,
         "idtramo": 220,
         "fiwareid": "EstadoTrafico_220",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1916,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.38286911217213654,
-            39.466853169529244
-          ],
-          [
-            -0.3865637979301861,
-            39.462569091918574
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1916,
-        "denominacion": "JESUS",
-        "estado": 0,
-        "idtramo": 71,
-        "fiwareid": "EstadoTrafico_71",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -22034,35 +22063,6 @@
         "estado": 0,
         "idtramo": 328,
         "fiwareid": "EstadoTrafico_328",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1860,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3748881208627105,
-            39.46707693838494
-          ],
-          [
-            -0.3739313045285729,
-            39.4651362307989
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1860,
-        "denominacion": "RUSSAFA",
-        "estado": 0,
-        "idtramo": 158,
-        "fiwareid": "EstadoTrafico_158",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
