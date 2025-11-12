@@ -223,6 +223,126 @@
     },
     {
       "type": "Feature",
+      "id": 2133,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3484301513905571,
+            39.48333316130381
+          ],
+          [
+            -0.342939253756237,
+            39.486872774186224
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2133,
+        "denominacion": "V-21 SENTIDO SALIDA",
+        "estado": 0,
+        "idtramo": 342,
+        "fiwareid": "EstadoTrafico_342",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2214,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.32881575445235534,
+            39.46753248538772
+          ],
+          [
+            -0.32901424587909717,
+            39.46616183729602
+          ],
+          [
+            -0.3294775711301634,
+            39.463220997542855
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2214,
+        "denominacion": "REINA",
+        "estado": 0,
+        "idtramo": 264,
+        "fiwareid": "EstadoTrafico_264",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1994,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3738927240300245,
+            39.47035381270459
+          ],
+          [
+            -0.3738534302413184,
+            39.46795997255577
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1994,
+        "denominacion": "PASCUAL Y GENÍS",
+        "estado": 0,
+        "idtramo": 139,
+        "fiwareid": "EstadoTrafico_139",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2129,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3798557831493669,
+            39.47310564815366
+          ],
+          [
+            -0.37967678730994064,
+            39.46894441096039
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2129,
+        "denominacion": "OEST (SANT AGUSTI)",
+        "estado": 0,
+        "idtramo": 337,
+        "fiwareid": "EstadoTrafico_337",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2025,
       "geometry": {
         "type": "LineString",
@@ -326,6 +446,35 @@
     },
     {
       "type": "Feature",
+      "id": 2020,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36503105823729254,
+            39.47071919710535
+          ],
+          [
+            -0.36331217509497554,
+            39.471535980912435
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2020,
+        "denominacion": "PUENTE DE LAS FLORES",
+        "estado": 0,
+        "idtramo": 172,
+        "fiwareid": "EstadoTrafico_172",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2092,
       "geometry": {
         "type": "LineString",
@@ -346,6 +495,96 @@
         "estado": 0,
         "idtramo": 309,
         "fiwareid": "EstadoTrafico_309",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2209,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37954099582657297,
+            39.46833647999582
+          ],
+          [
+            -0.37936102047738124,
+            39.46884065327345
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2209,
+        "denominacion": "PL. SAN AGUSTÍN",
+        "estado": 0,
+        "idtramo": 448,
+        "fiwareid": "EstadoTrafico_448",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2072,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3546700239706787,
+            39.47822381942144
+          ],
+          [
+            -0.35405097481128395,
+            39.479305469299355
+          ],
+          [
+            -0.35392342542829275,
+            39.479484541757024
+          ],
+          [
+            -0.3537538278314931,
+            39.47968967377057
+          ],
+          [
+            -0.3535195209517824,
+            39.4799421051875
+          ],
+          [
+            -0.3532865212104822,
+            39.48015972002052
+          ],
+          [
+            -0.3530078241559319,
+            39.48039719372494
+          ],
+          [
+            -0.3526564820968956,
+            39.48065391203284
+          ],
+          [
+            -0.3486203116668841,
+            39.483250836349605
+          ],
+          [
+            -0.34858359149230655,
+            39.48327089876219
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2072,
+        "denominacion": "PASO INFERIOR CATALUÑA DE SALIDA",
+        "estado": 0,
+        "idtramo": 277,
+        "fiwareid": "EstadoTrafico_277",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -1435,35 +1674,6 @@
         "estado": 0,
         "idtramo": 292,
         "fiwareid": "EstadoTrafico_292",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2129,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3798557831493669,
-            39.47310564815366
-          ],
-          [
-            -0.37967678730994064,
-            39.46894441096039
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2129,
-        "denominacion": "OEST (SANT AGUSTI)",
-        "estado": 0,
-        "idtramo": 337,
-        "fiwareid": "EstadoTrafico_337",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -6233,11 +6443,11 @@
       "properties": {
         "gid": 2111,
         "denominacion": "PUENTE DE GLORIAS VALENCIANAS HACIA FERNANDO EL CATOLICO",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 322,
         "fiwareid": "EstadoTrafico_322",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
@@ -7550,11 +7760,11 @@
       "properties": {
         "gid": 1893,
         "denominacion": "FERRAN EL CATOLIC CAP A RAMON Y CAJAL",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 24,
         "fiwareid": "EstadoTrafico_24",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
@@ -8459,35 +8669,6 @@
     },
     {
       "type": "Feature",
-      "id": 1994,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3738927240300245,
-            39.47035381270459
-          ],
-          [
-            -0.3738534302413184,
-            39.46795997255577
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1994,
-        "denominacion": "PASCUAL Y GENÍS",
-        "estado": 0,
-        "idtramo": 139,
-        "fiwareid": "EstadoTrafico_139",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2130,
       "geometry": {
         "type": "LineString",
@@ -8585,35 +8766,6 @@
         "estado": 0,
         "idtramo": 267,
         "fiwareid": "EstadoTrafico_267",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2133,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3484301513905571,
-            39.48333316130381
-          ],
-          [
-            -0.342939253756237,
-            39.486872774186224
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2133,
-        "denominacion": "V-21 SENTIDO SALIDA",
-        "estado": 0,
-        "idtramo": 342,
-        "fiwareid": "EstadoTrafico_342",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11811,39 +11963,6 @@
         "estado": 0,
         "idtramo": 80,
         "fiwareid": "EstadoTrafico_80",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2214,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.32881575445235534,
-            39.46753248538772
-          ],
-          [
-            -0.32901424587909717,
-            39.46616183729602
-          ],
-          [
-            -0.3294775711301634,
-            39.463220997542855
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2214,
-        "denominacion": "REINA",
-        "estado": 0,
-        "idtramo": 264,
-        "fiwareid": "EstadoTrafico_264",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18765,35 +18884,6 @@
     },
     {
       "type": "Feature",
-      "id": 2020,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36503105823729254,
-            39.47071919710535
-          ],
-          [
-            -0.36331217509497554,
-            39.471535980912435
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2020,
-        "denominacion": "PUENTE DE LAS FLORES",
-        "estado": 0,
-        "idtramo": 172,
-        "fiwareid": "EstadoTrafico_172",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1887,
       "geometry": {
         "type": "LineString",
@@ -23323,67 +23413,6 @@
     },
     {
       "type": "Feature",
-      "id": 2072,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3546700239706787,
-            39.47822381942144
-          ],
-          [
-            -0.35405097481128395,
-            39.479305469299355
-          ],
-          [
-            -0.35392342542829275,
-            39.479484541757024
-          ],
-          [
-            -0.3537538278314931,
-            39.47968967377057
-          ],
-          [
-            -0.3535195209517824,
-            39.4799421051875
-          ],
-          [
-            -0.3532865212104822,
-            39.48015972002052
-          ],
-          [
-            -0.3530078241559319,
-            39.48039719372494
-          ],
-          [
-            -0.3526564820968956,
-            39.48065391203284
-          ],
-          [
-            -0.3486203116668841,
-            39.483250836349605
-          ],
-          [
-            -0.34858359149230655,
-            39.48327089876219
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2072,
-        "denominacion": "PASO INFERIOR CATALUÑA DE SALIDA",
-        "estado": 0,
-        "idtramo": 277,
-        "fiwareid": "EstadoTrafico_277",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1998,
       "geometry": {
         "type": "LineString",
@@ -23651,35 +23680,6 @@
         "estado": 0,
         "idtramo": 275,
         "fiwareid": "EstadoTrafico_275",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2209,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37954099582657297,
-            39.46833647999582
-          ],
-          [
-            -0.37936102047738124,
-            39.46884065327345
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2209,
-        "denominacion": "PL. SAN AGUSTÍN",
-        "estado": 0,
-        "idtramo": 448,
-        "fiwareid": "EstadoTrafico_448",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -24606,6 +24606,35 @@
     },
     {
       "type": "Feature",
+      "id": 1888,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36632922319712624,
+            39.479623504460015
+          ],
+          [
+            -0.36402128142105983,
+            39.48428311828256
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1888,
+        "denominacion": "CAVANILLES",
+        "estado": 0,
+        "idtramo": 12,
+        "fiwareid": "EstadoTrafico_12",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2194,
       "geometry": {
         "type": "LineString",
@@ -24684,35 +24713,6 @@
         "estado": 0,
         "idtramo": 333,
         "fiwareid": "EstadoTrafico_333",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1888,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36632922319712624,
-            39.479623504460015
-          ],
-          [
-            -0.36402128142105983,
-            39.48428311828256
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1888,
-        "denominacion": "CAVANILLES",
-        "estado": 0,
-        "idtramo": 12,
-        "fiwareid": "EstadoTrafico_12",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
