@@ -1290,6 +1290,35 @@
     },
     {
       "type": "Feature",
+      "id": 2045,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.403255053312143,
+            39.49446193074136
+          ],
+          [
+            -0.40781425430617946,
+            39.49249666005295
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2045,
+        "denominacion": "CAMP DE TURIA (DE CORTES VALENCIANAS A MAESTRO RODRIGO)",
+        "estado": 0,
+        "idtramo": 250,
+        "fiwareid": "EstadoTrafico_250",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1932,
       "geometry": {
         "type": "LineString",
@@ -2315,35 +2344,6 @@
     },
     {
       "type": "Feature",
-      "id": 2045,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.403255053312143,
-            39.49446193074136
-          ],
-          [
-            -0.40781425430617946,
-            39.49249666005295
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2045,
-        "denominacion": "CAMP DE TURIA (DE CORTES VALENCIANAS A MAESTRO RODRIGO)",
-        "estado": 0,
-        "idtramo": 250,
-        "fiwareid": "EstadoTrafico_250",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1890,
       "geometry": {
         "type": "LineString",
@@ -3244,6 +3244,35 @@
     },
     {
       "type": "Feature",
+      "id": 1926,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37531675759923583,
+            39.46434822360575
+          ],
+          [
+            -0.37395964942362264,
+            39.4649335787078
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1926,
+        "denominacion": "GERMANIES CAP A PAS INFERIOR",
+        "estado": 0,
+        "idtramo": 130,
+        "fiwareid": "EstadoTrafico_130",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1992,
       "geometry": {
         "type": "LineString",
@@ -3709,6 +3738,63 @@
         "estado": 0,
         "idtramo": 99,
         "fiwareid": "EstadoTrafico_99",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2000,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3516319395192592,
+            39.465329593686924
+          ],
+          [
+            -0.3525873936039381,
+            39.465618392402355
+          ],
+          [
+            -0.35276335365340955,
+            39.46566883195531
+          ],
+          [
+            -0.35294147204819365,
+            39.46571446467875
+          ],
+          [
+            -0.35312155407224755,
+            39.46575521405738
+          ],
+          [
+            -0.3533033688046901,
+            39.46579103878759
+          ],
+          [
+            -0.35348669659423076,
+            39.46582190683252
+          ],
+          [
+            -0.35562119734915826,
+            39.46620884758632
+          ],
+          [
+            -0.3566043963242359,
+            39.46641119302703
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2000,
+        "denominacion": "ISLAS CANARIAS (DE MANUEL CANDELA A E.BOSCÁ)",
+        "estado": 0,
+        "idtramo": 5,
+        "fiwareid": "EstadoTrafico_5",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -4361,35 +4447,6 @@
     },
     {
       "type": "Feature",
-      "id": 1926,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37531675759923583,
-            39.46434822360575
-          ],
-          [
-            -0.37395964942362264,
-            39.4649335787078
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1926,
-        "denominacion": "GERMANIES CAP A PAS INFERIOR",
-        "estado": 0,
-        "idtramo": 130,
-        "fiwareid": "EstadoTrafico_130",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2218,
       "geometry": {
         "type": "LineString",
@@ -4758,63 +4815,6 @@
         "estado": 0,
         "idtramo": 190,
         "fiwareid": "EstadoTrafico_190",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2000,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3516319395192592,
-            39.465329593686924
-          ],
-          [
-            -0.3525873936039381,
-            39.465618392402355
-          ],
-          [
-            -0.35276335365340955,
-            39.46566883195531
-          ],
-          [
-            -0.35294147204819365,
-            39.46571446467875
-          ],
-          [
-            -0.35312155407224755,
-            39.46575521405738
-          ],
-          [
-            -0.3533033688046901,
-            39.46579103878759
-          ],
-          [
-            -0.35348669659423076,
-            39.46582190683252
-          ],
-          [
-            -0.35562119734915826,
-            39.46620884758632
-          ],
-          [
-            -0.3566043963242359,
-            39.46641119302703
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2000,
-        "denominacion": "ISLAS CANARIAS (DE MANUEL CANDELA A E.BOSCÁ)",
-        "estado": 0,
-        "idtramo": 5,
-        "fiwareid": "EstadoTrafico_5",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -5893,6 +5893,35 @@
     },
     {
       "type": "Feature",
+      "id": 2113,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3930808846739177,
+            39.471382734353426
+          ],
+          [
+            -0.3956012962274996,
+            39.47493782174286
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2113,
+        "denominacion": "PÉREZ GALDÓS HACIA PUENTE CAMPANAR",
+        "estado": 3,
+        "idtramo": 344,
+        "fiwareid": null,
+        "_umap_options": {
+          "color": "#000000",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2231,
       "geometry": {
         "type": "LineString",
@@ -6334,6 +6363,35 @@
         "estado": 0,
         "idtramo": 187,
         "fiwareid": "EstadoTrafico_187",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1878,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37841520460234424,
+            39.48571824614087
+          ],
+          [
+            -0.3743267047695734,
+            39.49165409853713
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1878,
+        "denominacion": "CONSTITUCIO (DES DE PL. DON BOSCO HASTA REUS)",
+        "estado": 0,
+        "idtramo": 460,
+        "fiwareid": "EstadoTrafico_460",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -7298,6 +7356,35 @@
         "estado": 0,
         "idtramo": 67,
         "fiwareid": "EstadoTrafico_67",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2129,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3798557831493669,
+            39.47310564815366
+          ],
+          [
+            -0.37967678730994064,
+            39.46894441096039
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2129,
+        "denominacion": "OEST (SANT AGUSTI)",
+        "estado": 0,
+        "idtramo": 337,
+        "fiwareid": "EstadoTrafico_337",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -8830,28 +8917,28 @@
     },
     {
       "type": "Feature",
-      "id": 2113,
+      "id": 2020,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.3930808846739177,
-            39.471382734353426
+            -0.36503105823729254,
+            39.47071919710535
           ],
           [
-            -0.3956012962274996,
-            39.47493782174286
+            -0.36331217509497554,
+            39.471535980912435
           ]
         ]
       },
       "properties": {
-        "gid": 2113,
-        "denominacion": "PÉREZ GALDÓS HACIA PUENTE CAMPANAR",
-        "estado": 3,
-        "idtramo": 344,
-        "fiwareid": null,
+        "gid": 2020,
+        "denominacion": "PUENTE DE LAS FLORES",
+        "estado": 0,
+        "idtramo": 172,
+        "fiwareid": "EstadoTrafico_172",
         "_umap_options": {
-          "color": "#000000",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -9376,6 +9463,35 @@
         "estado": 0,
         "idtramo": 385,
         "fiwareid": "EstadoTrafico_385",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1863,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35552816436737716,
+            39.476706673380434
+          ],
+          [
+            -0.3549581517630055,
+            39.47792361196983
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1863,
+        "denominacion": "AV. CATALUNYA D'ENTRADA",
+        "estado": 0,
+        "idtramo": 1,
+        "fiwareid": "EstadoTrafico_1",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10848,64 +10964,6 @@
         "estado": 0,
         "idtramo": 39,
         "fiwareid": "EstadoTrafico_39",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1878,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37841520460234424,
-            39.48571824614087
-          ],
-          [
-            -0.3743267047695734,
-            39.49165409853713
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1878,
-        "denominacion": "CONSTITUCIO (DES DE PL. DON BOSCO HASTA REUS)",
-        "estado": 0,
-        "idtramo": 460,
-        "fiwareid": "EstadoTrafico_460",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1863,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35552816436737716,
-            39.476706673380434
-          ],
-          [
-            -0.3549581517630055,
-            39.47792361196983
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1863,
-        "denominacion": "AV. CATALUNYA D'ENTRADA",
-        "estado": 0,
-        "idtramo": 1,
-        "fiwareid": "EstadoTrafico_1",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -12982,6 +13040,87 @@
     },
     {
       "type": "Feature",
+      "id": 2259,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4123927569545658,
+            39.46332857323549
+          ],
+          [
+            -0.4133641039485982,
+            39.46329074855578
+          ],
+          [
+            -0.4137845459205592,
+            39.46326688524626
+          ],
+          [
+            -0.41398241452283563,
+            39.46323491768384
+          ],
+          [
+            -0.41413147756666463,
+            39.46317664357057
+          ],
+          [
+            -0.41420942996885746,
+            39.46311750332648
+          ],
+          [
+            -0.4142878315245316,
+            39.46304619844966
+          ],
+          [
+            -0.4143238041970296,
+            39.462985952958206
+          ],
+          [
+            -0.41436627812871396,
+            39.46290041377939
+          ],
+          [
+            -0.4143857878442052,
+            39.46280237379283
+          ],
+          [
+            -0.414368663729916,
+            39.46268002097494
+          ],
+          [
+            -0.4143259420136327,
+            39.46258619186494
+          ],
+          [
+            -0.414256808200348,
+            39.46246491969533
+          ],
+          [
+            -0.413975086142871,
+            39.46200097880894
+          ],
+          [
+            -0.4137841137963254,
+            39.46169501088449
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2259,
+        "denominacion": "PASO INFERIOR DE TRES FORQUES HACIA ROS CASARES",
+        "estado": 0,
+        "idtramo": 476,
+        "fiwareid": "EstadoTrafico_476",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1949,
       "geometry": {
         "type": "LineString",
@@ -14123,35 +14262,6 @@
     },
     {
       "type": "Feature",
-      "id": 2129,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3798557831493669,
-            39.47310564815366
-          ],
-          [
-            -0.37967678730994064,
-            39.46894441096039
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2129,
-        "denominacion": "OEST (SANT AGUSTI)",
-        "estado": 0,
-        "idtramo": 337,
-        "fiwareid": "EstadoTrafico_337",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1897,
       "geometry": {
         "type": "LineString",
@@ -14848,87 +14958,6 @@
         "estado": 0,
         "idtramo": 257,
         "fiwareid": "EstadoTrafico_257",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2259,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.4123927569545658,
-            39.46332857323549
-          ],
-          [
-            -0.4133641039485982,
-            39.46329074855578
-          ],
-          [
-            -0.4137845459205592,
-            39.46326688524626
-          ],
-          [
-            -0.41398241452283563,
-            39.46323491768384
-          ],
-          [
-            -0.41413147756666463,
-            39.46317664357057
-          ],
-          [
-            -0.41420942996885746,
-            39.46311750332648
-          ],
-          [
-            -0.4142878315245316,
-            39.46304619844966
-          ],
-          [
-            -0.4143238041970296,
-            39.462985952958206
-          ],
-          [
-            -0.41436627812871396,
-            39.46290041377939
-          ],
-          [
-            -0.4143857878442052,
-            39.46280237379283
-          ],
-          [
-            -0.414368663729916,
-            39.46268002097494
-          ],
-          [
-            -0.4143259420136327,
-            39.46258619186494
-          ],
-          [
-            -0.414256808200348,
-            39.46246491969533
-          ],
-          [
-            -0.413975086142871,
-            39.46200097880894
-          ],
-          [
-            -0.4137841137963254,
-            39.46169501088449
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2259,
-        "denominacion": "PASO INFERIOR DE TRES FORQUES HACIA ROS CASARES",
-        "estado": 0,
-        "idtramo": 476,
-        "fiwareid": "EstadoTrafico_476",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17623,6 +17652,35 @@
     },
     {
       "type": "Feature",
+      "id": 2008,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37345640146543774,
+            39.4990391360001
+          ],
+          [
+            -0.36681005096963604,
+            39.49710959707954
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2008,
+        "denominacion": "PASO INFERIOR HNOS. MACHADO HACIA JUAN XXIII",
+        "estado": 0,
+        "idtramo": 217,
+        "fiwareid": "EstadoTrafico_217",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1904,
       "geometry": {
         "type": "LineString",
@@ -17764,6 +17822,35 @@
         "estado": 0,
         "idtramo": 214,
         "fiwareid": "EstadoTrafico_214",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2176,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.386705374669799,
+            39.44659672649728
+          ],
+          [
+            -0.3892691646366351,
+            39.44719366535951
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2176,
+        "denominacion": "TOMAS SALA (DE SAN VICENTE A CARTEROS)",
+        "estado": 0,
+        "idtramo": 407,
+        "fiwareid": "EstadoTrafico_407",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18150,35 +18237,6 @@
         "estado": 0,
         "idtramo": 461,
         "fiwareid": "EstadoTrafico_461",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2020,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36503105823729254,
-            39.47071919710535
-          ],
-          [
-            -0.36331217509497554,
-            39.471535980912435
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2020,
-        "denominacion": "PUENTE DE LAS FLORES",
-        "estado": 0,
-        "idtramo": 172,
-        "fiwareid": "EstadoTrafico_172",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18973,35 +19031,6 @@
         "estado": 0,
         "idtramo": 286,
         "fiwareid": "EstadoTrafico_286",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2176,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.386705374669799,
-            39.44659672649728
-          ],
-          [
-            -0.3892691646366351,
-            39.44719366535951
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2176,
-        "denominacion": "TOMAS SALA (DE SAN VICENTE A CARTEROS)",
-        "estado": 0,
-        "idtramo": 407,
-        "fiwareid": "EstadoTrafico_407",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -19809,35 +19838,6 @@
         "estado": 0,
         "idtramo": 146,
         "fiwareid": "EstadoTrafico_146",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2008,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37345640146543774,
-            39.4990391360001
-          ],
-          [
-            -0.36681005096963604,
-            39.49710959707954
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2008,
-        "denominacion": "PASO INFERIOR HNOS. MACHADO HACIA JUAN XXIII",
-        "estado": 0,
-        "idtramo": 217,
-        "fiwareid": "EstadoTrafico_217",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -21227,6 +21227,35 @@
         "estado": 0,
         "idtramo": 256,
         "fiwareid": "EstadoTrafico_256",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2049,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36688728584119024,
+            39.49701621500626
+          ],
+          [
+            -0.3735332603571574,
+            39.498955254202
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2049,
+        "denominacion": "PASO INFERIOR HNOS. MACHADO HACIA ALFAHUIR",
+        "estado": 0,
+        "idtramo": 212,
+        "fiwareid": "EstadoTrafico_212",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -22634,35 +22663,6 @@
         "estado": 0,
         "idtramo": 69,
         "fiwareid": "EstadoTrafico_69",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2049,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36688728584119024,
-            39.49701621500626
-          ],
-          [
-            -0.3735332603571574,
-            39.498955254202
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2049,
-        "denominacion": "PASO INFERIOR HNOS. MACHADO HACIA ALFAHUIR",
-        "estado": 0,
-        "idtramo": 212,
-        "fiwareid": "EstadoTrafico_212",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
