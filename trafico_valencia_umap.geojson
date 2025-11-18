@@ -194,6 +194,35 @@
     },
     {
       "type": "Feature",
+      "id": 1988,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3755563847064595,
+            39.46913323629644
+          ],
+          [
+            -0.3722532169370442,
+            39.469160266215724
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1988,
+        "denominacion": "ROGER DE LAURIA",
+        "estado": 0,
+        "idtramo": 53,
+        "fiwareid": "EstadoTrafico_53",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2121,
       "geometry": {
         "type": "LineString",
@@ -243,6 +272,122 @@
         "estado": 0,
         "idtramo": 181,
         "fiwareid": "EstadoTrafico_181",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1959,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3694586304622647,
+            39.47349896936148
+          ],
+          [
+            -0.3686502767783566,
+            39.47246632432795
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1959,
+        "denominacion": "GENERAL PALANCA",
+        "estado": 0,
+        "idtramo": 127,
+        "fiwareid": "EstadoTrafico_127",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1881,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33510290823382965,
+            39.45234417803024
+          ],
+          [
+            -0.33547420456713456,
+            39.45010468930301
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1881,
+        "denominacion": "CAMI CANAL D'EIXIDA",
+        "estado": 0,
+        "idtramo": 463,
+        "fiwareid": "EstadoTrafico_463",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1863,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35552816436737716,
+            39.476706673380434
+          ],
+          [
+            -0.3549581517630055,
+            39.47792361196983
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1863,
+        "denominacion": "AV. CATALUNYA D'ENTRADA",
+        "estado": 0,
+        "idtramo": 1,
+        "fiwareid": "EstadoTrafico_1",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2171,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3626953307238928,
+            39.48408194617356
+          ],
+          [
+            -0.3586096631557789,
+            39.492344021846996
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2171,
+        "denominacion": "EMILIO BARÓ",
+        "estado": 0,
+        "idtramo": 402,
+        "fiwareid": "EstadoTrafico_402",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -6430,35 +6575,6 @@
     },
     {
       "type": "Feature",
-      "id": 1959,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3694586304622647,
-            39.47349896936148
-          ],
-          [
-            -0.3686502767783566,
-            39.47246632432795
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1959,
-        "denominacion": "GENERAL PALANCA",
-        "estado": 0,
-        "idtramo": 127,
-        "fiwareid": "EstadoTrafico_127",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1903,
       "geometry": {
         "type": "LineString",
@@ -9015,35 +9131,6 @@
     },
     {
       "type": "Feature",
-      "id": 1863,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35552816436737716,
-            39.476706673380434
-          ],
-          [
-            -0.3549581517630055,
-            39.47792361196983
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1863,
-        "denominacion": "AV. CATALUNYA D'ENTRADA",
-        "estado": 0,
-        "idtramo": 1,
-        "fiwareid": "EstadoTrafico_1",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2036,
       "geometry": {
         "type": "LineString",
@@ -11151,35 +11238,6 @@
     },
     {
       "type": "Feature",
-      "id": 1988,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3755563847064595,
-            39.46913323629644
-          ],
-          [
-            -0.3722532169370442,
-            39.469160266215724
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1988,
-        "denominacion": "ROGER DE LAURIA",
-        "estado": 0,
-        "idtramo": 53,
-        "fiwareid": "EstadoTrafico_53",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1963,
       "geometry": {
         "type": "LineString",
@@ -13229,35 +13287,6 @@
         "estado": 0,
         "idtramo": 270,
         "fiwareid": "EstadoTrafico_270",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1881,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.33510290823382965,
-            39.45234417803024
-          ],
-          [
-            -0.33547420456713456,
-            39.45010468930301
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1881,
-        "denominacion": "CAMI CANAL D'EIXIDA",
-        "estado": 0,
-        "idtramo": 463,
-        "fiwareid": "EstadoTrafico_463",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17030,35 +17059,6 @@
         "estado": 0,
         "idtramo": 70,
         "fiwareid": "EstadoTrafico_70",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2171,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3626953307238928,
-            39.48408194617356
-          ],
-          [
-            -0.3586096631557789,
-            39.492344021846996
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2171,
-        "denominacion": "EMILIO BARÓ",
-        "estado": 0,
-        "idtramo": 402,
-        "fiwareid": "EstadoTrafico_402",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
