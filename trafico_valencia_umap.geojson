@@ -14334,93 +14334,6 @@
     },
     {
       "type": "Feature",
-      "id": 2203,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37693917855631814,
-            39.46771206629439
-          ],
-          [
-            -0.3767815485109228,
-            39.469066305643494
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2203,
-        "denominacion": "MARQUÉS DE SOTELO (DE XÀTIVA A AYUNTAMIENTO)",
-        "estado": 0,
-        "idtramo": 440,
-        "fiwareid": "EstadoTrafico_440",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2177,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.38974873725676823,
-            39.44772714757084
-          ],
-          [
-            -0.3886312353469015,
-            39.45299408978344
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2177,
-        "denominacion": "CARTEROS HACIA TOMAS SALA",
-        "estado": 0,
-        "idtramo": 408,
-        "fiwareid": "EstadoTrafico_408",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2120,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.364016072079001,
-            39.46299599243871
-          ],
-          [
-            -0.36258883997260144,
-            39.46269052813795
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2120,
-        "denominacion": "REINO DE VALENCIA (DE PERIS Y VALERO A MARQUÉS DEL TURIA)",
-        "estado": 0,
-        "idtramo": 366,
-        "fiwareid": "EstadoTrafico_366",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2059,
       "geometry": {
         "type": "LineString",
@@ -20604,136 +20517,6 @@
     },
     {
       "type": "Feature",
-      "id": 2153,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40264490662266644,
-            39.45859857154807
-          ],
-          [
-            -0.40361407148432066,
-            39.46017535208699
-          ],
-          [
-            -0.4051687434146254,
-            39.46268032644029
-          ],
-          [
-            -0.4051869654346622,
-            39.46271102102625
-          ],
-          [
-            -0.40520381039999087,
-            39.46274218035071
-          ],
-          [
-            -0.4052192560872661,
-            39.462773776891446
-          ],
-          [
-            -0.40523330450171163,
-            39.462805756640755
-          ],
-          [
-            -0.4052459214727224,
-            39.46283810081848
-          ],
-          [
-            -0.4052570857800924,
-            39.462870754898255
-          ],
-          [
-            -0.40526681003793313,
-            39.462903692135555
-          ],
-          [
-            -0.4052750610787998,
-            39.462936866745935
-          ],
-          [
-            -0.40528182862592527,
-            39.4629702424649
-          ],
-          [
-            -0.4052871140151105,
-            39.4630037832871
-          ],
-          [
-            -0.4052909195855715,
-            39.46303742620304
-          ],
-          [
-            -0.4052932221098882,
-            39.463071170694256
-          ],
-          [
-            -0.40529402426166844,
-            39.46310494474972
-          ],
-          [
-            -0.4052933267077181,
-            39.463138730366644
-          ],
-          [
-            -0.40529113145271245,
-            39.46317247353668
-          ],
-          [
-            -0.405287439832421,
-            39.463206138254115
-          ],
-          [
-            -0.40529049073469825,
-            39.46328261039165
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2153,
-        "denominacion": "TRES CRUCES (DE ARCHIDUQUE CARLOS A TRES FORQUES)",
-        "estado": 0,
-        "idtramo": 376,
-        "fiwareid": "EstadoTrafico_376",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2008,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37345640146543774,
-            39.4990391360001
-          ],
-          [
-            -0.36681005096963604,
-            39.49710959707954
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2008,
-        "denominacion": "PASO INFERIOR HNOS. MACHADO HACIA JUAN XXIII",
-        "estado": 0,
-        "idtramo": 217,
-        "fiwareid": "EstadoTrafico_217",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1998,
       "geometry": {
         "type": "LineString",
@@ -24197,6 +23980,223 @@
         "estado": 0,
         "idtramo": 459,
         "fiwareid": "EstadoTrafico_459",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2203,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37693917855631814,
+            39.46771206629439
+          ],
+          [
+            -0.3767815485109228,
+            39.469066305643494
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2203,
+        "denominacion": "MARQUÉS DE SOTELO (DE XÀTIVA A AYUNTAMIENTO)",
+        "estado": 0,
+        "idtramo": 440,
+        "fiwareid": "EstadoTrafico_440",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2177,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38974873725676823,
+            39.44772714757084
+          ],
+          [
+            -0.3886312353469015,
+            39.45299408978344
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2177,
+        "denominacion": "CARTEROS HACIA TOMAS SALA",
+        "estado": 0,
+        "idtramo": 408,
+        "fiwareid": "EstadoTrafico_408",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2120,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.364016072079001,
+            39.46299599243871
+          ],
+          [
+            -0.36258883997260144,
+            39.46269052813795
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2120,
+        "denominacion": "REINO DE VALENCIA (DE PERIS Y VALERO A MARQUÉS DEL TURIA)",
+        "estado": 0,
+        "idtramo": 366,
+        "fiwareid": "EstadoTrafico_366",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2153,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40264490662266644,
+            39.45859857154807
+          ],
+          [
+            -0.40361407148432066,
+            39.46017535208699
+          ],
+          [
+            -0.4051687434146254,
+            39.46268032644029
+          ],
+          [
+            -0.4051869654346622,
+            39.46271102102625
+          ],
+          [
+            -0.40520381039999087,
+            39.46274218035071
+          ],
+          [
+            -0.4052192560872661,
+            39.462773776891446
+          ],
+          [
+            -0.40523330450171163,
+            39.462805756640755
+          ],
+          [
+            -0.4052459214727224,
+            39.46283810081848
+          ],
+          [
+            -0.4052570857800924,
+            39.462870754898255
+          ],
+          [
+            -0.40526681003793313,
+            39.462903692135555
+          ],
+          [
+            -0.4052750610787998,
+            39.462936866745935
+          ],
+          [
+            -0.40528182862592527,
+            39.4629702424649
+          ],
+          [
+            -0.4052871140151105,
+            39.4630037832871
+          ],
+          [
+            -0.4052909195855715,
+            39.46303742620304
+          ],
+          [
+            -0.4052932221098882,
+            39.463071170694256
+          ],
+          [
+            -0.40529402426166844,
+            39.46310494474972
+          ],
+          [
+            -0.4052933267077181,
+            39.463138730366644
+          ],
+          [
+            -0.40529113145271245,
+            39.46317247353668
+          ],
+          [
+            -0.405287439832421,
+            39.463206138254115
+          ],
+          [
+            -0.40529049073469825,
+            39.46328261039165
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2153,
+        "denominacion": "TRES CRUCES (DE ARCHIDUQUE CARLOS A TRES FORQUES)",
+        "estado": 0,
+        "idtramo": 376,
+        "fiwareid": "EstadoTrafico_376",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2008,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37345640146543774,
+            39.4990391360001
+          ],
+          [
+            -0.36681005096963604,
+            39.49710959707954
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2008,
+        "denominacion": "PASO INFERIOR HNOS. MACHADO HACIA JUAN XXIII",
+        "estado": 0,
+        "idtramo": 217,
+        "fiwareid": "EstadoTrafico_217",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
