@@ -223,6 +223,93 @@
     },
     {
       "type": "Feature",
+      "id": 1860,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3748881208627105,
+            39.46707693838494
+          ],
+          [
+            -0.3739313045285729,
+            39.4651362307989
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1860,
+        "denominacion": "RUSSAFA",
+        "estado": 0,
+        "idtramo": 158,
+        "fiwareid": "EstadoTrafico_158",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1916,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38286911217213654,
+            39.466853169529244
+          ],
+          [
+            -0.3865637979301861,
+            39.462569091918574
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1916,
+        "denominacion": "JESUS",
+        "estado": 0,
+        "idtramo": 71,
+        "fiwareid": "EstadoTrafico_71",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2079,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3918969130723222,
+            39.46898583138683
+          ],
+          [
+            -0.395167137202115,
+            39.46830267004622
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2079,
+        "denominacion": "LINARES",
+        "estado": 0,
+        "idtramo": 238,
+        "fiwareid": "EstadoTrafico_238",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1980,
       "geometry": {
         "type": "LineString",
@@ -251,6 +338,39 @@
         "estado": 0,
         "idtramo": 42,
         "fiwareid": "EstadoTrafico_42",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2214,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.32881575445235534,
+            39.46753248538772
+          ],
+          [
+            -0.32901424587909717,
+            39.46616183729602
+          ],
+          [
+            -0.3294775711301634,
+            39.463220997542855
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2214,
+        "denominacion": "REINA",
+        "estado": 0,
+        "idtramo": 264,
+        "fiwareid": "EstadoTrafico_264",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -335,11 +455,11 @@
       "properties": {
         "gid": 2107,
         "denominacion": "PIO XII (DE CAMPANAR A TIRSO DE MOLINA)",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 278,
         "fiwareid": "EstadoTrafico_278",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -367,6 +487,35 @@
         "estado": 0,
         "idtramo": 404,
         "fiwareid": "EstadoTrafico_404",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1988,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3755563847064595,
+            39.46913323629644
+          ],
+          [
+            -0.3722532169370442,
+            39.469160266215724
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1988,
+        "denominacion": "ROGER DE LAURIA",
+        "estado": 0,
+        "idtramo": 53,
+        "fiwareid": "EstadoTrafico_53",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -1065,35 +1214,6 @@
     },
     {
       "type": "Feature",
-      "id": 1860,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3748881208627105,
-            39.46707693838494
-          ],
-          [
-            -0.3739313045285729,
-            39.4651362307989
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1860,
-        "denominacion": "RUSSAFA",
-        "estado": 1,
-        "idtramo": 158,
-        "fiwareid": "EstadoTrafico_158",
-        "_umap_options": {
-          "color": "#FFA500",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1893,
       "geometry": {
         "type": "LineString",
@@ -1119,11 +1239,11 @@
       "properties": {
         "gid": 1893,
         "denominacion": "FERRAN EL CATOLIC CAP A RAMON Y CAJAL",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 24,
         "fiwareid": "EstadoTrafico_24",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -1204,6 +1324,35 @@
         "estado": 0,
         "idtramo": 304,
         "fiwareid": "EstadoTrafico_304",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1926,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37531675759923583,
+            39.46434822360575
+          ],
+          [
+            -0.37395964942362264,
+            39.4649335787078
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1926,
+        "denominacion": "GERMANIES CAP A PAS INFERIOR",
+        "estado": 0,
+        "idtramo": 130,
+        "fiwareid": "EstadoTrafico_130",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -1854,11 +2003,11 @@
       "properties": {
         "gid": 2215,
         "denominacion": "MARINO BLAS DE LEZO - LUIS PEIXÓ HACIA NARANJOS",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 324,
         "fiwareid": "EstadoTrafico_324",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -2444,11 +2593,11 @@
       "properties": {
         "gid": 2007,
         "denominacion": "SAN VICENTE (DE FDO. ABRIL MARTORELL A GIORGETA)",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 186,
         "fiwareid": "EstadoTrafico_186",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -3835,6 +3984,35 @@
     },
     {
       "type": "Feature",
+      "id": 2158,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4021512772659044,
+            39.48324614473272
+          ],
+          [
+            -0.40658538363900315,
+            39.48139050929177
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2158,
+        "denominacion": "GENERAL AVILÉS (DE M. RODRIGO A PÍO BAROJA)",
+        "estado": 0,
+        "idtramo": 381,
+        "fiwareid": "EstadoTrafico_381",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2069,
       "geometry": {
         "type": "LineString",
@@ -4952,35 +5130,6 @@
     },
     {
       "type": "Feature",
-      "id": 2158,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.4021512772659044,
-            39.48324614473272
-          ],
-          [
-            -0.40658538363900315,
-            39.48139050929177
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2158,
-        "denominacion": "GENERAL AVILÉS (DE M. RODRIGO A PÍO BAROJA)",
-        "estado": 0,
-        "idtramo": 381,
-        "fiwareid": "EstadoTrafico_381",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2143,
       "geometry": {
         "type": "LineString",
@@ -5907,6 +6056,43 @@
         "estado": 0,
         "idtramo": 392,
         "fiwareid": "EstadoTrafico_392",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2185,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3693848906772758,
+            39.47554035682012
+          ],
+          [
+            -0.36866707756097294,
+            39.474866365092524
+          ],
+          [
+            -0.3669313570765257,
+            39.47267911297796
+          ],
+          [
+            -0.3651592730745934,
+            39.470647853830805
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2185,
+        "denominacion": "CIUDADELA",
+        "estado": 0,
+        "idtramo": 63,
+        "fiwareid": "EstadoTrafico_63",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -7074,6 +7260,35 @@
     },
     {
       "type": "Feature",
+      "id": 2078,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3601923605519288,
+            39.46214591363617
+          ],
+          [
+            -0.357981831527889,
+            39.461657620287276
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2078,
+        "denominacion": "PUENTE REINO DE VALENCIA HACIA ALCALDE REIG",
+        "estado": 0,
+        "idtramo": 289,
+        "fiwareid": "EstadoTrafico_289",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2038,
       "geometry": {
         "type": "LineString",
@@ -7816,6 +8031,63 @@
     },
     {
       "type": "Feature",
+      "id": 1865,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3739209904684514,
+            39.492246508239276
+          ],
+          [
+            -0.37324624106750937,
+            39.493402341785796
+          ],
+          [
+            -0.3727617392278867,
+            39.49411276444262
+          ],
+          [
+            -0.3727466619323793,
+            39.49413397248781
+          ],
+          [
+            -0.3727306469090475,
+            39.494154762941946
+          ],
+          [
+            -0.37271370679203647,
+            39.494175109064095
+          ],
+          [
+            -0.37269587745062566,
+            39.49419498463856
+          ],
+          [
+            -0.37267715956259007,
+            39.49421437166276
+          ],
+          [
+            -0.3726698354628389,
+            39.49422144008733
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1865,
+        "denominacion": "AV. CONSTITUCIO D'ENTRADA (DES DE CORONEL MONTESINOS)",
+        "estado": 0,
+        "idtramo": 3,
+        "fiwareid": "EstadoTrafico_3",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1941,
       "geometry": {
         "type": "LineString",
@@ -8372,11 +8644,11 @@
       "properties": {
         "gid": 2039,
         "denominacion": "PÍO XII DE ENTRADA (DE SALIDA DEL PASO INFERIOR A CAMPANAR)",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 137,
         "fiwareid": "EstadoTrafico_137",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -8602,11 +8874,11 @@
       "properties": {
         "gid": 2058,
         "denominacion": "PASO INFERIOR BLANQUERÍAS",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 312,
         "fiwareid": "EstadoTrafico_312",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -8980,35 +9252,6 @@
     },
     {
       "type": "Feature",
-      "id": 2078,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3601923605519288,
-            39.46214591363617
-          ],
-          [
-            -0.357981831527889,
-            39.461657620287276
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2078,
-        "denominacion": "PUENTE REINO DE VALENCIA HACIA ALCALDE REIG",
-        "estado": 0,
-        "idtramo": 289,
-        "fiwareid": "EstadoTrafico_289",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2043,
       "geometry": {
         "type": "LineString",
@@ -9293,63 +9536,6 @@
     },
     {
       "type": "Feature",
-      "id": 1865,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3739209904684514,
-            39.492246508239276
-          ],
-          [
-            -0.37324624106750937,
-            39.493402341785796
-          ],
-          [
-            -0.3727617392278867,
-            39.49411276444262
-          ],
-          [
-            -0.3727466619323793,
-            39.49413397248781
-          ],
-          [
-            -0.3727306469090475,
-            39.494154762941946
-          ],
-          [
-            -0.37271370679203647,
-            39.494175109064095
-          ],
-          [
-            -0.37269587745062566,
-            39.49419498463856
-          ],
-          [
-            -0.37267715956259007,
-            39.49421437166276
-          ],
-          [
-            -0.3726698354628389,
-            39.49422144008733
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1865,
-        "denominacion": "AV. CONSTITUCIO D'ENTRADA (DES DE CORONEL MONTESINOS)",
-        "estado": 0,
-        "idtramo": 3,
-        "fiwareid": "EstadoTrafico_3",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1912,
       "geometry": {
         "type": "LineString",
@@ -9486,35 +9672,6 @@
     },
     {
       "type": "Feature",
-      "id": 1916,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.38286911217213654,
-            39.466853169529244
-          ],
-          [
-            -0.3865637979301861,
-            39.462569091918574
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1916,
-        "denominacion": "JESUS",
-        "estado": 0,
-        "idtramo": 71,
-        "fiwareid": "EstadoTrafico_71",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2149,
       "geometry": {
         "type": "LineString",
@@ -9561,11 +9718,11 @@
       "properties": {
         "gid": 2088,
         "denominacion": "PUENTE DE LAS ARTES HACIA GUILLEM DE CASTRO",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 298,
         "fiwareid": "EstadoTrafico_298",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -9685,11 +9842,11 @@
       "properties": {
         "gid": 2126,
         "denominacion": "PUENTE DE MADERA",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 333,
         "fiwareid": "EstadoTrafico_333",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -10527,64 +10684,6 @@
         "estado": 0,
         "idtramo": 341,
         "fiwareid": "EstadoTrafico_341",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1926,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37531675759923583,
-            39.46434822360575
-          ],
-          [
-            -0.37395964942362264,
-            39.4649335787078
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1926,
-        "denominacion": "GERMANIES CAP A PAS INFERIOR",
-        "estado": 0,
-        "idtramo": 130,
-        "fiwareid": "EstadoTrafico_130",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2079,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3918969130723222,
-            39.46898583138683
-          ],
-          [
-            -0.395167137202115,
-            39.46830267004622
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2079,
-        "denominacion": "LINARES",
-        "estado": 0,
-        "idtramo": 238,
-        "fiwareid": "EstadoTrafico_238",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11704,43 +11803,6 @@
     },
     {
       "type": "Feature",
-      "id": 2185,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3693848906772758,
-            39.47554035682012
-          ],
-          [
-            -0.36866707756097294,
-            39.474866365092524
-          ],
-          [
-            -0.3669313570765257,
-            39.47267911297796
-          ],
-          [
-            -0.3651592730745934,
-            39.470647853830805
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2185,
-        "denominacion": "CIUDADELA",
-        "estado": 0,
-        "idtramo": 63,
-        "fiwareid": "EstadoTrafico_63",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1880,
       "geometry": {
         "type": "LineString",
@@ -11800,6 +11862,35 @@
         "fiwareid": "EstadoTrafico_85",
         "_umap_options": {
           "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1889,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38656766406325394,
+            39.4622294742321
+          ],
+          [
+            -0.383688643793096,
+            39.45817701499223
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1889,
+        "denominacion": "GIORGETA CAP A PEREZ GALDOS",
+        "estado": 3,
+        "idtramo": 18,
+        "fiwareid": "EstadoTrafico_18",
+        "_umap_options": {
+          "color": "#000000",
           "weight": 3,
           "opacity": 1
         }
@@ -12031,6 +12122,35 @@
         "estado": 0,
         "idtramo": 189,
         "fiwareid": "EstadoTrafico_189",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2100,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3940801895146191,
+            39.482818151458794
+          ],
+          [
+            -0.398382193648975,
+            39.488784614786184
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2100,
+        "denominacion": "PASO INFERIOR PÍO XII DE ENTRADA",
+        "estado": 0,
+        "idtramo": 307,
+        "fiwareid": "EstadoTrafico_307",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -12979,6 +13099,35 @@
     },
     {
       "type": "Feature",
+      "id": 1934,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35283417237680015,
+            39.460581308140426
+          ],
+          [
+            -0.3440230698729737,
+            39.45868806113446
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1934,
+        "denominacion": "FRANCIA (DE MENORCA A T. DE MONTAÑANA)",
+        "estado": 0,
+        "idtramo": 54,
+        "fiwareid": "EstadoTrafico_54",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1982,
       "geometry": {
         "type": "LineString",
@@ -13113,6 +13262,35 @@
         "estado": 0,
         "idtramo": 37,
         "fiwareid": "EstadoTrafico_37",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2085,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40574889408713155,
+            39.474608919289636
+          ],
+          [
+            -0.4054699741051626,
+            39.47319313431438
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2085,
+        "denominacion": "PUENTE NUEVE DE OCTUBRE HACIA PÍO BAROJA",
+        "estado": 0,
+        "idtramo": 295,
+        "fiwareid": "EstadoTrafico_295",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -13302,35 +13480,6 @@
     },
     {
       "type": "Feature",
-      "id": 2100,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3940801895146191,
-            39.482818151458794
-          ],
-          [
-            -0.398382193648975,
-            39.488784614786184
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2100,
-        "denominacion": "PASO INFERIOR PÍO XII DE ENTRADA",
-        "estado": 0,
-        "idtramo": 307,
-        "fiwareid": "EstadoTrafico_307",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1967,
       "geometry": {
         "type": "LineString",
@@ -13433,6 +13582,63 @@
         "estado": 0,
         "idtramo": 352,
         "fiwareid": "EstadoTrafico_352",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2208,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3771106585315183,
+            39.48257366030105
+          ],
+          [
+            -0.3767236021378102,
+            39.482419593371716
+          ],
+          [
+            -0.37590644362750003,
+            39.48198692817714
+          ],
+          [
+            -0.37531851895143725,
+            39.48163937020723
+          ],
+          [
+            -0.37506064116111015,
+            39.48144418059203
+          ],
+          [
+            -0.3747000834774893,
+            39.4811481326137
+          ],
+          [
+            -0.3740985353821165,
+            39.48070882164527
+          ],
+          [
+            -0.3738930795060257,
+            39.48056961449434
+          ],
+          [
+            -0.3738007060595613,
+            39.480507834696006
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2208,
+        "denominacion": "GUADALAVIAR (DE POETA MONMENEU A PUENTE DE MADERA)",
+        "estado": 0,
+        "idtramo": 447,
+        "fiwareid": "EstadoTrafico_447",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -14149,35 +14355,6 @@
     },
     {
       "type": "Feature",
-      "id": 1934,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35283417237680015,
-            39.460581308140426
-          ],
-          [
-            -0.3440230698729737,
-            39.45868806113446
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1934,
-        "denominacion": "FRANCIA (DE MENORCA A T. DE MONTAÑANA)",
-        "estado": 0,
-        "idtramo": 54,
-        "fiwareid": "EstadoTrafico_54",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1990,
       "geometry": {
         "type": "LineString",
@@ -14272,11 +14449,11 @@
       "properties": {
         "gid": 2186,
         "denominacion": "SAN JOSE DE CALASANZ - PINTOR BENEDITO",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 69,
         "fiwareid": "EstadoTrafico_69",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -15763,6 +15940,35 @@
     },
     {
       "type": "Feature",
+      "id": 2053,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.32783155720049034,
+            39.47489470029956
+          ],
+          [
+            -0.33285861090340063,
+            39.47635313100416
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2053,
+        "denominacion": "NARANJOS (DE DR. LLUCH A LUIS PEIXO)",
+        "estado": 0,
+        "idtramo": 263,
+        "fiwareid": "EstadoTrafico_263",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1930,
       "geometry": {
         "type": "LineString",
@@ -16950,35 +17156,6 @@
         "estado": 0,
         "idtramo": 277,
         "fiwareid": "EstadoTrafico_277",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2053,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.32783155720049034,
-            39.47489470029956
-          ],
-          [
-            -0.33285861090340063,
-            39.47635313100416
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2053,
-        "denominacion": "NARANJOS (DE DR. LLUCH A LUIS PEIXO)",
-        "estado": 0,
-        "idtramo": 263,
-        "fiwareid": "EstadoTrafico_263",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18335,6 +18512,143 @@
         "estado": 0,
         "idtramo": 382,
         "fiwareid": "EstadoTrafico_382",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1872,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3522740424762855,
+            39.48029993814012
+          ],
+          [
+            -0.3520242725676748,
+            39.480094819990946
+          ],
+          [
+            -0.35194527588627994,
+            39.48002785050382
+          ],
+          [
+            -0.35186907240090326,
+            39.47995896269302
+          ],
+          [
+            -0.3517957406809492,
+            39.47988823042448
+          ],
+          [
+            -0.3517253476798773,
+            39.479815727299474
+          ],
+          [
+            -0.3516579719649959,
+            39.47974152718395
+          ],
+          [
+            -0.35159366887277194,
+            39.47966570341417
+          ],
+          [
+            -0.3515325169685382,
+            39.479588329855865
+          ],
+          [
+            -0.35149286844724575,
+            39.479516851628404
+          ],
+          [
+            -0.3514564789996815,
+            39.479444348602485
+          ],
+          [
+            -0.35142338038696125,
+            39.47937090258375
+          ],
+          [
+            -0.3513936043697047,
+            39.47929659537753
+          ],
+          [
+            -0.3513672165276318,
+            39.47922153658609
+          ],
+          [
+            -0.35134422539063886,
+            39.47914580748478
+          ],
+          [
+            -0.35132466237625826,
+            39.479069498879106
+          ],
+          [
+            -0.35130855890166174,
+            39.47899270157435
+          ],
+          [
+            -0.35129593408564114,
+            39.47891552411256
+          ],
+          [
+            -0.35128800163222484,
+            39.478854993674204
+          ],
+          [
+            -0.3512826913931636,
+            39.47879428877798
+          ],
+          [
+            -0.35128000062858145,
+            39.47873348143178
+          ],
+          [
+            -0.35127993821338244,
+            39.4786726439079
+          ],
+          [
+            -0.3512825017493076,
+            39.478611839212974
+          ],
+          [
+            -0.3512876772234409,
+            39.47855113008859
+          ],
+          [
+            -0.35129548512545916,
+            39.47849058907136
+          ],
+          [
+            -0.351305888213204,
+            39.47843027837304
+          ],
+          [
+            -0.351318895020269,
+            39.4783702792662
+          ],
+          [
+            -0.351334491534218,
+            39.47831065449175
+          ],
+          [
+            -0.3523535198592382,
+            39.475754994789376
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1872,
+        "denominacion": "CLARIANO D'ENTRADA",
+        "estado": 0,
+        "idtramo": 453,
+        "fiwareid": "EstadoTrafico_453",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -21128,35 +21442,6 @@
     },
     {
       "type": "Feature",
-      "id": 1988,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3755563847064595,
-            39.46913323629644
-          ],
-          [
-            -0.3722532169370442,
-            39.469160266215724
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1988,
-        "denominacion": "ROGER DE LAURIA",
-        "estado": 0,
-        "idtramo": 53,
-        "fiwareid": "EstadoTrafico_53",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2034,
       "geometry": {
         "type": "LineString",
@@ -21393,39 +21678,6 @@
         "estado": 0,
         "idtramo": 195,
         "fiwareid": "EstadoTrafico_195",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2214,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.32881575445235534,
-            39.46753248538772
-          ],
-          [
-            -0.32901424587909717,
-            39.46616183729602
-          ],
-          [
-            -0.3294775711301634,
-            39.463220997542855
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2214,
-        "denominacion": "REINA",
-        "estado": 0,
-        "idtramo": 264,
-        "fiwareid": "EstadoTrafico_264",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -22764,11 +23016,11 @@
       "properties": {
         "gid": 2111,
         "denominacion": "PUENTE DE GLORIAS VALENCIANAS HACIA FERNANDO EL CATOLICO",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 322,
         "fiwareid": "EstadoTrafico_322",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -23647,11 +23899,11 @@
       "properties": {
         "gid": 1894,
         "denominacion": "MARQUES DEL TURIA CAP A GERMANIES",
-        "estado": 1,
+        "estado": 0,
         "idtramo": 27,
         "fiwareid": "EstadoTrafico_27",
         "_umap_options": {
-          "color": "#FFA500",
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -24003,258 +24255,6 @@
     },
     {
       "type": "Feature",
-      "id": 2208,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3771106585315183,
-            39.48257366030105
-          ],
-          [
-            -0.3767236021378102,
-            39.482419593371716
-          ],
-          [
-            -0.37590644362750003,
-            39.48198692817714
-          ],
-          [
-            -0.37531851895143725,
-            39.48163937020723
-          ],
-          [
-            -0.37506064116111015,
-            39.48144418059203
-          ],
-          [
-            -0.3747000834774893,
-            39.4811481326137
-          ],
-          [
-            -0.3740985353821165,
-            39.48070882164527
-          ],
-          [
-            -0.3738930795060257,
-            39.48056961449434
-          ],
-          [
-            -0.3738007060595613,
-            39.480507834696006
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2208,
-        "denominacion": "GUADALAVIAR (DE POETA MONMENEU A PUENTE DE MADERA)",
-        "estado": 1,
-        "idtramo": 447,
-        "fiwareid": "EstadoTrafico_447",
-        "_umap_options": {
-          "color": "#FFA500",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1872,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3522740424762855,
-            39.48029993814012
-          ],
-          [
-            -0.3520242725676748,
-            39.480094819990946
-          ],
-          [
-            -0.35194527588627994,
-            39.48002785050382
-          ],
-          [
-            -0.35186907240090326,
-            39.47995896269302
-          ],
-          [
-            -0.3517957406809492,
-            39.47988823042448
-          ],
-          [
-            -0.3517253476798773,
-            39.479815727299474
-          ],
-          [
-            -0.3516579719649959,
-            39.47974152718395
-          ],
-          [
-            -0.35159366887277194,
-            39.47966570341417
-          ],
-          [
-            -0.3515325169685382,
-            39.479588329855865
-          ],
-          [
-            -0.35149286844724575,
-            39.479516851628404
-          ],
-          [
-            -0.3514564789996815,
-            39.479444348602485
-          ],
-          [
-            -0.35142338038696125,
-            39.47937090258375
-          ],
-          [
-            -0.3513936043697047,
-            39.47929659537753
-          ],
-          [
-            -0.3513672165276318,
-            39.47922153658609
-          ],
-          [
-            -0.35134422539063886,
-            39.47914580748478
-          ],
-          [
-            -0.35132466237625826,
-            39.479069498879106
-          ],
-          [
-            -0.35130855890166174,
-            39.47899270157435
-          ],
-          [
-            -0.35129593408564114,
-            39.47891552411256
-          ],
-          [
-            -0.35128800163222484,
-            39.478854993674204
-          ],
-          [
-            -0.3512826913931636,
-            39.47879428877798
-          ],
-          [
-            -0.35128000062858145,
-            39.47873348143178
-          ],
-          [
-            -0.35127993821338244,
-            39.4786726439079
-          ],
-          [
-            -0.3512825017493076,
-            39.478611839212974
-          ],
-          [
-            -0.3512876772234409,
-            39.47855113008859
-          ],
-          [
-            -0.35129548512545916,
-            39.47849058907136
-          ],
-          [
-            -0.351305888213204,
-            39.47843027837304
-          ],
-          [
-            -0.351318895020269,
-            39.4783702792662
-          ],
-          [
-            -0.351334491534218,
-            39.47831065449175
-          ],
-          [
-            -0.3523535198592382,
-            39.475754994789376
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1872,
-        "denominacion": "CLARIANO D'ENTRADA",
-        "estado": 0,
-        "idtramo": 453,
-        "fiwareid": "EstadoTrafico_453",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2085,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40574889408713155,
-            39.474608919289636
-          ],
-          [
-            -0.4054699741051626,
-            39.47319313431438
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2085,
-        "denominacion": "PUENTE NUEVE DE OCTUBRE HACIA PÍO BAROJA",
-        "estado": 0,
-        "idtramo": 295,
-        "fiwareid": "EstadoTrafico_295",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1889,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.38656766406325394,
-            39.4622294742321
-          ],
-          [
-            -0.383688643793096,
-            39.45817701499223
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1889,
-        "denominacion": "GIORGETA CAP A PEREZ GALDOS",
-        "estado": 3,
-        "idtramo": 18,
-        "fiwareid": "EstadoTrafico_18",
-        "_umap_options": {
-          "color": "#000000",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2226,
       "geometry": {
         "type": "LineString",
@@ -24344,93 +24344,6 @@
         "estado": 0,
         "idtramo": 345,
         "fiwareid": "EstadoTrafico_345",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1867,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3329659097726701,
-            39.476161942073716
-          ],
-          [
-            -0.32779000181219337,
-            39.47467425616893
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1867,
-        "denominacion": "AV. DELS TARONGERS (DES DE LLUIS PEIXO A DR. LLUCH)",
-        "estado": 0,
-        "idtramo": 262,
-        "fiwareid": "EstadoTrafico_262",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1888,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36632922319712624,
-            39.479623504460015
-          ],
-          [
-            -0.36402128142105983,
-            39.48428311828256
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1888,
-        "denominacion": "CAVANILLES",
-        "estado": 0,
-        "idtramo": 12,
-        "fiwareid": "EstadoTrafico_12",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2109,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3512291823047758,
-            39.452980518020624
-          ],
-          [
-            -0.34874345143786856,
-            39.45075716562186
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2109,
-        "denominacion": "AUTOPISTA DEL SALER LATERAL DE ENTRADA",
-        "estado": 0,
-        "idtramo": 319,
-        "fiwareid": "EstadoTrafico_319",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -24742,6 +24655,93 @@
         "estado": 0,
         "idtramo": 272,
         "fiwareid": null,
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1867,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3329659097726701,
+            39.476161942073716
+          ],
+          [
+            -0.32779000181219337,
+            39.47467425616893
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1867,
+        "denominacion": "AV. DELS TARONGERS (DES DE LLUIS PEIXO A DR. LLUCH)",
+        "estado": 0,
+        "idtramo": 262,
+        "fiwareid": "EstadoTrafico_262",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1888,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36632922319712624,
+            39.479623504460015
+          ],
+          [
+            -0.36402128142105983,
+            39.48428311828256
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1888,
+        "denominacion": "CAVANILLES",
+        "estado": 0,
+        "idtramo": 12,
+        "fiwareid": "EstadoTrafico_12",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2109,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3512291823047758,
+            39.452980518020624
+          ],
+          [
+            -0.34874345143786856,
+            39.45075716562186
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2109,
+        "denominacion": "AUTOPISTA DEL SALER LATERAL DE ENTRADA",
+        "estado": 0,
+        "idtramo": 319,
+        "fiwareid": "EstadoTrafico_319",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
