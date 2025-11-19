@@ -2826,6 +2826,35 @@
     },
     {
       "type": "Feature",
+      "id": 2221,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40442521734106085,
+            39.48789305947106
+          ],
+          [
+            -0.39992977572061844,
+            39.48986352790392
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2221,
+        "denominacion": "LA SAFOR (DE M. RODRIGO A CORTES VALENCIANAS)",
+        "estado": 0,
+        "idtramo": 373,
+        "fiwareid": "EstadoTrafico_373",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2022,
       "geometry": {
         "type": "LineString",
@@ -4096,6 +4125,39 @@
     },
     {
       "type": "Feature",
+      "id": 2043,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3289445617403896,
+            39.46320593733645
+          ],
+          [
+            -0.3284997435301565,
+            39.466214135068924
+          ],
+          [
+            -0.3283178201572638,
+            39.467508138392766
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2043,
+        "denominacion": "DOCTOR LLUCH HACIA NARANJOS",
+        "estado": 0,
+        "idtramo": 247,
+        "fiwareid": "EstadoTrafico_247",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1999,
       "geometry": {
         "type": "LineString",
@@ -4998,35 +5060,6 @@
     },
     {
       "type": "Feature",
-      "id": 2221,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40442521734106085,
-            39.48789305947106
-          ],
-          [
-            -0.39992977572061844,
-            39.48986352790392
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2221,
-        "denominacion": "LA SAFOR (DE M. RODRIGO A CORTES VALENCIANAS)",
-        "estado": 0,
-        "idtramo": 373,
-        "fiwareid": "EstadoTrafico_373",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2168,
       "geometry": {
         "type": "LineString",
@@ -5747,39 +5780,6 @@
         "estado": 0,
         "idtramo": 245,
         "fiwareid": "EstadoTrafico_245",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2043,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3289445617403896,
-            39.46320593733645
-          ],
-          [
-            -0.3284997435301565,
-            39.466214135068924
-          ],
-          [
-            -0.3283178201572638,
-            39.467508138392766
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2043,
-        "denominacion": "DOCTOR LLUCH HACIA NARANJOS",
-        "estado": 0,
-        "idtramo": 247,
-        "fiwareid": "EstadoTrafico_247",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -7778,6 +7778,127 @@
     },
     {
       "type": "Feature",
+      "id": 2081,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40611794430274845,
+            39.47823398670687
+          ],
+          [
+            -0.4047775860893838,
+            39.47847828913334
+          ],
+          [
+            -0.4047230125277392,
+            39.47848752958353
+          ],
+          [
+            -0.40466808229714923,
+            39.478495419727025
+          ],
+          [
+            -0.4046128657614628,
+            39.47850194311721
+          ],
+          [
+            -0.4045573977695363,
+            39.478507100532006
+          ],
+          [
+            -0.4045017480158497,
+            39.47851089352778
+          ],
+          [
+            -0.40444597524926373,
+            39.478513305398856
+          ],
+          [
+            -0.4043901255991474,
+            39.47851434618424
+          ],
+          [
+            -0.4043342694296208,
+            39.47851399943792
+          ],
+          [
+            -0.4042784525352574,
+            39.478512284200534
+          ],
+          [
+            -0.40037641150591424,
+            39.47835083436732
+          ],
+          [
+            -0.40029367104123115,
+            39.47834851491057
+          ],
+          [
+            -0.40021088327877574,
+            39.47834840149769
+          ],
+          [
+            -0.4001281414671759,
+            39.47835048720588
+          ],
+          [
+            -0.4000455381843782,
+            39.47835478311532
+          ],
+          [
+            -0.3999631666790173,
+            39.47836128230376
+          ],
+          [
+            -0.3998811441007671,
+            39.47836996036637
+          ],
+          [
+            -0.3997995514126655,
+            39.478380828124244
+          ],
+          [
+            -0.39971849448490415,
+            39.478393851911925
+          ],
+          [
+            -0.3996380542808189,
+            39.47840904255096
+          ],
+          [
+            -0.3995583370064814,
+            39.47842635737514
+          ],
+          [
+            -0.39947943591161716,
+            39.47844578946384
+          ],
+          [
+            -0.3994014452524364,
+            39.47846730489273
+          ],
+          [
+            -0.3987390359938759,
+            39.47870565362712
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2081,
+        "denominacion": "VALLE DE LA BALLESTERA (DE PÍO BAROJA A MTRO. RODRIGO)",
+        "estado": 0,
+        "idtramo": 291,
+        "fiwareid": "EstadoTrafico_291",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1944,
       "geometry": {
         "type": "LineString",
@@ -9094,6 +9215,35 @@
     },
     {
       "type": "Feature",
+      "id": 2099,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.381243775740637,
+            39.49740464807775
+          ],
+          [
+            -0.3812231966236973,
+            39.49971651909297
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2099,
+        "denominacion": "PASO INFERIOR Cº MONCADA DE SALIDA",
+        "estado": 0,
+        "idtramo": 306,
+        "fiwareid": "EstadoTrafico_306",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2069,
       "geometry": {
         "type": "LineString",
@@ -10349,156 +10499,6 @@
         "estado": 0,
         "idtramo": 178,
         "fiwareid": "EstadoTrafico_178",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2081,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40611794430274845,
-            39.47823398670687
-          ],
-          [
-            -0.4047775860893838,
-            39.47847828913334
-          ],
-          [
-            -0.4047230125277392,
-            39.47848752958353
-          ],
-          [
-            -0.40466808229714923,
-            39.478495419727025
-          ],
-          [
-            -0.4046128657614628,
-            39.47850194311721
-          ],
-          [
-            -0.4045573977695363,
-            39.478507100532006
-          ],
-          [
-            -0.4045017480158497,
-            39.47851089352778
-          ],
-          [
-            -0.40444597524926373,
-            39.478513305398856
-          ],
-          [
-            -0.4043901255991474,
-            39.47851434618424
-          ],
-          [
-            -0.4043342694296208,
-            39.47851399943792
-          ],
-          [
-            -0.4042784525352574,
-            39.478512284200534
-          ],
-          [
-            -0.40037641150591424,
-            39.47835083436732
-          ],
-          [
-            -0.40029367104123115,
-            39.47834851491057
-          ],
-          [
-            -0.40021088327877574,
-            39.47834840149769
-          ],
-          [
-            -0.4001281414671759,
-            39.47835048720588
-          ],
-          [
-            -0.4000455381843782,
-            39.47835478311532
-          ],
-          [
-            -0.3999631666790173,
-            39.47836128230376
-          ],
-          [
-            -0.3998811441007671,
-            39.47836996036637
-          ],
-          [
-            -0.3997995514126655,
-            39.478380828124244
-          ],
-          [
-            -0.39971849448490415,
-            39.478393851911925
-          ],
-          [
-            -0.3996380542808189,
-            39.47840904255096
-          ],
-          [
-            -0.3995583370064814,
-            39.47842635737514
-          ],
-          [
-            -0.39947943591161716,
-            39.47844578946384
-          ],
-          [
-            -0.3994014452524364,
-            39.47846730489273
-          ],
-          [
-            -0.3987390359938759,
-            39.47870565362712
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2081,
-        "denominacion": "VALLE DE LA BALLESTERA (DE PÍO BAROJA A MTRO. RODRIGO)",
-        "estado": 0,
-        "idtramo": 291,
-        "fiwareid": "EstadoTrafico_291",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2099,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.381243775740637,
-            39.49740464807775
-          ],
-          [
-            -0.3812231966236973,
-            39.49971651909297
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2099,
-        "denominacion": "PASO INFERIOR Cº MONCADA DE SALIDA",
-        "estado": 0,
-        "idtramo": 306,
-        "fiwareid": "EstadoTrafico_306",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -12784,6 +12784,35 @@
     },
     {
       "type": "Feature",
+      "id": 1950,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3842592750962854,
+            39.468969592911215
+          ],
+          [
+            -0.3819379010348445,
+            39.46571959797311
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1950,
+        "denominacion": "RAMÓN Y CAJAL HACIA PLAZA ESPAÑA",
+        "estado": 0,
+        "idtramo": 32,
+        "fiwareid": "EstadoTrafico_32",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2023,
       "geometry": {
         "type": "LineString",
@@ -13198,6 +13227,35 @@
         "estado": 0,
         "idtramo": 150,
         "fiwareid": "EstadoTrafico_150",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1993,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38402773046313166,
+            39.48198796387384
+          ],
+          [
+            -0.38495327490716813,
+            39.483298296979385
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1993,
+        "denominacion": "PADRE FERRIS HACIA JOAQUÍN BALLESTER",
+        "estado": 0,
+        "idtramo": 138,
+        "fiwareid": "EstadoTrafico_138",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -14526,6 +14584,111 @@
         "estado": 0,
         "idtramo": 294,
         "fiwareid": "EstadoTrafico_294",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2035,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3385953327598577,
+            39.46187996124316
+          ],
+          [
+            -0.3376390503015738,
+            39.46266954822938
+          ],
+          [
+            -0.33751768524527587,
+            39.46277336837308
+          ],
+          [
+            -0.33740114640422414,
+            39.46288045202147
+          ],
+          [
+            -0.3372895666631872,
+            39.46299066710244
+          ],
+          [
+            -0.3371830908652589,
+            39.463103872808965
+          ],
+          [
+            -0.33708184097587585,
+            39.4632199188011
+          ],
+          [
+            -0.33698597311311745,
+            39.46333867353863
+          ],
+          [
+            -0.33651813800432206,
+            39.4638961070721
+          ],
+          [
+            -0.33612717522044566,
+            39.464500812906884
+          ],
+          [
+            -0.3360126082714053,
+            39.46468554163145
+          ],
+          [
+            -0.33590596382396043,
+            39.46487310042129
+          ],
+          [
+            -0.33580734306800003,
+            39.465063275408454
+          ],
+          [
+            -0.33571685846669724,
+            39.465255861990975
+          ],
+          [
+            -0.3356346105315391,
+            39.46545066430031
+          ],
+          [
+            -0.3355606779269828,
+            39.46564744993067
+          ],
+          [
+            -0.3354951495595025,
+            39.46584602274458
+          ],
+          [
+            -0.33535190227633915,
+            39.4663435884597
+          ],
+          [
+            -0.33522717056905466,
+            39.46684412798844
+          ],
+          [
+            -0.33498818505936845,
+            39.46844715865029
+          ],
+          [
+            -0.33484279574754666,
+            39.46964540117716
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2035,
+        "denominacion": "SERRERÍA HACIA AV. DEL PUERTO",
+        "estado": 0,
+        "idtramo": 229,
+        "fiwareid": "EstadoTrafico_229",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -16050,111 +16213,6 @@
     },
     {
       "type": "Feature",
-      "id": 2035,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3385953327598577,
-            39.46187996124316
-          ],
-          [
-            -0.3376390503015738,
-            39.46266954822938
-          ],
-          [
-            -0.33751768524527587,
-            39.46277336837308
-          ],
-          [
-            -0.33740114640422414,
-            39.46288045202147
-          ],
-          [
-            -0.3372895666631872,
-            39.46299066710244
-          ],
-          [
-            -0.3371830908652589,
-            39.463103872808965
-          ],
-          [
-            -0.33708184097587585,
-            39.4632199188011
-          ],
-          [
-            -0.33698597311311745,
-            39.46333867353863
-          ],
-          [
-            -0.33651813800432206,
-            39.4638961070721
-          ],
-          [
-            -0.33612717522044566,
-            39.464500812906884
-          ],
-          [
-            -0.3360126082714053,
-            39.46468554163145
-          ],
-          [
-            -0.33590596382396043,
-            39.46487310042129
-          ],
-          [
-            -0.33580734306800003,
-            39.465063275408454
-          ],
-          [
-            -0.33571685846669724,
-            39.465255861990975
-          ],
-          [
-            -0.3356346105315391,
-            39.46545066430031
-          ],
-          [
-            -0.3355606779269828,
-            39.46564744993067
-          ],
-          [
-            -0.3354951495595025,
-            39.46584602274458
-          ],
-          [
-            -0.33535190227633915,
-            39.4663435884597
-          ],
-          [
-            -0.33522717056905466,
-            39.46684412798844
-          ],
-          [
-            -0.33498818505936845,
-            39.46844715865029
-          ],
-          [
-            -0.33484279574754666,
-            39.46964540117716
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2035,
-        "denominacion": "SERRERÍA HACIA AV. DEL PUERTO",
-        "estado": 0,
-        "idtramo": 229,
-        "fiwareid": "EstadoTrafico_229",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2104,
       "geometry": {
         "type": "LineString",
@@ -16534,6 +16592,39 @@
         "estado": 0,
         "idtramo": 286,
         "fiwareid": "EstadoTrafico_286",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1923,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35303067819818507,
+            39.46079794962849
+          ],
+          [
+            -0.35232335653159375,
+            39.462490405515624
+          ],
+          [
+            -0.35131915251974405,
+            39.465086039091595
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1923,
+        "denominacion": "TOMAS DE MONTAÑANA CAP A AV. DEL PORT",
+        "estado": 0,
+        "idtramo": 90,
+        "fiwareid": "EstadoTrafico_90",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -16989,6 +17080,35 @@
         "estado": 0,
         "idtramo": 201,
         "fiwareid": "EstadoTrafico_201",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2116,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37325418387470055,
+            39.4647945753871
+          ],
+          [
+            -0.36472923638270366,
+            39.46295433866123
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2116,
+        "denominacion": "REINO DE VALENCIA (DE GERMANÍAS A PERIS Y VALERO)",
+        "estado": 0,
+        "idtramo": 364,
+        "fiwareid": null,
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17582,39 +17702,6 @@
         "estado": 0,
         "idtramo": 189,
         "fiwareid": "EstadoTrafico_189",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1923,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35303067819818507,
-            39.46079794962849
-          ],
-          [
-            -0.35232335653159375,
-            39.462490405515624
-          ],
-          [
-            -0.35131915251974405,
-            39.465086039091595
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1923,
-        "denominacion": "TOMAS DE MONTAÑANA CAP A AV. DEL PORT",
-        "estado": 0,
-        "idtramo": 90,
-        "fiwareid": "EstadoTrafico_90",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -19533,64 +19620,6 @@
         "estado": 0,
         "idtramo": 275,
         "fiwareid": "EstadoTrafico_275",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1993,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.38402773046313166,
-            39.48198796387384
-          ],
-          [
-            -0.38495327490716813,
-            39.483298296979385
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1993,
-        "denominacion": "PADRE FERRIS HACIA JOAQUÍN BALLESTER",
-        "estado": 0,
-        "idtramo": 138,
-        "fiwareid": "EstadoTrafico_138",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2116,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37325418387470055,
-            39.4647945753871
-          ],
-          [
-            -0.36472923638270366,
-            39.46295433866123
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2116,
-        "denominacion": "REINO DE VALENCIA (DE GERMANÍAS A PERIS Y VALERO)",
-        "estado": 0,
-        "idtramo": 364,
-        "fiwareid": null,
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -23095,35 +23124,6 @@
         "estado": 0,
         "idtramo": 85,
         "fiwareid": "EstadoTrafico_85",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1950,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3842592750962854,
-            39.468969592911215
-          ],
-          [
-            -0.3819379010348445,
-            39.46571959797311
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1950,
-        "denominacion": "RAMÓN Y CAJAL HACIA PLAZA ESPAÑA",
-        "estado": 0,
-        "idtramo": 32,
-        "fiwareid": "EstadoTrafico_32",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
