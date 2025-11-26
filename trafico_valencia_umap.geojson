@@ -194,6 +194,151 @@
     },
     {
       "type": "Feature",
+      "id": 2079,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3918969130723222,
+            39.46898583138683
+          ],
+          [
+            -0.395167137202115,
+            39.46830267004622
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2079,
+        "denominacion": "LINARES",
+        "estado": 0,
+        "idtramo": 238,
+        "fiwareid": "EstadoTrafico_238",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2133,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3484301513905571,
+            39.48333316130381
+          ],
+          [
+            -0.342939253756237,
+            39.486872774186224
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2133,
+        "denominacion": "V-21 SENTIDO SALIDA",
+        "estado": 0,
+        "idtramo": 342,
+        "fiwareid": "EstadoTrafico_342",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2126,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3747682079926163,
+            39.47917038804806
+          ],
+          [
+            -0.3737146125130393,
+            39.480337884181374
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2126,
+        "denominacion": "PUENTE DE MADERA",
+        "estado": 0,
+        "idtramo": 333,
+        "fiwareid": "EstadoTrafico_333",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1911,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3932532317609151,
+            39.47130700749977
+          ],
+          [
+            -0.3957776583002747,
+            39.474867748671365
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1911,
+        "denominacion": "PEREZ GALDOS CAP A GIORGETA",
+        "estado": 3,
+        "idtramo": 17,
+        "fiwareid": null,
+        "_umap_options": {
+          "color": "#000000",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1994,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3738927240300245,
+            39.47035381270459
+          ],
+          [
+            -0.3738534302413184,
+            39.46795997255577
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1994,
+        "denominacion": "PASCUAL Y GENÍS",
+        "estado": 0,
+        "idtramo": 139,
+        "fiwareid": "EstadoTrafico_139",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1958,
       "geometry": {
         "type": "LineString",
@@ -272,35 +417,6 @@
         "estado": 0,
         "idtramo": 137,
         "fiwareid": "EstadoTrafico_137",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2133,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3484301513905571,
-            39.48333316130381
-          ],
-          [
-            -0.342939253756237,
-            39.486872774186224
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2133,
-        "denominacion": "V-21 SENTIDO SALIDA",
-        "estado": 0,
-        "idtramo": 342,
-        "fiwareid": "EstadoTrafico_342",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -2750,6 +2866,35 @@
     },
     {
       "type": "Feature",
+      "id": 1926,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37531675759923583,
+            39.46434822360575
+          ],
+          [
+            -0.37395964942362264,
+            39.4649335787078
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1926,
+        "denominacion": "GERMANIES CAP A PAS INFERIOR",
+        "estado": 0,
+        "idtramo": 130,
+        "fiwareid": "EstadoTrafico_130",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1895,
       "geometry": {
         "type": "LineString",
@@ -4046,35 +4191,6 @@
     },
     {
       "type": "Feature",
-      "id": 1926,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37531675759923583,
-            39.46434822360575
-          ],
-          [
-            -0.37395964942362264,
-            39.4649335787078
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1926,
-        "denominacion": "GERMANIES CAP A PAS INFERIOR",
-        "estado": 0,
-        "idtramo": 130,
-        "fiwareid": "EstadoTrafico_130",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2101,
       "geometry": {
         "type": "LineString",
@@ -4300,6 +4416,35 @@
         "estado": 0,
         "idtramo": 91,
         "fiwareid": "EstadoTrafico_91",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2220,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36712991729548067,
+            39.477489668988945
+          ],
+          [
+            -0.3665402221642626,
+            39.47875893987337
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2220,
+        "denominacion": "GENERAL ELIO HACIA BLASCO IBAÑEZ",
+        "estado": 0,
+        "idtramo": 361,
+        "fiwareid": "EstadoTrafico_361",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -5350,35 +5495,6 @@
     },
     {
       "type": "Feature",
-      "id": 2220,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36712991729548067,
-            39.477489668988945
-          ],
-          [
-            -0.3665402221642626,
-            39.47875893987337
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2220,
-        "denominacion": "GENERAL ELIO HACIA BLASCO IBAÑEZ",
-        "estado": 0,
-        "idtramo": 361,
-        "fiwareid": "EstadoTrafico_361",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2225,
       "geometry": {
         "type": "LineString",
@@ -5496,35 +5612,6 @@
         "estado": 0,
         "idtramo": 4,
         "fiwareid": "EstadoTrafico_4",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2079,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3918969130723222,
-            39.46898583138683
-          ],
-          [
-            -0.395167137202115,
-            39.46830267004622
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2079,
-        "denominacion": "LINARES",
-        "estado": 0,
-        "idtramo": 238,
-        "fiwareid": "EstadoTrafico_238",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -7497,35 +7584,6 @@
         "estado": 0,
         "idtramo": 187,
         "fiwareid": "EstadoTrafico_187",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2126,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3747682079926163,
-            39.47917038804806
-          ],
-          [
-            -0.3737146125130393,
-            39.480337884181374
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2126,
-        "denominacion": "PUENTE DE MADERA",
-        "estado": 0,
-        "idtramo": 333,
-        "fiwareid": "EstadoTrafico_333",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10167,6 +10225,35 @@
         "estado": 0,
         "idtramo": 352,
         "fiwareid": "EstadoTrafico_352",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2176,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.386705374669799,
+            39.44659672649728
+          ],
+          [
+            -0.3892691646366351,
+            39.44719366535951
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2176,
+        "denominacion": "TOMAS SALA (DE SAN VICENTE A CARTEROS)",
+        "estado": 0,
+        "idtramo": 407,
+        "fiwareid": "EstadoTrafico_407",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -12859,35 +12946,6 @@
         "estado": 0,
         "idtramo": 446,
         "fiwareid": "EstadoTrafico_446",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2176,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.386705374669799,
-            39.44659672649728
-          ],
-          [
-            -0.3892691646366351,
-            39.44719366535951
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2176,
-        "denominacion": "TOMAS SALA (DE SAN VICENTE A CARTEROS)",
-        "estado": 0,
-        "idtramo": 407,
-        "fiwareid": "EstadoTrafico_407",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -15879,6 +15937,35 @@
     },
     {
       "type": "Feature",
+      "id": 1979,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3455693761312604,
+            39.47958164902931
+          ],
+          [
+            -0.3478197473588521,
+            39.47435284308104
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1979,
+        "denominacion": "RAMÓN LLULL HACIA BLASCO IBÁÑEZ",
+        "estado": 0,
+        "idtramo": 41,
+        "fiwareid": "EstadoTrafico_41",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1989,
       "geometry": {
         "type": "LineString",
@@ -18236,35 +18323,6 @@
     },
     {
       "type": "Feature",
-      "id": 1994,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3738927240300245,
-            39.47035381270459
-          ],
-          [
-            -0.3738534302413184,
-            39.46795997255577
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1994,
-        "denominacion": "PASCUAL Y GENÍS",
-        "estado": 0,
-        "idtramo": 139,
-        "fiwareid": "EstadoTrafico_139",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2045,
       "geometry": {
         "type": "LineString",
@@ -18652,6 +18710,35 @@
         "estado": 0,
         "idtramo": 464,
         "fiwareid": "EstadoTrafico_464",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2049,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36688728584119024,
+            39.49701621500626
+          ],
+          [
+            -0.3735332603571574,
+            39.498955254202
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2049,
+        "denominacion": "PASO INFERIOR HNOS. MACHADO HACIA ALFAHUIR",
+        "estado": 0,
+        "idtramo": 212,
+        "fiwareid": "EstadoTrafico_212",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -21220,35 +21307,6 @@
     },
     {
       "type": "Feature",
-      "id": 2049,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36688728584119024,
-            39.49701621500626
-          ],
-          [
-            -0.3735332603571574,
-            39.498955254202
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2049,
-        "denominacion": "PASO INFERIOR HNOS. MACHADO HACIA ALFAHUIR",
-        "estado": 0,
-        "idtramo": 212,
-        "fiwareid": "EstadoTrafico_212",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2154,
       "geometry": {
         "type": "LineString",
@@ -22158,35 +22216,6 @@
         "fiwareid": "EstadoTrafico_145",
         "_umap_options": {
           "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1911,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3932532317609151,
-            39.47130700749977
-          ],
-          [
-            -0.3957776583002747,
-            39.474867748671365
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1911,
-        "denominacion": "PEREZ GALDOS CAP A GIORGETA",
-        "estado": 3,
-        "idtramo": 17,
-        "fiwareid": null,
-        "_umap_options": {
-          "color": "#000000",
           "weight": 3,
           "opacity": 1
         }
@@ -23255,35 +23284,6 @@
         "estado": 0,
         "idtramo": 81,
         "fiwareid": "EstadoTrafico_81",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1979,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3455693761312604,
-            39.47958164902931
-          ],
-          [
-            -0.3478197473588521,
-            39.47435284308104
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1979,
-        "denominacion": "RAMÓN LLULL HACIA BLASCO IBÁÑEZ",
-        "estado": 0,
-        "idtramo": 41,
-        "fiwareid": "EstadoTrafico_41",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
