@@ -227,6 +227,93 @@
     },
     {
       "type": "Feature",
+      "id": 2209,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37954099582657297,
+            39.46833647999582
+          ],
+          [
+            -0.37936102047738124,
+            39.46884065327345
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2209,
+        "denominacion": "PL. SAN AGUSTÍN",
+        "estado": 0,
+        "idtramo": 448,
+        "fiwareid": "EstadoTrafico_448",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1959,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3694586304622647,
+            39.47349896936148
+          ],
+          [
+            -0.3686502767783566,
+            39.47246632432795
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1959,
+        "denominacion": "GENERAL PALANCA",
+        "estado": 0,
+        "idtramo": 127,
+        "fiwareid": "EstadoTrafico_127",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2020,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36503105823729254,
+            39.47071919710535
+          ],
+          [
+            -0.36331217509497554,
+            39.471535980912435
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2020,
+        "denominacion": "PUENTE DE LAS FLORES",
+        "estado": 0,
+        "idtramo": 172,
+        "fiwareid": "EstadoTrafico_172",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2178,
       "geometry": {
         "type": "LineString",
@@ -2011,6 +2098,35 @@
     },
     {
       "type": "Feature",
+      "id": 2121,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3690274149340284,
+            39.44535967884208
+          ],
+          [
+            -0.3705579634267312,
+            39.43414284828027
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2121,
+        "denominacion": "AUSIAS MARCH (DE A. FERRANDIS A V-31)",
+        "estado": 0,
+        "idtramo": 341,
+        "fiwareid": "EstadoTrafico_341",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2021,
       "geometry": {
         "type": "LineString",
@@ -2833,35 +2949,6 @@
         "estado": 0,
         "idtramo": 308,
         "fiwareid": "EstadoTrafico_308",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2121,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3690274149340284,
-            39.44535967884208
-          ],
-          [
-            -0.3705579634267312,
-            39.43414284828027
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2121,
-        "denominacion": "AUSIAS MARCH (DE A. FERRANDIS A V-31)",
-        "estado": 0,
-        "idtramo": 341,
-        "fiwareid": "EstadoTrafico_341",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10466,35 +10553,6 @@
     },
     {
       "type": "Feature",
-      "id": 2209,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37954099582657297,
-            39.46833647999582
-          ],
-          [
-            -0.37936102047738124,
-            39.46884065327345
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2209,
-        "denominacion": "PL. SAN AGUSTÍN",
-        "estado": 0,
-        "idtramo": 448,
-        "fiwareid": "EstadoTrafico_448",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1863,
       "geometry": {
         "type": "LineString",
@@ -10544,35 +10602,6 @@
         "estado": 0,
         "idtramo": 408,
         "fiwareid": "EstadoTrafico_408",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1959,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3694586304622647,
-            39.47349896936148
-          ],
-          [
-            -0.3686502767783566,
-            39.47246632432795
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1959,
-        "denominacion": "GENERAL PALANCA",
-        "estado": 0,
-        "idtramo": 127,
-        "fiwareid": "EstadoTrafico_127",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -12365,6 +12394,39 @@
     },
     {
       "type": "Feature",
+      "id": 1923,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35303067819818507,
+            39.46079794962849
+          ],
+          [
+            -0.35232335653159375,
+            39.462490405515624
+          ],
+          [
+            -0.35131915251974405,
+            39.465086039091595
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1923,
+        "denominacion": "TOMAS DE MONTAÑANA CAP A AV. DEL PORT",
+        "estado": 0,
+        "idtramo": 90,
+        "fiwareid": "EstadoTrafico_90",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2232,
       "geometry": {
         "type": "LineString",
@@ -13365,6 +13427,35 @@
         "estado": 0,
         "idtramo": 295,
         "fiwareid": "EstadoTrafico_295",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1954,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.34661534511317676,
+            39.45667149151433
+          ],
+          [
+            -0.33918471425062374,
+            39.46130023941925
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1954,
+        "denominacion": "MENORCA HACIA AV. DEL PUERTO",
+        "estado": 0,
+        "idtramo": 198,
+        "fiwareid": "EstadoTrafico_198",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -15319,6 +15410,51 @@
     },
     {
       "type": "Feature",
+      "id": 2206,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39073048474273375,
+            39.47882759516713
+          ],
+          [
+            -0.3888162419005415,
+            39.47942806884558
+          ],
+          [
+            -0.3883962355796946,
+            39.47959880636018
+          ],
+          [
+            -0.38701394312037773,
+            39.48024886956978
+          ],
+          [
+            -0.38520840043917837,
+            39.481051794394965
+          ],
+          [
+            -0.3842624260255365,
+            39.481478052235694
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2206,
+        "denominacion": "AV. MENÉNDEZ PIDAL (DE PUENTE DE ADEMUZ A PUENTE DE LAS ARTES)",
+        "estado": 0,
+        "idtramo": 445,
+        "fiwareid": "EstadoTrafico_445",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2037,
       "geometry": {
         "type": "LineString",
@@ -15678,68 +15814,6 @@
         "estado": 0,
         "idtramo": 414,
         "fiwareid": "EstadoTrafico_414",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1923,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35303067819818507,
-            39.46079794962849
-          ],
-          [
-            -0.35232335653159375,
-            39.462490405515624
-          ],
-          [
-            -0.35131915251974405,
-            39.465086039091595
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1923,
-        "denominacion": "TOMAS DE MONTAÑANA CAP A AV. DEL PORT",
-        "estado": 0,
-        "idtramo": 90,
-        "fiwareid": "EstadoTrafico_90",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1954,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.34661534511317676,
-            39.45667149151433
-          ],
-          [
-            -0.33918471425062374,
-            39.46130023941925
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1954,
-        "denominacion": "MENORCA HACIA AV. DEL PUERTO",
-        "estado": 0,
-        "idtramo": 198,
-        "fiwareid": "EstadoTrafico_198",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -16273,51 +16347,6 @@
     },
     {
       "type": "Feature",
-      "id": 2206,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39073048474273375,
-            39.47882759516713
-          ],
-          [
-            -0.3888162419005415,
-            39.47942806884558
-          ],
-          [
-            -0.3883962355796946,
-            39.47959880636018
-          ],
-          [
-            -0.38701394312037773,
-            39.48024886956978
-          ],
-          [
-            -0.38520840043917837,
-            39.481051794394965
-          ],
-          [
-            -0.3842624260255365,
-            39.481478052235694
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2206,
-        "denominacion": "AV. MENÉNDEZ PIDAL (DE PUENTE DE ADEMUZ A PUENTE DE LAS ARTES)",
-        "estado": 0,
-        "idtramo": 445,
-        "fiwareid": "EstadoTrafico_445",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2227,
       "geometry": {
         "type": "LineString",
@@ -16666,6 +16695,35 @@
         "estado": 0,
         "idtramo": 457,
         "fiwareid": "EstadoTrafico_457",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2145,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40464228212487946,
+            39.488154037515855
+          ],
+          [
+            -0.40013629431961156,
+            39.49015354782041
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2145,
+        "denominacion": "LA SAFOR (DE CORTES VALENCIANAS A M. RODRIGO)",
+        "estado": 0,
+        "idtramo": 374,
+        "fiwareid": "EstadoTrafico_374",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -21146,35 +21204,6 @@
     },
     {
       "type": "Feature",
-      "id": 2020,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36503105823729254,
-            39.47071919710535
-          ],
-          [
-            -0.36331217509497554,
-            39.471535980912435
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2020,
-        "denominacion": "PUENTE DE LAS FLORES",
-        "estado": 0,
-        "idtramo": 172,
-        "fiwareid": "EstadoTrafico_172",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2009,
       "geometry": {
         "type": "LineString",
@@ -21232,35 +21261,6 @@
         "estado": 0,
         "idtramo": 422,
         "fiwareid": "EstadoTrafico_422",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2145,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40464228212487946,
-            39.488154037515855
-          ],
-          [
-            -0.40013629431961156,
-            39.49015354782041
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2145,
-        "denominacion": "LA SAFOR (DE CORTES VALENCIANAS A M. RODRIGO)",
-        "estado": 0,
-        "idtramo": 374,
-        "fiwareid": "EstadoTrafico_374",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
