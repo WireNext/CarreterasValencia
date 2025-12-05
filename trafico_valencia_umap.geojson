@@ -824,6 +824,39 @@
     },
     {
       "type": "Feature",
+      "id": 1924,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.34787267952988865,
+            39.47353307448665
+          ],
+          [
+            -0.3492621789229789,
+            39.470111270875236
+          ],
+          [
+            -0.3510992211414723,
+            39.4656260928085
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1924,
+        "denominacion": "M. CANDELA CAP A BLASCO IBAÑEZ",
+        "estado": 0,
+        "idtramo": 91,
+        "fiwareid": "EstadoTrafico_91",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1913,
       "geometry": {
         "type": "LineString",
@@ -1726,39 +1759,6 @@
         "estado": 0,
         "idtramo": 74,
         "fiwareid": "EstadoTrafico_74",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1924,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.34787267952988865,
-            39.47353307448665
-          ],
-          [
-            -0.3492621789229789,
-            39.470111270875236
-          ],
-          [
-            -0.3510992211414723,
-            39.4656260928085
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1924,
-        "denominacion": "M. CANDELA CAP A BLASCO IBAÑEZ",
-        "estado": 0,
-        "idtramo": 91,
-        "fiwareid": "EstadoTrafico_91",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -6903,6 +6903,92 @@
     },
     {
       "type": "Feature",
+      "id": 2180,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3797433191923787,
+            39.44543146367186
+          ],
+          [
+            -0.37364063518736385,
+            39.444826502192946
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2180,
+        "denominacion": "FDO. ABRIL MARTORELL (DE MALILLA A AUSIAS MARCH)",
+        "estado": 0,
+        "idtramo": 413,
+        "fiwareid": "EstadoTrafico_413",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2167,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40307502980039567,
+            39.46928713847878
+          ],
+          [
+            -0.40541418105692767,
+            39.46971327979514
+          ],
+          [
+            -0.405664819907425,
+            39.469755406146014
+          ],
+          [
+            -0.405917184895801,
+            39.469790813859795
+          ],
+          [
+            -0.4061709643875772,
+            39.46981944191591
+          ],
+          [
+            -0.4064258802494719,
+            39.46984126607953
+          ],
+          [
+            -0.4066816195051561,
+            39.46985626134064
+          ],
+          [
+            -0.4069378691768825,
+            39.469864402691925
+          ],
+          [
+            -0.4087762382231033,
+            39.46978180628542
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2167,
+        "denominacion": "PASO INFERIOR AV. DEL CID HACIA PÉREZ GALDÓS",
+        "estado": 0,
+        "idtramo": 393,
+        "fiwareid": "EstadoTrafico_393",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2063,
       "geometry": {
         "type": "LineString",
@@ -8813,35 +8899,6 @@
     },
     {
       "type": "Feature",
-      "id": 2180,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3797433191923787,
-            39.44543146367186
-          ],
-          [
-            -0.37364063518736385,
-            39.444826502192946
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2180,
-        "denominacion": "FDO. ABRIL MARTORELL (DE MALILLA A AUSIAS MARCH)",
-        "estado": 0,
-        "idtramo": 413,
-        "fiwareid": "EstadoTrafico_413",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1948,
       "geometry": {
         "type": "LineString",
@@ -9771,6 +9828,35 @@
     },
     {
       "type": "Feature",
+      "id": 2231,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39375239044011284,
+            39.48298542656164
+          ],
+          [
+            -0.39570934513589295,
+            39.48574151108051
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2231,
+        "denominacion": "VÍA DE SERVICIO DE PÍO XII A GRAL. AVILÉS",
+        "estado": 0,
+        "idtramo": 430,
+        "fiwareid": "EstadoTrafico_430",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1875,
       "geometry": {
         "type": "LineString",
@@ -10027,6 +10113,35 @@
         "estado": 0,
         "idtramo": 456,
         "fiwareid": "EstadoTrafico_456",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2233,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3927312418299929,
+            39.487346184018
+          ],
+          [
+            -0.39575748210642286,
+            39.4860643754214
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2233,
+        "denominacion": "GENERAL AVILÉS (DE PASO INFERIOR A PÍO XII)",
+        "estado": 0,
+        "idtramo": 432,
+        "fiwareid": "EstadoTrafico_432",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10928,92 +11043,6 @@
     },
     {
       "type": "Feature",
-      "id": 2231,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39375239044011284,
-            39.48298542656164
-          ],
-          [
-            -0.39570934513589295,
-            39.48574151108051
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2231,
-        "denominacion": "VÍA DE SERVICIO DE PÍO XII A GRAL. AVILÉS",
-        "estado": 0,
-        "idtramo": 430,
-        "fiwareid": "EstadoTrafico_430",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2167,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40307502980039567,
-            39.46928713847878
-          ],
-          [
-            -0.40541418105692767,
-            39.46971327979514
-          ],
-          [
-            -0.405664819907425,
-            39.469755406146014
-          ],
-          [
-            -0.405917184895801,
-            39.469790813859795
-          ],
-          [
-            -0.4061709643875772,
-            39.46981944191591
-          ],
-          [
-            -0.4064258802494719,
-            39.46984126607953
-          ],
-          [
-            -0.4066816195051561,
-            39.46985626134064
-          ],
-          [
-            -0.4069378691768825,
-            39.469864402691925
-          ],
-          [
-            -0.4087762382231033,
-            39.46978180628542
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2167,
-        "denominacion": "PASO INFERIOR AV. DEL CID HACIA PÉREZ GALDÓS",
-        "estado": 0,
-        "idtramo": 393,
-        "fiwareid": "EstadoTrafico_393",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2067,
       "geometry": {
         "type": "LineString",
@@ -11071,26 +11100,26 @@
     },
     {
       "type": "Feature",
-      "id": 2233,
+      "id": 2080,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.3927312418299929,
-            39.487346184018
+            -0.36006371706577633,
+            39.46195344665309
           ],
           [
-            -0.39575748210642286,
-            39.4860643754214
+            -0.3578532067115532,
+            39.461465151340555
           ]
         ]
       },
       "properties": {
-        "gid": 2233,
-        "denominacion": "GENERAL AVILÉS (DE PASO INFERIOR A PÍO XII)",
+        "gid": 2080,
+        "denominacion": "PUENTE REINO DE VALENCIA HACIA FRANCIA",
         "estado": 0,
-        "idtramo": 432,
-        "fiwareid": "EstadoTrafico_432",
+        "idtramo": 290,
+        "fiwareid": null,
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -13210,35 +13239,6 @@
         "estado": 0,
         "idtramo": 395,
         "fiwareid": "EstadoTrafico_395",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2080,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36006371706577633,
-            39.46195344665309
-          ],
-          [
-            -0.3578532067115532,
-            39.461465151340555
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2080,
-        "denominacion": "PUENTE REINO DE VALENCIA HACIA FRANCIA",
-        "estado": 0,
-        "idtramo": 290,
-        "fiwareid": null,
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -15455,6 +15455,35 @@
     },
     {
       "type": "Feature",
+      "id": 2031,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40291308369751877,
+            39.49510471439049
+          ],
+          [
+            -0.40523181565854566,
+            39.498427759213335
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2031,
+        "denominacion": "CORTES VALENCIANAS (DE CV-35 A CAMP DE TURIA)",
+        "estado": 0,
+        "idtramo": 187,
+        "fiwareid": "EstadoTrafico_187",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2037,
       "geometry": {
         "type": "LineString",
@@ -15540,6 +15569,35 @@
         "estado": 0,
         "idtramo": 63,
         "fiwareid": "EstadoTrafico_63",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2129,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3798557831493669,
+            39.47310564815366
+          ],
+          [
+            -0.37967678730994064,
+            39.46894441096039
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2129,
+        "denominacion": "OEST (SANT AGUSTI)",
+        "estado": 0,
+        "idtramo": 337,
+        "fiwareid": "EstadoTrafico_337",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -16762,6 +16820,35 @@
     },
     {
       "type": "Feature",
+      "id": 1958,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40623040620333345,
+            39.46359718962901
+          ],
+          [
+            -0.41334953907334326,
+            39.46325971229566
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1958,
+        "denominacion": "TRES FORQUES (DE TRES CRUCES A V-30)",
+        "estado": 0,
+        "idtramo": 110,
+        "fiwareid": "EstadoTrafico_110",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1941,
       "geometry": {
         "type": "LineString",
@@ -17486,35 +17573,6 @@
     },
     {
       "type": "Feature",
-      "id": 2031,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40291308369751877,
-            39.49510471439049
-          ],
-          [
-            -0.40523181565854566,
-            39.498427759213335
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2031,
-        "denominacion": "CORTES VALENCIANAS (DE CV-35 A CAMP DE TURIA)",
-        "estado": 0,
-        "idtramo": 187,
-        "fiwareid": "EstadoTrafico_187",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2053,
       "geometry": {
         "type": "LineString",
@@ -17859,35 +17917,6 @@
         "estado": 0,
         "idtramo": 190,
         "fiwareid": "EstadoTrafico_190",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1958,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40623040620333345,
-            39.46359718962901
-          ],
-          [
-            -0.41334953907334326,
-            39.46325971229566
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1958,
-        "denominacion": "TRES FORQUES (DE TRES CRUCES A V-30)",
-        "estado": 0,
-        "idtramo": 110,
-        "fiwareid": "EstadoTrafico_110",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18740,35 +18769,6 @@
         "estado": 0,
         "idtramo": 24,
         "fiwareid": "EstadoTrafico_24",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2129,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3798557831493669,
-            39.47310564815366
-          ],
-          [
-            -0.37967678730994064,
-            39.46894441096039
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2129,
-        "denominacion": "OEST (SANT AGUSTI)",
-        "estado": 0,
-        "idtramo": 337,
-        "fiwareid": "EstadoTrafico_337",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
