@@ -13167,6 +13167,35 @@
     },
     {
       "type": "Feature",
+      "id": 2070,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35110190674271935,
+            39.453679996030644
+          ],
+          [
+            -0.3480632012654322,
+            39.45571523051734
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2070,
+        "denominacion": "PUENTE DEL ASSUT DE L'OR HACIA MENORCA",
+        "estado": 0,
+        "idtramo": 274,
+        "fiwareid": "EstadoTrafico_274",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2064,
       "geometry": {
         "type": "LineString",
@@ -13864,6 +13893,35 @@
     },
     {
       "type": "Feature",
+      "id": 2051,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36819006730507564,
+            39.477041552128874
+          ],
+          [
+            -0.3695162133937578,
+            39.47577715246627
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2051,
+        "denominacion": "PUENTE DEL REAL HACIA PLAZA TETUÁN",
+        "estado": 0,
+        "idtramo": 260,
+        "fiwareid": "EstadoTrafico_260",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1887,
       "geometry": {
         "type": "LineString",
@@ -14544,35 +14602,6 @@
     },
     {
       "type": "Feature",
-      "id": 2070,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35110190674271935,
-            39.453679996030644
-          ],
-          [
-            -0.3480632012654322,
-            39.45571523051734
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2070,
-        "denominacion": "PUENTE DEL ASSUT DE L'OR HACIA MENORCA",
-        "estado": 0,
-        "idtramo": 274,
-        "fiwareid": "EstadoTrafico_274",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2105,
       "geometry": {
         "type": "LineString",
@@ -15169,35 +15198,6 @@
     },
     {
       "type": "Feature",
-      "id": 2051,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36819006730507564,
-            39.477041552128874
-          ],
-          [
-            -0.3695162133937578,
-            39.47577715246627
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2051,
-        "denominacion": "PUENTE DEL REAL HACIA PLAZA TETUÁN",
-        "estado": 0,
-        "idtramo": 260,
-        "fiwareid": "EstadoTrafico_260",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2157,
       "geometry": {
         "type": "LineString",
@@ -15550,6 +15550,35 @@
         "estado": 0,
         "idtramo": 368,
         "fiwareid": "EstadoTrafico_368",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2181,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3667436858592395,
+            39.49722982828592
+          ],
+          [
+            -0.37341015792018273,
+            39.49914590742689
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2181,
+        "denominacion": "VÍA DE SERVICIO DE HNOS. MACHADO HACIA CNO. MONCADA",
+        "estado": 0,
+        "idtramo": 414,
+        "fiwareid": "EstadoTrafico_414",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17530,35 +17559,6 @@
     },
     {
       "type": "Feature",
-      "id": 2181,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3667436858592395,
-            39.49722982828592
-          ],
-          [
-            -0.37341015792018273,
-            39.49914590742689
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2181,
-        "denominacion": "VÍA DE SERVICIO DE HNOS. MACHADO HACIA CNO. MONCADA",
-        "estado": 0,
-        "idtramo": 414,
-        "fiwareid": "EstadoTrafico_414",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2137,
       "geometry": {
         "type": "LineString",
@@ -18703,6 +18703,35 @@
         "estado": 0,
         "idtramo": 227,
         "fiwareid": "EstadoTrafico_227",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2100,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3940801895146191,
+            39.482818151458794
+          ],
+          [
+            -0.398382193648975,
+            39.488784614786184
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2100,
+        "denominacion": "PASO INFERIOR PÍO XII DE ENTRADA",
+        "estado": 0,
+        "idtramo": 307,
+        "fiwareid": "EstadoTrafico_307",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -19939,6 +19968,39 @@
         "estado": 0,
         "idtramo": 324,
         "fiwareid": "EstadoTrafico_324",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1920,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3481525036553117,
+            39.47360677384357
+          ],
+          [
+            -0.3496302709839885,
+            39.46987911455906
+          ],
+          [
+            -0.3513595507743913,
+            39.465703132541535
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1920,
+        "denominacion": "M. CANDELA CAP A AV. DEL PORT",
+        "estado": 0,
+        "idtramo": 86,
+        "fiwareid": "EstadoTrafico_86",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -24020,68 +24082,6 @@
         "estado": 0,
         "idtramo": 446,
         "fiwareid": "EstadoTrafico_446",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2100,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3940801895146191,
-            39.482818151458794
-          ],
-          [
-            -0.398382193648975,
-            39.488784614786184
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2100,
-        "denominacion": "PASO INFERIOR PÍO XII DE ENTRADA",
-        "estado": 0,
-        "idtramo": 307,
-        "fiwareid": "EstadoTrafico_307",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1920,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3481525036553117,
-            39.47360677384357
-          ],
-          [
-            -0.3496302709839885,
-            39.46987911455906
-          ],
-          [
-            -0.3513595507743913,
-            39.465703132541535
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1920,
-        "denominacion": "M. CANDELA CAP A AV. DEL PORT",
-        "estado": 0,
-        "idtramo": 86,
-        "fiwareid": "EstadoTrafico_86",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
