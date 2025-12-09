@@ -6427,6 +6427,43 @@
     },
     {
       "type": "Feature",
+      "id": 1918,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3611445909276983,
+            39.46315860474135
+          ],
+          [
+            -0.36415183287789227,
+            39.461920791591645
+          ],
+          [
+            -0.36908597920279107,
+            39.45983904302511
+          ],
+          [
+            -0.3755100898676314,
+            39.457146003039774
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1918,
+        "denominacion": "PERIS I VALERO CAP A AUSIAS MARCH",
+        "estado": 0,
+        "idtramo": 22,
+        "fiwareid": "EstadoTrafico_22",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2115,
       "geometry": {
         "type": "LineString",
@@ -7570,43 +7607,6 @@
         "estado": 0,
         "idtramo": 413,
         "fiwareid": "EstadoTrafico_413",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1918,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3611445909276983,
-            39.46315860474135
-          ],
-          [
-            -0.36415183287789227,
-            39.461920791591645
-          ],
-          [
-            -0.36908597920279107,
-            39.45983904302511
-          ],
-          [
-            -0.3755100898676314,
-            39.457146003039774
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1918,
-        "denominacion": "PERIS I VALERO CAP A AUSIAS MARCH",
-        "estado": 0,
-        "idtramo": 22,
-        "fiwareid": "EstadoTrafico_22",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10048,6 +10048,35 @@
     },
     {
       "type": "Feature",
+      "id": 2226,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.34739097586323076,
+            39.47347854050279
+          ],
+          [
+            -0.3353426002820924,
+            39.46997353795166
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2226,
+        "denominacion": "BLASCO IBAÑEZ (DE M.CANDELA A SERRERÍA)",
+        "estado": 0,
+        "idtramo": 424,
+        "fiwareid": "EstadoTrafico_424",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1945,
       "geometry": {
         "type": "LineString",
@@ -11081,35 +11110,6 @@
         "estado": 0,
         "idtramo": 39,
         "fiwareid": "EstadoTrafico_39",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2226,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.34739097586323076,
-            39.47347854050279
-          ],
-          [
-            -0.3353426002820924,
-            39.46997353795166
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2226,
-        "denominacion": "BLASCO IBAÑEZ (DE M.CANDELA A SERRERÍA)",
-        "estado": 0,
-        "idtramo": 424,
-        "fiwareid": "EstadoTrafico_424",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -12310,6 +12310,35 @@
         "estado": 0,
         "idtramo": 429,
         "fiwareid": "EstadoTrafico_429",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2050,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3525816633146644,
+            39.46026225807026
+          ],
+          [
+            -0.34440532027417603,
+            39.458498936682496
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2050,
+        "denominacion": "FRANCIA (DE T. DE MONTAÑANA A MENORCA)",
+        "estado": 0,
+        "idtramo": 251,
+        "fiwareid": "EstadoTrafico_251",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -13703,6 +13732,35 @@
         "estado": 0,
         "idtramo": 370,
         "fiwareid": "EstadoTrafico_370",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2095,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3606285858649085,
+            39.46313497728865
+          ],
+          [
+            -0.3589557366271989,
+            39.46352998926183
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2095,
+        "denominacion": "PUENTE DEL ÁNGEL CUSTODIO HACIA E. BOSCÁ?",
+        "estado": 0,
+        "idtramo": 302,
+        "fiwareid": "EstadoTrafico_302",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -16122,35 +16180,6 @@
     },
     {
       "type": "Feature",
-      "id": 2095,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3606285858649085,
-            39.46313497728865
-          ],
-          [
-            -0.3589557366271989,
-            39.46352998926183
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2095,
-        "denominacion": "PUENTE DEL ÁNGEL CUSTODIO HACIA E. BOSCÁ?",
-        "estado": 0,
-        "idtramo": 302,
-        "fiwareid": "EstadoTrafico_302",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2019,
       "geometry": {
         "type": "LineString",
@@ -16747,6 +16776,35 @@
         "estado": 0,
         "idtramo": 262,
         "fiwareid": "EstadoTrafico_262",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2033,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38207911246722354,
+            39.49047376916287
+          ],
+          [
+            -0.38464705849522984,
+            39.49741498955835
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2033,
+        "denominacion": "JUAN XXIII HACIA HNOS. MACHADO",
+        "estado": 0,
+        "idtramo": 214,
+        "fiwareid": "EstadoTrafico_214",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18775,64 +18833,6 @@
         "estado": 0,
         "idtramo": 276,
         "fiwareid": "EstadoTrafico_276",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2050,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3525816633146644,
-            39.46026225807026
-          ],
-          [
-            -0.34440532027417603,
-            39.458498936682496
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2050,
-        "denominacion": "FRANCIA (DE T. DE MONTAÑANA A MENORCA)",
-        "estado": 0,
-        "idtramo": 251,
-        "fiwareid": "EstadoTrafico_251",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2033,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.38207911246722354,
-            39.49047376916287
-          ],
-          [
-            -0.38464705849522984,
-            39.49741498955835
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2033,
-        "denominacion": "JUAN XXIII HACIA HNOS. MACHADO",
-        "estado": 0,
-        "idtramo": 214,
-        "fiwareid": "EstadoTrafico_214",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
