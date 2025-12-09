@@ -762,6 +762,35 @@
     },
     {
       "type": "Feature",
+      "id": 2056,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39391438166559034,
+            39.48293934908677
+          ],
+          [
+            -0.3981963241229932,
+            39.488874595114716
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2056,
+        "denominacion": "PASO INFERIOR PIO XII DE SALIDA",
+        "estado": 0,
+        "idtramo": 280,
+        "fiwareid": "EstadoTrafico_280",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2191,
       "geometry": {
         "type": "LineString",
@@ -2726,6 +2755,35 @@
     },
     {
       "type": "Feature",
+      "id": 2136,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39089203456654276,
+            39.47871724306495
+          ],
+          [
+            -0.39011113469862246,
+            39.47762209180753
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2136,
+        "denominacion": "PUENTE DE LAS GLORIAS VALENCIANAS HACIA PÍO XII",
+        "estado": 0,
+        "idtramo": 346,
+        "fiwareid": "EstadoTrafico_346",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1957,
       "geometry": {
         "type": "LineString",
@@ -3293,6 +3351,35 @@
     },
     {
       "type": "Feature",
+      "id": 2071,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3482372588539744,
+            39.45587136027445
+          ],
+          [
+            -0.3512807836252805,
+            39.45383749235226
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2071,
+        "denominacion": "PUENTE DEL ASSUT DE L'OR HACIA ANTONIO FERRANDIS",
+        "estado": 0,
+        "idtramo": 275,
+        "fiwareid": "EstadoTrafico_275",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1997,
       "geometry": {
         "type": "LineString",
@@ -3687,35 +3774,6 @@
     },
     {
       "type": "Feature",
-      "id": 2056,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39391438166559034,
-            39.48293934908677
-          ],
-          [
-            -0.3981963241229932,
-            39.488874595114716
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2056,
-        "denominacion": "PASO INFERIOR PIO XII DE SALIDA",
-        "estado": 0,
-        "idtramo": 280,
-        "fiwareid": "EstadoTrafico_280",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1973,
       "geometry": {
         "type": "LineString",
@@ -3859,35 +3917,6 @@
         "estado": 0,
         "idtramo": 63,
         "fiwareid": "EstadoTrafico_63",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2136,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39089203456654276,
-            39.47871724306495
-          ],
-          [
-            -0.39011113469862246,
-            39.47762209180753
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2136,
-        "denominacion": "PUENTE DE LAS GLORIAS VALENCIANAS HACIA PÍO XII",
-        "estado": 0,
-        "idtramo": 346,
-        "fiwareid": "EstadoTrafico_346",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -4524,35 +4553,6 @@
         "estado": 0,
         "idtramo": 272,
         "fiwareid": null,
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2071,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3482372588539744,
-            39.45587136027445
-          ],
-          [
-            -0.3512807836252805,
-            39.45383749235226
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2071,
-        "denominacion": "PUENTE DEL ASSUT DE L'OR HACIA ANTONIO FERRANDIS",
-        "estado": 0,
-        "idtramo": 275,
-        "fiwareid": "EstadoTrafico_275",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -5539,6 +5539,35 @@
         "fiwareid": null,
         "_umap_options": {
           "color": "#000000",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2221,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40442521734106085,
+            39.48789305947106
+          ],
+          [
+            -0.39992977572061844,
+            39.48986352790392
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2221,
+        "denominacion": "LA SAFOR (DE M. RODRIGO A CORTES VALENCIANAS)",
+        "estado": 0,
+        "idtramo": 373,
+        "fiwareid": "EstadoTrafico_373",
+        "_umap_options": {
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -6831,35 +6860,6 @@
     },
     {
       "type": "Feature",
-      "id": 2221,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40442521734106085,
-            39.48789305947106
-          ],
-          [
-            -0.39992977572061844,
-            39.48986352790392
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2221,
-        "denominacion": "LA SAFOR (DE M. RODRIGO A CORTES VALENCIANAS)",
-        "estado": 0,
-        "idtramo": 373,
-        "fiwareid": "EstadoTrafico_373",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2187,
       "geometry": {
         "type": "LineString",
@@ -7570,6 +7570,43 @@
         "estado": 0,
         "idtramo": 413,
         "fiwareid": "EstadoTrafico_413",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1918,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3611445909276983,
+            39.46315860474135
+          ],
+          [
+            -0.36415183287789227,
+            39.461920791591645
+          ],
+          [
+            -0.36908597920279107,
+            39.45983904302511
+          ],
+          [
+            -0.3755100898676314,
+            39.457146003039774
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1918,
+        "denominacion": "PERIS I VALERO CAP A AUSIAS MARCH",
+        "estado": 0,
+        "idtramo": 22,
+        "fiwareid": "EstadoTrafico_22",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -8795,43 +8832,6 @@
     },
     {
       "type": "Feature",
-      "id": 1918,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3611445909276983,
-            39.46315860474135
-          ],
-          [
-            -0.36415183287789227,
-            39.461920791591645
-          ],
-          [
-            -0.36908597920279107,
-            39.45983904302511
-          ],
-          [
-            -0.3755100898676314,
-            39.457146003039774
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1918,
-        "denominacion": "PERIS I VALERO CAP A AUSIAS MARCH",
-        "estado": 0,
-        "idtramo": 22,
-        "fiwareid": "EstadoTrafico_22",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2124,
       "geometry": {
         "type": "LineString",
@@ -8980,6 +8980,35 @@
         "estado": 0,
         "idtramo": 190,
         "fiwareid": "EstadoTrafico_190",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2090,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36378638177207434,
+            39.46872739659277
+          ],
+          [
+            -0.361458943673652,
+            39.4688186085341
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2090,
+        "denominacion": "PUENTE DE ARAGÓN HACIA ARAGÓN",
+        "estado": 0,
+        "idtramo": 300,
+        "fiwareid": "EstadoTrafico_300",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10777,6 +10806,39 @@
     },
     {
       "type": "Feature",
+      "id": 2213,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40513818276733177,
+            39.4634942780075
+          ],
+          [
+            -0.39410019416276315,
+            39.463975242891756
+          ],
+          [
+            -0.388476023589185,
+            39.46419446786988
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2213,
+        "denominacion": "TRES FORQUES (DE TRES CRUCES A PÉREZ GALDÓS)",
+        "estado": 0,
+        "idtramo": 105,
+        "fiwareid": "EstadoTrafico_105",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1953,
       "geometry": {
         "type": "LineString",
@@ -10987,11 +11049,11 @@
       "properties": {
         "gid": 1890,
         "denominacion": "GIORGETA CAP A PERIS I VALERO",
-        "estado": 0,
+        "estado": 1,
         "idtramo": 20,
         "fiwareid": "EstadoTrafico_20",
         "_umap_options": {
-          "color": "#00FF00",
+          "color": "#FFA500",
           "weight": 3,
           "opacity": 1
         }
@@ -11079,6 +11141,127 @@
         "fiwareid": "EstadoTrafico_296",
         "_umap_options": {
           "color": "#000000",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2005,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37390032302461357,
+            39.47052506141505
+          ],
+          [
+            -0.372268045831526,
+            39.471377755203584
+          ],
+          [
+            -0.37225126840218836,
+            39.47138621345516
+          ],
+          [
+            -0.3722341243188554,
+            39.47139422198269
+          ],
+          [
+            -0.37221664842293,
+            39.47140178157387
+          ],
+          [
+            -0.37219885300607986,
+            39.47140887448885
+          ],
+          [
+            -0.37218076095718006,
+            39.471415510253934
+          ],
+          [
+            -0.3721623961816728,
+            39.47142167139194
+          ],
+          [
+            -0.3721437709713147,
+            39.471427340163125
+          ],
+          [
+            -0.3721249082150581,
+            39.47143252609372
+          ],
+          [
+            -0.37210583147956344,
+            39.471437220707806
+          ],
+          [
+            -0.3720865643315299,
+            39.47144141552938
+          ],
+          [
+            -0.37206711872395004,
+            39.471445101819874
+          ],
+          [
+            -0.372047529498406,
+            39.471448280367085
+          ],
+          [
+            -0.3720278082690817,
+            39.47145095143363
+          ],
+          [
+            -0.3720079902164335,
+            39.471453106806166
+          ],
+          [
+            -0.3719880872935311,
+            39.47145473774625
+          ],
+          [
+            -0.37196813400312856,
+            39.471455854042865
+          ],
+          [
+            -0.3719481306845641,
+            39.47145644669485
+          ],
+          [
+            -0.37192811184059743,
+            39.47145652549127
+          ],
+          [
+            -0.37190811299063786,
+            39.471456073217816
+          ],
+          [
+            -0.3718881334573769,
+            39.47145510787677
+          ],
+          [
+            -0.3718682084213432,
+            39.47145362125498
+          ],
+          [
+            -0.3718483727241561,
+            39.47145161414044
+          ],
+          [
+            -0.37110168575664854,
+            39.47139999610589
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2005,
+        "denominacion": "PINTOR SOROLLA",
+        "estado": 0,
+        "idtramo": 81,
+        "fiwareid": "EstadoTrafico_81",
+        "_umap_options": {
+          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -11692,6 +11875,35 @@
     },
     {
       "type": "Feature",
+      "id": 2121,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3690274149340284,
+            39.44535967884208
+          ],
+          [
+            -0.3705579634267312,
+            39.43414284828027
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2121,
+        "denominacion": "AUSIAS MARCH (DE A. FERRANDIS A V-31)",
+        "estado": 0,
+        "idtramo": 341,
+        "fiwareid": "EstadoTrafico_341",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1971,
       "geometry": {
         "type": "LineString",
@@ -11712,6 +11924,35 @@
         "estado": 0,
         "idtramo": 78,
         "fiwareid": "EstadoTrafico_78",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2059,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4068300907782578,
+            39.481570561380046
+          ],
+          [
+            -0.4050597983341209,
+            39.48722446344815
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2059,
+        "denominacion": "PÍO BAROJA (DE GENERAL AVILÉS A LA SAFOR)",
+        "estado": 0,
+        "idtramo": 242,
+        "fiwareid": "EstadoTrafico_242",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11920,39 +12161,6 @@
         "estado": 0,
         "idtramo": 59,
         "fiwareid": "EstadoTrafico_59",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2213,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40513818276733177,
-            39.4634942780075
-          ],
-          [
-            -0.39410019416276315,
-            39.463975242891756
-          ],
-          [
-            -0.388476023589185,
-            39.46419446786988
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2213,
-        "denominacion": "TRES FORQUES (DE TRES CRUCES A PÉREZ GALDÓS)",
-        "estado": 0,
-        "idtramo": 105,
-        "fiwareid": "EstadoTrafico_105",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -12450,127 +12658,6 @@
     },
     {
       "type": "Feature",
-      "id": 2005,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37390032302461357,
-            39.47052506141505
-          ],
-          [
-            -0.372268045831526,
-            39.471377755203584
-          ],
-          [
-            -0.37225126840218836,
-            39.47138621345516
-          ],
-          [
-            -0.3722341243188554,
-            39.47139422198269
-          ],
-          [
-            -0.37221664842293,
-            39.47140178157387
-          ],
-          [
-            -0.37219885300607986,
-            39.47140887448885
-          ],
-          [
-            -0.37218076095718006,
-            39.471415510253934
-          ],
-          [
-            -0.3721623961816728,
-            39.47142167139194
-          ],
-          [
-            -0.3721437709713147,
-            39.471427340163125
-          ],
-          [
-            -0.3721249082150581,
-            39.47143252609372
-          ],
-          [
-            -0.37210583147956344,
-            39.471437220707806
-          ],
-          [
-            -0.3720865643315299,
-            39.47144141552938
-          ],
-          [
-            -0.37206711872395004,
-            39.471445101819874
-          ],
-          [
-            -0.372047529498406,
-            39.471448280367085
-          ],
-          [
-            -0.3720278082690817,
-            39.47145095143363
-          ],
-          [
-            -0.3720079902164335,
-            39.471453106806166
-          ],
-          [
-            -0.3719880872935311,
-            39.47145473774625
-          ],
-          [
-            -0.37196813400312856,
-            39.471455854042865
-          ],
-          [
-            -0.3719481306845641,
-            39.47145644669485
-          ],
-          [
-            -0.37192811184059743,
-            39.47145652549127
-          ],
-          [
-            -0.37190811299063786,
-            39.471456073217816
-          ],
-          [
-            -0.3718881334573769,
-            39.47145510787677
-          ],
-          [
-            -0.3718682084213432,
-            39.47145362125498
-          ],
-          [
-            -0.3718483727241561,
-            39.47145161414044
-          ],
-          [
-            -0.37110168575664854,
-            39.47139999610589
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2005,
-        "denominacion": "PINTOR SOROLLA",
-        "estado": 0,
-        "idtramo": 81,
-        "fiwareid": "EstadoTrafico_81",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2026,
       "geometry": {
         "type": "LineString",
@@ -13041,35 +13128,6 @@
         "estado": 0,
         "idtramo": 46,
         "fiwareid": "EstadoTrafico_46",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2059,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.4068300907782578,
-            39.481570561380046
-          ],
-          [
-            -0.4050597983341209,
-            39.48722446344815
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2059,
-        "denominacion": "PÍO BAROJA (DE GENERAL AVILÉS A LA SAFOR)",
-        "estado": 0,
-        "idtramo": 242,
-        "fiwareid": "EstadoTrafico_242",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -15005,6 +15063,35 @@
     },
     {
       "type": "Feature",
+      "id": 1933,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3701751419960775,
+            39.47273446711281
+          ],
+          [
+            -0.3741820187290576,
+            39.473532579702635
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1933,
+        "denominacion": "PAZ (DE GENERAL TOVAR A MARQUÉS DE DOS AGUAS)",
+        "estado": 0,
+        "idtramo": 52,
+        "fiwareid": "EstadoTrafico_52",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1913,
       "geometry": {
         "type": "LineString",
@@ -16434,6 +16521,35 @@
     },
     {
       "type": "Feature",
+      "id": 2155,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3600845127497528,
+            39.46809452933523
+          ],
+          [
+            -0.3567374172829222,
+            39.467119164249475
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2155,
+        "denominacion": "PUERTO (DE PLAZA ZARAGOZA A EDUARDO BOSCÁ)",
+        "estado": 0,
+        "idtramo": 378,
+        "fiwareid": "EstadoTrafico_378",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1967,
       "geometry": {
         "type": "LineString",
@@ -17095,55 +17211,26 @@
     },
     {
       "type": "Feature",
-      "id": 2090,
+      "id": 2075,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.36378638177207434,
-            39.46872739659277
+            -0.3813610695898595,
+            39.497403652105234
           ],
           [
-            -0.361458943673652,
-            39.4688186085341
+            -0.38134046985802583,
+            39.49971741455987
           ]
         ]
       },
       "properties": {
-        "gid": 2090,
-        "denominacion": "PUENTE DE ARAGÓN HACIA ARAGÓN",
+        "gid": 2075,
+        "denominacion": "PASO INFERIOR Cº MONCADA DE ENTRADA",
         "estado": 0,
-        "idtramo": 300,
-        "fiwareid": "EstadoTrafico_300",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2155,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3600845127497528,
-            39.46809452933523
-          ],
-          [
-            -0.3567374172829222,
-            39.467119164249475
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2155,
-        "denominacion": "PUERTO (DE PLAZA ZARAGOZA A EDUARDO BOSCÁ)",
-        "estado": 0,
-        "idtramo": 378,
-        "fiwareid": "EstadoTrafico_378",
+        "idtramo": 286,
+        "fiwareid": "EstadoTrafico_286",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18282,35 +18369,6 @@
     },
     {
       "type": "Feature",
-      "id": 2121,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3690274149340284,
-            39.44535967884208
-          ],
-          [
-            -0.3705579634267312,
-            39.43414284828027
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2121,
-        "denominacion": "AUSIAS MARCH (DE A. FERRANDIS A V-31)",
-        "estado": 0,
-        "idtramo": 341,
-        "fiwareid": "EstadoTrafico_341",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1937,
       "geometry": {
         "type": "LineString",
@@ -18951,35 +19009,6 @@
         "estado": 0,
         "idtramo": 62,
         "fiwareid": "EstadoTrafico_62",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1933,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3701751419960775,
-            39.47273446711281
-          ],
-          [
-            -0.3741820187290576,
-            39.473532579702635
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1933,
-        "denominacion": "PAZ (DE GENERAL TOVAR A MARQUÉS DE DOS AGUAS)",
-        "estado": 0,
-        "idtramo": 52,
-        "fiwareid": "EstadoTrafico_52",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -19960,6 +19989,35 @@
         "estado": 0,
         "idtramo": 417,
         "fiwareid": "EstadoTrafico_417",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2118,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3623238097004253,
+            39.46241359197594
+          ],
+          [
+            -0.3607202398293951,
+            39.46207595909013
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2118,
+        "denominacion": "REINO DE VALENCIA (DE PERIS Y VALERO A ALCALDE REIG)",
+        "estado": 0,
+        "idtramo": 365,
+        "fiwareid": "EstadoTrafico_365",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -21743,35 +21801,6 @@
     },
     {
       "type": "Feature",
-      "id": 2075,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3813610695898595,
-            39.497403652105234
-          ],
-          [
-            -0.38134046985802583,
-            39.49971741455987
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2075,
-        "denominacion": "PASO INFERIOR Cº MONCADA DE ENTRADA",
-        "estado": 0,
-        "idtramo": 286,
-        "fiwareid": "EstadoTrafico_286",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2015,
       "geometry": {
         "type": "LineString",
@@ -22510,35 +22539,6 @@
         "estado": 0,
         "idtramo": 403,
         "fiwareid": "EstadoTrafico_403",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2118,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3623238097004253,
-            39.46241359197594
-          ],
-          [
-            -0.3607202398293951,
-            39.46207595909013
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2118,
-        "denominacion": "REINO DE VALENCIA (DE PERIS Y VALERO A ALCALDE REIG)",
-        "estado": 0,
-        "idtramo": 365,
-        "fiwareid": "EstadoTrafico_365",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
