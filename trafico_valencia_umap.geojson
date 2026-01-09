@@ -94,6 +94,97 @@
     },
     {
       "type": "Feature",
+      "id": 2214,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.32881575445235534,
+            39.46753248538772
+          ],
+          [
+            -0.32901424587909717,
+            39.46616183729602
+          ],
+          [
+            -0.3294775711301634,
+            39.463220997542855
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2214,
+        "denominacion": "REINA",
+        "estado": 0,
+        "idtramo": 264,
+        "fiwareid": "EstadoTrafico_264",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2077,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36808641709687767,
+            39.476928883129574
+          ],
+          [
+            -0.369412562742749,
+            39.47566448461972
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2077,
+        "denominacion": "PUENTE DEL REAL HACIA VIVEROS",
+        "estado": 0,
+        "idtramo": 288,
+        "fiwareid": null,
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2079,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3918969130723222,
+            39.46898583138683
+          ],
+          [
+            -0.395167137202115,
+            39.46830267004622
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2079,
+        "denominacion": "LINARES",
+        "estado": 0,
+        "idtramo": 238,
+        "fiwareid": "EstadoTrafico_238",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1860,
       "geometry": {
         "type": "LineString",
@@ -114,6 +205,35 @@
         "estado": 0,
         "idtramo": 158,
         "fiwareid": "EstadoTrafico_158",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2209,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37954099582657297,
+            39.46833647999582
+          ],
+          [
+            -0.37936102047738124,
+            39.46884065327345
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2209,
+        "denominacion": "PL. SAN AGUSTÍN",
+        "estado": 0,
+        "idtramo": 448,
+        "fiwareid": "EstadoTrafico_448",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -210,6 +330,35 @@
     },
     {
       "type": "Feature",
+      "id": 1859,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3820981057104063,
+            39.482693705752965
+          ],
+          [
+            -0.3838901481611286,
+            39.481939164902236
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1859,
+        "denominacion": "MAURO GUILLEN",
+        "estado": 0,
+        "idtramo": 383,
+        "fiwareid": "EstadoTrafico_383",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2115,
       "geometry": {
         "type": "LineString",
@@ -278,6 +427,39 @@
         "estado": 0,
         "idtramo": 363,
         "fiwareid": "EstadoTrafico_363",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2271,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36916318555349953,
+            39.44771843049322
+          ],
+          [
+            -0.3691881627678821,
+            39.448003905023036
+          ],
+          [
+            -0.3707338262487679,
+            39.45019548841142
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2271,
+        "denominacion": "VÍA DE SERVICIO DE AUSIAS MARCH DE ANTONIO FERRANDIS A EBANISTA CASELLES (SENTIDO PERIS Y VALERO)",
+        "estado": 0,
+        "idtramo": 493,
+        "fiwareid": null,
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -635,6 +817,35 @@
     },
     {
       "type": "Feature",
+      "id": 1881,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33510290823382965,
+            39.45234417803024
+          ],
+          [
+            -0.33547420456713456,
+            39.45010468930301
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1881,
+        "denominacion": "CAMI CANAL D'EIXIDA",
+        "estado": 0,
+        "idtramo": 463,
+        "fiwareid": "EstadoTrafico_463",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2229,
       "geometry": {
         "type": "LineString",
@@ -798,6 +1009,43 @@
         "estado": 0,
         "idtramo": 129,
         "fiwareid": "EstadoTrafico_129",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1918,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3611445909276983,
+            39.46315860474135
+          ],
+          [
+            -0.36415183287789227,
+            39.461920791591645
+          ],
+          [
+            -0.36908597920279107,
+            39.45983904302511
+          ],
+          [
+            -0.3755100898676314,
+            39.457146003039774
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1918,
+        "denominacion": "PERIS I VALERO CAP A AUSIAS MARCH",
+        "estado": 0,
+        "idtramo": 22,
+        "fiwareid": "EstadoTrafico_22",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -1129,6 +1377,64 @@
         "estado": 0,
         "idtramo": 431,
         "fiwareid": "EstadoTrafico_431",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2139,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3772920969115748,
+            39.49127477584534
+          ],
+          [
+            -0.38189955302184936,
+            39.490249341708896
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2139,
+        "denominacion": "PESET ALEIXANDRE (DE JUAN XXIII A PRIMADO REIG)",
+        "estado": 0,
+        "idtramo": 352,
+        "fiwareid": "EstadoTrafico_352",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2156,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35631397454906505,
+            39.467002787264605
+          ],
+          [
+            -0.35149221282154275,
+            39.465579925141654
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2156,
+        "denominacion": "PUERTO (DE EDUARDO BOSCÁ A M. CANDELA)",
+        "estado": 0,
+        "idtramo": 379,
+        "fiwareid": "EstadoTrafico_379",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -2135,64 +2441,6 @@
     },
     {
       "type": "Feature",
-      "id": 2139,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3772920969115748,
-            39.49127477584534
-          ],
-          [
-            -0.38189955302184936,
-            39.490249341708896
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2139,
-        "denominacion": "PESET ALEIXANDRE (DE JUAN XXIII A PRIMADO REIG)",
-        "estado": 0,
-        "idtramo": 352,
-        "fiwareid": "EstadoTrafico_352",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2156,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35631397454906505,
-            39.467002787264605
-          ],
-          [
-            -0.35149221282154275,
-            39.465579925141654
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2156,
-        "denominacion": "PUERTO (DE EDUARDO BOSCÁ A M. CANDELA)",
-        "estado": 0,
-        "idtramo": 379,
-        "fiwareid": "EstadoTrafico_379",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2060,
       "geometry": {
         "type": "LineString",
@@ -2739,43 +2987,6 @@
     },
     {
       "type": "Feature",
-      "id": 1918,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3611445909276983,
-            39.46315860474135
-          ],
-          [
-            -0.36415183287789227,
-            39.461920791591645
-          ],
-          [
-            -0.36908597920279107,
-            39.45983904302511
-          ],
-          [
-            -0.3755100898676314,
-            39.457146003039774
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1918,
-        "denominacion": "PERIS I VALERO CAP A AUSIAS MARCH",
-        "estado": 0,
-        "idtramo": 22,
-        "fiwareid": "EstadoTrafico_22",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1913,
       "geometry": {
         "type": "LineString",
@@ -3240,39 +3451,6 @@
     },
     {
       "type": "Feature",
-      "id": 2271,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36916318555349953,
-            39.44771843049322
-          ],
-          [
-            -0.3691881627678821,
-            39.448003905023036
-          ],
-          [
-            -0.3707338262487679,
-            39.45019548841142
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2271,
-        "denominacion": "VÍA DE SERVICIO DE AUSIAS MARCH DE ANTONIO FERRANDIS A EBANISTA CASELLES (SENTIDO PERIS Y VALERO)",
-        "estado": 0,
-        "idtramo": 493,
-        "fiwareid": null,
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1921,
       "geometry": {
         "type": "LineString",
@@ -3330,6 +3508,39 @@
         "estado": 0,
         "idtramo": 297,
         "fiwareid": "EstadoTrafico_297",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1885,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3798622147883815,
+            39.47051045692491
+          ],
+          [
+            -0.380331488139703,
+            39.469835871887305
+          ],
+          [
+            -0.3810991260347198,
+            39.46888849276936
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1885,
+        "denominacion": "QUEVEDO (DES D'AV. DE L'OEST FINS A GUILLEM DE CASTRO)",
+        "estado": 0,
+        "idtramo": 473,
+        "fiwareid": "EstadoTrafico_473",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -3845,6 +4056,64 @@
     },
     {
       "type": "Feature",
+      "id": 2194,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39963670538363966,
+            39.47573083399886
+          ],
+          [
+            -0.40558746086930314,
+            39.474678557161155
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2194,
+        "denominacion": "MANUEL DE FALLA",
+        "estado": 0,
+        "idtramo": 208,
+        "fiwareid": "EstadoTrafico_208",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2233,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3927312418299929,
+            39.487346184018
+          ],
+          [
+            -0.39575748210642286,
+            39.4860643754214
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2233,
+        "denominacion": "GENERAL AVILÉS (DE PASO INFERIOR A PÍO XII)",
+        "estado": 0,
+        "idtramo": 432,
+        "fiwareid": "EstadoTrafico_432",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1906,
       "geometry": {
         "type": "LineString",
@@ -3925,6 +4194,68 @@
         "estado": 0,
         "idtramo": 67,
         "fiwareid": "EstadoTrafico_67",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2112,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3475780192564546,
+            39.47429426429964
+          ],
+          [
+            -0.3453338084058063,
+            39.47951442263473
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2112,
+        "denominacion": "RAMÓN LLULL HACIA NARANJOS",
+        "estado": 0,
+        "idtramo": 323,
+        "fiwareid": "EstadoTrafico_323",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1894,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3646446489012178,
+            39.46892994838321
+          ],
+          [
+            -0.37121980862200243,
+            39.46617738875677
+          ],
+          [
+            -0.3737796816470192,
+            39.46508047240921
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1894,
+        "denominacion": "MARQUES DEL TURIA CAP A GERMANIES",
+        "estado": 0,
+        "idtramo": 27,
+        "fiwareid": "EstadoTrafico_27",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -4688,6 +5019,39 @@
     },
     {
       "type": "Feature",
+      "id": 1890,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3867691817487131,
+            39.4621983667561
+          ],
+          [
+            -0.3847607232739136,
+            39.4593804621945
+          ],
+          [
+            -0.38365928190481885,
+            39.457803055430254
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1890,
+        "denominacion": "GIORGETA CAP A PERIS I VALERO",
+        "estado": 0,
+        "idtramo": 20,
+        "fiwareid": "EstadoTrafico_20",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2023,
       "geometry": {
         "type": "LineString",
@@ -4964,35 +5328,6 @@
     },
     {
       "type": "Feature",
-      "id": 2209,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37954099582657297,
-            39.46833647999582
-          ],
-          [
-            -0.37936102047738124,
-            39.46884065327345
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2209,
-        "denominacion": "PL. SAN AGUSTÍN",
-        "estado": 0,
-        "idtramo": 448,
-        "fiwareid": "EstadoTrafico_448",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1975,
       "geometry": {
         "type": "LineString",
@@ -5192,35 +5527,6 @@
     },
     {
       "type": "Feature",
-      "id": 2233,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3927312418299929,
-            39.487346184018
-          ],
-          [
-            -0.39575748210642286,
-            39.4860643754214
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2233,
-        "denominacion": "GENERAL AVILÉS (DE PASO INFERIOR A PÍO XII)",
-        "estado": 0,
-        "idtramo": 432,
-        "fiwareid": "EstadoTrafico_432",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1966,
       "geometry": {
         "type": "LineString",
@@ -5245,6 +5551,67 @@
         "estado": 0,
         "idtramo": 240,
         "fiwareid": "EstadoTrafico_240",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2072,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3546700239706787,
+            39.47822381942144
+          ],
+          [
+            -0.35405097481128395,
+            39.479305469299355
+          ],
+          [
+            -0.35392342542829275,
+            39.479484541757024
+          ],
+          [
+            -0.3537538278314931,
+            39.47968967377057
+          ],
+          [
+            -0.3535195209517824,
+            39.4799421051875
+          ],
+          [
+            -0.3532865212104822,
+            39.48015972002052
+          ],
+          [
+            -0.3530078241559319,
+            39.48039719372494
+          ],
+          [
+            -0.3526564820968956,
+            39.48065391203284
+          ],
+          [
+            -0.3486203116668841,
+            39.483250836349605
+          ],
+          [
+            -0.34858359149230655,
+            39.48327089876219
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2072,
+        "denominacion": "PASO INFERIOR CATALUÑA DE SALIDA",
+        "estado": 0,
+        "idtramo": 277,
+        "fiwareid": "EstadoTrafico_277",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -5657,6 +6024,64 @@
         "estado": 0,
         "idtramo": 99,
         "fiwareid": "EstadoTrafico_99",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2051,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36819006730507564,
+            39.477041552128874
+          ],
+          [
+            -0.3695162133937578,
+            39.47577715246627
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2051,
+        "denominacion": "PUENTE DEL REAL HACIA PLAZA TETUÁN",
+        "estado": 0,
+        "idtramo": 260,
+        "fiwareid": "EstadoTrafico_260",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2031,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40291308369751877,
+            39.49510471439049
+          ],
+          [
+            -0.40523181565854566,
+            39.498427759213335
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2031,
+        "denominacion": "CORTES VALENCIANAS (DE CV-35 A CAMP DE TURIA)",
+        "estado": 0,
+        "idtramo": 187,
+        "fiwareid": "EstadoTrafico_187",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -6483,64 +6908,6 @@
     },
     {
       "type": "Feature",
-      "id": 2194,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39963670538363966,
-            39.47573083399886
-          ],
-          [
-            -0.40558746086930314,
-            39.474678557161155
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2194,
-        "denominacion": "MANUEL DE FALLA",
-        "estado": 0,
-        "idtramo": 208,
-        "fiwareid": "EstadoTrafico_208",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2079,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3918969130723222,
-            39.46898583138683
-          ],
-          [
-            -0.395167137202115,
-            39.46830267004622
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2079,
-        "denominacion": "LINARES",
-        "estado": 0,
-        "idtramo": 238,
-        "fiwareid": "EstadoTrafico_238",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2039,
       "geometry": {
         "type": "LineString",
@@ -6561,67 +6928,6 @@
         "estado": 0,
         "idtramo": 137,
         "fiwareid": "EstadoTrafico_137",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2072,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3546700239706787,
-            39.47822381942144
-          ],
-          [
-            -0.35405097481128395,
-            39.479305469299355
-          ],
-          [
-            -0.35392342542829275,
-            39.479484541757024
-          ],
-          [
-            -0.3537538278314931,
-            39.47968967377057
-          ],
-          [
-            -0.3535195209517824,
-            39.4799421051875
-          ],
-          [
-            -0.3532865212104822,
-            39.48015972002052
-          ],
-          [
-            -0.3530078241559319,
-            39.48039719372494
-          ],
-          [
-            -0.3526564820968956,
-            39.48065391203284
-          ],
-          [
-            -0.3486203116668841,
-            39.483250836349605
-          ],
-          [
-            -0.34858359149230655,
-            39.48327089876219
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2072,
-        "denominacion": "PASO INFERIOR CATALUÑA DE SALIDA",
-        "estado": 0,
-        "idtramo": 277,
-        "fiwareid": "EstadoTrafico_277",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -6915,30 +7221,26 @@
     },
     {
       "type": "Feature",
-      "id": 1885,
+      "id": 1933,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.3798622147883815,
-            39.47051045692491
+            -0.3701751419960775,
+            39.47273446711281
           ],
           [
-            -0.380331488139703,
-            39.469835871887305
-          ],
-          [
-            -0.3810991260347198,
-            39.46888849276936
+            -0.3741820187290576,
+            39.473532579702635
           ]
         ]
       },
       "properties": {
-        "gid": 1885,
-        "denominacion": "QUEVEDO (DES D'AV. DE L'OEST FINS A GUILLEM DE CASTRO)",
+        "gid": 1933,
+        "denominacion": "PAZ (DE GENERAL TOVAR A MARQUÉS DE DOS AGUAS)",
         "estado": 0,
-        "idtramo": 473,
-        "fiwareid": "EstadoTrafico_473",
+        "idtramo": 52,
+        "fiwareid": "EstadoTrafico_52",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -6977,26 +7279,26 @@
     },
     {
       "type": "Feature",
-      "id": 2031,
+      "id": 2169,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.40291308369751877,
-            39.49510471439049
+            -0.3785494746095726,
+            39.48546788535239
           ],
           [
-            -0.40523181565854566,
-            39.498427759213335
+            -0.3789002160744652,
+            39.48328332991232
           ]
         ]
       },
       "properties": {
-        "gid": 2031,
-        "denominacion": "CORTES VALENCIANAS (DE CV-35 A CAMP DE TURIA)",
+        "gid": 2169,
+        "denominacion": "CONSTITUCIÓN (DESDE REUS HASTA LLANO DE ZAIDÍA)",
         "estado": 0,
-        "idtramo": 187,
-        "fiwareid": "EstadoTrafico_187",
+        "idtramo": 396,
+        "fiwareid": "EstadoTrafico_396",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -8252,6 +8554,93 @@
     },
     {
       "type": "Feature",
+      "id": 2095,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3606285858649085,
+            39.46313497728865
+          ],
+          [
+            -0.3589557366271989,
+            39.46352998926183
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2095,
+        "denominacion": "PUENTE DEL ÁNGEL CUSTODIO HACIA E. BOSCÁ?",
+        "estado": 0,
+        "idtramo": 302,
+        "fiwareid": "EstadoTrafico_302",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1958,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40623040620333345,
+            39.46359718962901
+          ],
+          [
+            -0.41334953907334326,
+            39.46325971229566
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1958,
+        "denominacion": "TRES FORQUES (DE TRES CRUCES A V-30)",
+        "estado": 0,
+        "idtramo": 110,
+        "fiwareid": "EstadoTrafico_110",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2212,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.376572318939075,
+            39.46724568774728
+          ],
+          [
+            -0.3779361781574594,
+            39.46336833086707
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2212,
+        "denominacion": "ALICANTE (DE XÀTIVA A GERMANÍAS)",
+        "estado": 0,
+        "idtramo": 100,
+        "fiwareid": "EstadoTrafico_100",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1872,
       "geometry": {
         "type": "LineString",
@@ -9290,35 +9679,6 @@
     },
     {
       "type": "Feature",
-      "id": 2112,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3475780192564546,
-            39.47429426429964
-          ],
-          [
-            -0.3453338084058063,
-            39.47951442263473
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2112,
-        "denominacion": "RAMÓN LLULL HACIA NARANJOS",
-        "estado": 0,
-        "idtramo": 323,
-        "fiwareid": "EstadoTrafico_323",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1869,
       "geometry": {
         "type": "LineString",
@@ -10216,72 +10576,6 @@
     },
     {
       "type": "Feature",
-      "id": 1894,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3646446489012178,
-            39.46892994838321
-          ],
-          [
-            -0.37121980862200243,
-            39.46617738875677
-          ],
-          [
-            -0.3737796816470192,
-            39.46508047240921
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1894,
-        "denominacion": "MARQUES DEL TURIA CAP A GERMANIES",
-        "estado": 0,
-        "idtramo": 27,
-        "fiwareid": "EstadoTrafico_27",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2214,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.32881575445235534,
-            39.46753248538772
-          ],
-          [
-            -0.32901424587909717,
-            39.46616183729602
-          ],
-          [
-            -0.3294775711301634,
-            39.463220997542855
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2214,
-        "denominacion": "REINA",
-        "estado": 0,
-        "idtramo": 264,
-        "fiwareid": "EstadoTrafico_264",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2100,
       "geometry": {
         "type": "LineString",
@@ -10302,6 +10596,35 @@
         "estado": 0,
         "idtramo": 307,
         "fiwareid": "EstadoTrafico_307",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2129,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3798557831493669,
+            39.47310564815366
+          ],
+          [
+            -0.37967678730994064,
+            39.46894441096039
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2129,
+        "denominacion": "OEST (SANT AGUSTI)",
+        "estado": 0,
+        "idtramo": 337,
+        "fiwareid": "EstadoTrafico_337",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -10501,6 +10824,93 @@
     },
     {
       "type": "Feature",
+      "id": 1883,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3414144686236983,
+            39.45092166836265
+          ],
+          [
+            -0.3411869827311541,
+            39.448492897327114
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1883,
+        "denominacion": "CARRERA RIU CAP A CAMI DE LES MORERES",
+        "estado": 0,
+        "idtramo": 465,
+        "fiwareid": "EstadoTrafico_465",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2073,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3911583681473715,
+            39.479115078713775
+          ],
+          [
+            -0.39255675262786366,
+            39.48112941112641
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2073,
+        "denominacion": "PIO XII (DE MENÉNDEZ PIDAL A JOAQUIN BALLESTER)",
+        "estado": 0,
+        "idtramo": 279,
+        "fiwareid": "EstadoTrafico_279",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1882,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33494898197116507,
+            39.45233328835126
+          ],
+          [
+            -0.33532433559092,
+            39.45008595646735
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1882,
+        "denominacion": "CAMI CANAL CAP A CAMI DE LES MORERES",
+        "estado": 0,
+        "idtramo": 464,
+        "fiwareid": "EstadoTrafico_464",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1936,
       "geometry": {
         "type": "LineString",
@@ -10577,6 +10987,35 @@
         "estado": 0,
         "idtramo": 152,
         "fiwareid": "EstadoTrafico_152",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2203,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37693917855631814,
+            39.46771206629439
+          ],
+          [
+            -0.3767815485109228,
+            39.469066305643494
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2203,
+        "denominacion": "MARQUÉS DE SOTELO (DE XÀTIVA A AYUNTAMIENTO)",
+        "estado": 0,
+        "idtramo": 440,
+        "fiwareid": "EstadoTrafico_440",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11169,6 +11608,96 @@
     },
     {
       "type": "Feature",
+      "id": 2088,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3841269286651612,
+            39.481518172237855
+          ],
+          [
+            -0.38332408252982886,
+            39.48039405071826
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2088,
+        "denominacion": "PUENTE DE LAS ARTES HACIA GUILLEM DE CASTRO",
+        "estado": 0,
+        "idtramo": 298,
+        "fiwareid": "EstadoTrafico_298",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2151,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40756749828993566,
+            39.49223239482286
+          ],
+          [
+            -0.407563489851395,
+            39.49223481884989
+          ],
+          [
+            -0.4075491922444515,
+            39.49224285102614
+          ],
+          [
+            -0.40753454887605345,
+            39.49225048810727
+          ],
+          [
+            -0.40751957136388695,
+            39.49225773035236
+          ],
+          [
+            -0.40750427199471023,
+            39.49226456001779
+          ],
+          [
+            -0.40748867433830044,
+            39.4922709686205
+          ],
+          [
+            -0.4074727900124105,
+            39.49227695641962
+          ],
+          [
+            -0.4074566545389364,
+            39.4922825061899
+          ],
+          [
+            -0.40307230168634983,
+            39.49417029436348
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2151,
+        "denominacion": "CAMP DE TURIA (DE M. RODRIGO A CORTES VALENCIANAS)",
+        "estado": 0,
+        "idtramo": 372,
+        "fiwareid": "EstadoTrafico_372",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2179,
       "geometry": {
         "type": "LineString",
@@ -11282,64 +11811,6 @@
         "estado": 0,
         "idtramo": 37,
         "fiwareid": "EstadoTrafico_37",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1883,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3414144686236983,
-            39.45092166836265
-          ],
-          [
-            -0.3411869827311541,
-            39.448492897327114
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1883,
-        "denominacion": "CARRERA RIU CAP A CAMI DE LES MORERES",
-        "estado": 0,
-        "idtramo": 465,
-        "fiwareid": "EstadoTrafico_465",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2073,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3911583681473715,
-            39.479115078713775
-          ],
-          [
-            -0.39255675262786366,
-            39.48112941112641
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2073,
-        "denominacion": "PIO XII (DE MENÉNDEZ PIDAL A JOAQUIN BALLESTER)",
-        "estado": 0,
-        "idtramo": 279,
-        "fiwareid": "EstadoTrafico_279",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11583,6 +12054,93 @@
     },
     {
       "type": "Feature",
+      "id": 2154,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4058440107784114,
+            39.46316729368229
+          ],
+          [
+            -0.4028974590455961,
+            39.458452182055716
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2154,
+        "denominacion": "TRES CRUCES (DE TRES FORQUES A ARCHIDUQUE CARLOS)",
+        "estado": 0,
+        "idtramo": 377,
+        "fiwareid": "EstadoTrafico_377",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2027,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3731672496810217,
+            39.46500211906708
+          ],
+          [
+            -0.3644843405169369,
+            39.468675670571145
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2027,
+        "denominacion": "MARQUÉS DEL TÚRIA HACIA PUENTE DE ARAGÓN",
+        "estado": 0,
+        "idtramo": 227,
+        "fiwareid": "EstadoTrafico_227",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2222,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4026923076155083,
+            39.46939745705022
+          ],
+          [
+            -0.3962542408430365,
+            39.468259267071524
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2222,
+        "denominacion": "AV. DEL CID (DE LINARES A NUEVE DE OCTUBRE)",
+        "estado": 0,
+        "idtramo": 391,
+        "fiwareid": "EstadoTrafico_391",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1962,
       "geometry": {
         "type": "LineString",
@@ -11736,6 +12294,47 @@
         "estado": 0,
         "idtramo": 454,
         "fiwareid": "EstadoTrafico_454",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3810321290783308,
+            39.475108659517204
+          ],
+          [
+            -0.38209964227824256,
+            39.47526051196476
+          ],
+          [
+            -0.38297851360884044,
+            39.475383422412015
+          ],
+          [
+            -0.3833392136923414,
+            39.47543990415137
+          ],
+          [
+            -0.3837162469583685,
+            39.47550071637243
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2006,
+        "denominacion": "MURILLO (DE MORO ZEIT A GUILLEM DE CASTRO)",
+        "estado": 0,
+        "idtramo": 133,
+        "fiwareid": "EstadoTrafico_133",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -11968,35 +12567,6 @@
     },
     {
       "type": "Feature",
-      "id": 2212,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.376572318939075,
-            39.46724568774728
-          ],
-          [
-            -0.3779361781574594,
-            39.46336833086707
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2212,
-        "denominacion": "ALICANTE (DE XÀTIVA A GERMANÍAS)",
-        "estado": 0,
-        "idtramo": 100,
-        "fiwareid": "EstadoTrafico_100",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1892,
       "geometry": {
         "type": "LineString",
@@ -12052,93 +12622,6 @@
         "fiwareid": null,
         "_umap_options": {
           "color": "#000000",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1958,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40623040620333345,
-            39.46359718962901
-          ],
-          [
-            -0.41334953907334326,
-            39.46325971229566
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1958,
-        "denominacion": "TRES FORQUES (DE TRES CRUCES A V-30)",
-        "estado": 0,
-        "idtramo": 110,
-        "fiwareid": "EstadoTrafico_110",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2095,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3606285858649085,
-            39.46313497728865
-          ],
-          [
-            -0.3589557366271989,
-            39.46352998926183
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2095,
-        "denominacion": "PUENTE DEL ÁNGEL CUSTODIO HACIA E. BOSCÁ?",
-        "estado": 0,
-        "idtramo": 302,
-        "fiwareid": "EstadoTrafico_302",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2203,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.37693917855631814,
-            39.46771206629439
-          ],
-          [
-            -0.3767815485109228,
-            39.469066305643494
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2203,
-        "denominacion": "MARQUÉS DE SOTELO (DE XÀTIVA A AYUNTAMIENTO)",
-        "estado": 0,
-        "idtramo": 440,
-        "fiwareid": "EstadoTrafico_440",
-        "_umap_options": {
-          "color": "#00FF00",
           "weight": 3,
           "opacity": 1
         }
@@ -12411,113 +12894,30 @@
     },
     {
       "type": "Feature",
-      "id": 2154,
+      "id": 2012,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.4058440107784114,
-            39.46316729368229
+            -0.3763400069027002,
+            39.45808836065154
           ],
           [
-            -0.4028974590455961,
-            39.458452182055716
+            -0.3772695296303868,
+            39.45915453421023
+          ],
+          [
+            -0.37861344419705256,
+            39.46116091960784
           ]
         ]
       },
       "properties": {
-        "gid": 2154,
-        "denominacion": "TRES CRUCES (DE TRES FORQUES A ARCHIDUQUE CARLOS)",
+        "gid": 2012,
+        "denominacion": "FILIPINAS HACIA GERMANÍAS",
         "estado": 0,
-        "idtramo": 377,
-        "fiwareid": "EstadoTrafico_377",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2027,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3731672496810217,
-            39.46500211906708
-          ],
-          [
-            -0.3644843405169369,
-            39.468675670571145
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2027,
-        "denominacion": "MARQUÉS DEL TÚRIA HACIA PUENTE DE ARAGÓN",
-        "estado": 0,
-        "idtramo": 227,
-        "fiwareid": "EstadoTrafico_227",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2222,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.4026923076155083,
-            39.46939745705022
-          ],
-          [
-            -0.3962542408430365,
-            39.468259267071524
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2222,
-        "denominacion": "AV. DEL CID (DE LINARES A NUEVE DE OCTUBRE)",
-        "estado": 0,
-        "idtramo": 391,
-        "fiwareid": "EstadoTrafico_391",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2129,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3798557831493669,
-            39.47310564815366
-          ],
-          [
-            -0.37967678730994064,
-            39.46894441096039
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2129,
-        "denominacion": "OEST (SANT AGUSTI)",
-        "estado": 0,
-        "idtramo": 337,
-        "fiwareid": "EstadoTrafico_337",
+        "idtramo": 146,
+        "fiwareid": "EstadoTrafico_146",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -13149,87 +13549,26 @@
     },
     {
       "type": "Feature",
-      "id": 2088,
+      "id": 2126,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.3841269286651612,
-            39.481518172237855
+            -0.3747682079926163,
+            39.47917038804806
           ],
           [
-            -0.38332408252982886,
-            39.48039405071826
+            -0.3737146125130393,
+            39.480337884181374
           ]
         ]
       },
       "properties": {
-        "gid": 2088,
-        "denominacion": "PUENTE DE LAS ARTES HACIA GUILLEM DE CASTRO",
+        "gid": 2126,
+        "denominacion": "PUENTE DE MADERA",
         "estado": 0,
-        "idtramo": 298,
-        "fiwareid": "EstadoTrafico_298",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2151,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.40756749828993566,
-            39.49223239482286
-          ],
-          [
-            -0.407563489851395,
-            39.49223481884989
-          ],
-          [
-            -0.4075491922444515,
-            39.49224285102614
-          ],
-          [
-            -0.40753454887605345,
-            39.49225048810727
-          ],
-          [
-            -0.40751957136388695,
-            39.49225773035236
-          ],
-          [
-            -0.40750427199471023,
-            39.49226456001779
-          ],
-          [
-            -0.40748867433830044,
-            39.4922709686205
-          ],
-          [
-            -0.4074727900124105,
-            39.49227695641962
-          ],
-          [
-            -0.4074566545389364,
-            39.4922825061899
-          ],
-          [
-            -0.40307230168634983,
-            39.49417029436348
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2151,
-        "denominacion": "CAMP DE TURIA (DE M. RODRIGO A CORTES VALENCIANAS)",
-        "estado": 0,
-        "idtramo": 372,
-        "fiwareid": "EstadoTrafico_372",
+        "idtramo": 333,
+        "fiwareid": "EstadoTrafico_333",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -13810,80 +14149,6 @@
     },
     {
       "type": "Feature",
-      "id": 2006,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3810321290783308,
-            39.475108659517204
-          ],
-          [
-            -0.38209964227824256,
-            39.47526051196476
-          ],
-          [
-            -0.38297851360884044,
-            39.475383422412015
-          ],
-          [
-            -0.3833392136923414,
-            39.47543990415137
-          ],
-          [
-            -0.3837162469583685,
-            39.47550071637243
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2006,
-        "denominacion": "MURILLO (DE MORO ZEIT A GUILLEM DE CASTRO)",
-        "estado": 0,
-        "idtramo": 133,
-        "fiwareid": "EstadoTrafico_133",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2012,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3763400069027002,
-            39.45808836065154
-          ],
-          [
-            -0.3772695296303868,
-            39.45915453421023
-          ],
-          [
-            -0.37861344419705256,
-            39.46116091960784
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2012,
-        "denominacion": "FILIPINAS HACIA GERMANÍAS",
-        "estado": 0,
-        "idtramo": 146,
-        "fiwareid": "EstadoTrafico_146",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2022,
       "geometry": {
         "type": "LineString",
@@ -14375,39 +14640,6 @@
         "estado": 0,
         "idtramo": 44,
         "fiwareid": "EstadoTrafico_44",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1890,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3867691817487131,
-            39.4621983667561
-          ],
-          [
-            -0.3847607232739136,
-            39.4593804621945
-          ],
-          [
-            -0.38365928190481885,
-            39.457803055430254
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1890,
-        "denominacion": "GIORGETA CAP A PERIS I VALERO",
-        "estado": 0,
-        "idtramo": 20,
-        "fiwareid": "EstadoTrafico_20",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -15019,6 +15251,213 @@
         "estado": 0,
         "idtramo": 406,
         "fiwareid": "EstadoTrafico_406",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2068,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36086668820080703,
+            39.468181158038625
+          ],
+          [
+            -0.35884547301172676,
+            39.464130765422325
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2068,
+        "denominacion": "PASEO DE LA ALAMEDA (DE PLAZA ZARAGOZA A EDUARDO BOSCA)",
+        "estado": 0,
+        "idtramo": 270,
+        "fiwareid": "EstadoTrafico_270",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1924,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.34787267952988865,
+            39.47353307448665
+          ],
+          [
+            -0.3492621789229789,
+            39.470111270875236
+          ],
+          [
+            -0.3510992211414723,
+            39.4656260928085
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1924,
+        "denominacion": "M. CANDELA CAP A BLASCO IBAÑEZ",
+        "estado": 0,
+        "idtramo": 91,
+        "fiwareid": "EstadoTrafico_91",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1969,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35785559425858876,
+            39.458177666050545
+          ],
+          [
+            -0.3561339102613151,
+            39.45615675076359
+          ],
+          [
+            -0.3560312634167758,
+            39.45602807642347
+          ],
+          [
+            -0.3559330668420135,
+            39.45590955704512
+          ],
+          [
+            -0.3558297264742583,
+            39.45579369526408
+          ],
+          [
+            -0.3557213417158868,
+            39.455680628460286
+          ],
+          [
+            -0.3556080584103771,
+            39.45557049507008
+          ],
+          [
+            -0.3554899882470242,
+            39.455463414734886
+          ],
+          [
+            -0.35536728901520037,
+            39.45535951715391
+          ],
+          [
+            -0.3552400956202478,
+            39.4552589224967
+          ],
+          [
+            -0.3551085429645891,
+            39.45516175093291
+          ],
+          [
+            -0.3549728018028516,
+            39.45506809642181
+          ],
+          [
+            -0.3548330299123946,
+            39.45497808866275
+          ],
+          [
+            -0.3546893744792796,
+            39.454891830087945
+          ],
+          [
+            -0.3545644728864183,
+            39.45482159242197
+          ],
+          [
+            -0.3544370006221996,
+            39.45475418792744
+          ],
+          [
+            -0.35430706047181826,
+            39.4546896639796
+          ],
+          [
+            -0.3541747780996635,
+            39.45462807748368
+          ],
+          [
+            -0.3540388401765607,
+            39.454564524778874
+          ],
+          [
+            -0.35390565781805944,
+            39.45449756627233
+          ],
+          [
+            -0.3537753676353724,
+            39.45442727715423
+          ],
+          [
+            -0.35364810691979526,
+            39.454353714613205
+          ],
+          [
+            -0.35352401125558425,
+            39.45427698084316
+          ],
+          [
+            -0.3534032059782738,
+            39.4541971417699
+          ],
+          [
+            -0.3532858389607324,
+            39.45411428185017
+          ],
+          [
+            -0.3531720225594844,
+            39.45402850274976
+          ],
+          [
+            -0.3530618817628786,
+            39.453939879395904
+          ],
+          [
+            -0.35295552858219625,
+            39.45384852245552
+          ],
+          [
+            -0.35285308800168036,
+            39.45375450685587
+          ],
+          [
+            -0.35283653438281526,
+            39.45373840949123
+          ],
+          [
+            -0.3528205042598411,
+            39.45372199072284
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1969,
+        "denominacion": "PROFESOR LÓPEZ PIÑERO (DE AV. DE LA PLATA A A. FERRANDIS)",
+        "estado": 0,
+        "idtramo": 57,
+        "fiwareid": "EstadoTrafico_57",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -15772,35 +16211,6 @@
     },
     {
       "type": "Feature",
-      "id": 2051,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36819006730507564,
-            39.477041552128874
-          ],
-          [
-            -0.3695162133937578,
-            39.47577715246627
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2051,
-        "denominacion": "PUENTE DEL REAL HACIA PLAZA TETUÁN",
-        "estado": 0,
-        "idtramo": 260,
-        "fiwareid": "EstadoTrafico_260",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1877,
       "geometry": {
         "type": "LineString",
@@ -16449,35 +16859,6 @@
     },
     {
       "type": "Feature",
-      "id": 2068,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36086668820080703,
-            39.468181158038625
-          ],
-          [
-            -0.35884547301172676,
-            39.464130765422325
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2068,
-        "denominacion": "PASEO DE LA ALAMEDA (DE PLAZA ZARAGOZA A EDUARDO BOSCA)",
-        "estado": 0,
-        "idtramo": 270,
-        "fiwareid": "EstadoTrafico_270",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1968,
       "geometry": {
         "type": "LineString",
@@ -16498,151 +16879,6 @@
         "estado": 0,
         "idtramo": 259,
         "fiwareid": "EstadoTrafico_259",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1969,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35785559425858876,
-            39.458177666050545
-          ],
-          [
-            -0.3561339102613151,
-            39.45615675076359
-          ],
-          [
-            -0.3560312634167758,
-            39.45602807642347
-          ],
-          [
-            -0.3559330668420135,
-            39.45590955704512
-          ],
-          [
-            -0.3558297264742583,
-            39.45579369526408
-          ],
-          [
-            -0.3557213417158868,
-            39.455680628460286
-          ],
-          [
-            -0.3556080584103771,
-            39.45557049507008
-          ],
-          [
-            -0.3554899882470242,
-            39.455463414734886
-          ],
-          [
-            -0.35536728901520037,
-            39.45535951715391
-          ],
-          [
-            -0.3552400956202478,
-            39.4552589224967
-          ],
-          [
-            -0.3551085429645891,
-            39.45516175093291
-          ],
-          [
-            -0.3549728018028516,
-            39.45506809642181
-          ],
-          [
-            -0.3548330299123946,
-            39.45497808866275
-          ],
-          [
-            -0.3546893744792796,
-            39.454891830087945
-          ],
-          [
-            -0.3545644728864183,
-            39.45482159242197
-          ],
-          [
-            -0.3544370006221996,
-            39.45475418792744
-          ],
-          [
-            -0.35430706047181826,
-            39.4546896639796
-          ],
-          [
-            -0.3541747780996635,
-            39.45462807748368
-          ],
-          [
-            -0.3540388401765607,
-            39.454564524778874
-          ],
-          [
-            -0.35390565781805944,
-            39.45449756627233
-          ],
-          [
-            -0.3537753676353724,
-            39.45442727715423
-          ],
-          [
-            -0.35364810691979526,
-            39.454353714613205
-          ],
-          [
-            -0.35352401125558425,
-            39.45427698084316
-          ],
-          [
-            -0.3534032059782738,
-            39.4541971417699
-          ],
-          [
-            -0.3532858389607324,
-            39.45411428185017
-          ],
-          [
-            -0.3531720225594844,
-            39.45402850274976
-          ],
-          [
-            -0.3530618817628786,
-            39.453939879395904
-          ],
-          [
-            -0.35295552858219625,
-            39.45384852245552
-          ],
-          [
-            -0.35285308800168036,
-            39.45375450685587
-          ],
-          [
-            -0.35283653438281526,
-            39.45373840949123
-          ],
-          [
-            -0.3528205042598411,
-            39.45372199072284
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1969,
-        "denominacion": "PROFESOR LÓPEZ PIÑERO (DE AV. DE LA PLATA A A. FERRANDIS)",
-        "estado": 0,
-        "idtramo": 57,
-        "fiwareid": "EstadoTrafico_57",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -17501,6 +17737,35 @@
     },
     {
       "type": "Feature",
+      "id": 2091,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3606926579328698,
+            39.463303815617515
+          ],
+          [
+            -0.3590198049055579,
+            39.46369882837946
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2091,
+        "denominacion": "PUENTE DEL ÁNGEL CUSTODIO HACIA P. Y VALERO",
+        "estado": 0,
+        "idtramo": 301,
+        "fiwareid": "EstadoTrafico_301",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2069,
       "geometry": {
         "type": "LineString",
@@ -17966,6 +18231,141 @@
         "estado": 0,
         "idtramo": 273,
         "fiwareid": "EstadoTrafico_273",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1897,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39662813446536754,
+            39.485692434348316
+          ],
+          [
+            -0.4015893759320768,
+            39.48352334995105
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1897,
+        "denominacion": "GENERAL AVILES (DE PIO XII A MESTRE RODRIGO)",
+        "estado": 0,
+        "idtramo": 201,
+        "fiwareid": "EstadoTrafico_201",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1917,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.39271933467137143,
+            39.46734513978943
+          ],
+          [
+            -0.39310699218493284,
+            39.466711146743606
+          ],
+          [
+            -0.3960769694127362,
+            39.46398147937818
+          ],
+          [
+            -0.4011893193045278,
+            39.45936097310253
+          ],
+          [
+            -0.40172138635589466,
+            39.458871995567755
+          ],
+          [
+            -0.40194886557975323,
+            39.45866210281816
+          ],
+          [
+            -0.4019518031280583,
+            39.45865905142382
+          ],
+          [
+            -0.4019548773398754,
+            39.45865607515518
+          ],
+          [
+            -0.401958076268467,
+            39.458653182754006
+          ],
+          [
+            -0.40196141119085993,
+            39.45865038348129
+          ],
+          [
+            -0.40196485921813785,
+            39.45864766781642
+          ],
+          [
+            -0.40196843162734286,
+            39.458645045020354
+          ],
+          [
+            -0.4019721048598313,
+            39.45864252357533
+          ],
+          [
+            -0.40197528358800844,
+            39.45864048656258
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1917,
+        "denominacion": "ARXIDUC CARLES CAP A TRES CREUS",
+        "estado": 0,
+        "idtramo": 83,
+        "fiwareid": "EstadoTrafico_83",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2220,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36712991729548067,
+            39.477489668988945
+          ],
+          [
+            -0.3665402221642626,
+            39.47875893987337
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2220,
+        "denominacion": "GENERAL ELIO HACIA BLASCO IBAÑEZ",
+        "estado": 0,
+        "idtramo": 361,
+        "fiwareid": "EstadoTrafico_361",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -18883,68 +19283,6 @@
     },
     {
       "type": "Feature",
-      "id": 1924,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.34787267952988865,
-            39.47353307448665
-          ],
-          [
-            -0.3492621789229789,
-            39.470111270875236
-          ],
-          [
-            -0.3510992211414723,
-            39.4656260928085
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1924,
-        "denominacion": "M. CANDELA CAP A BLASCO IBAÑEZ",
-        "estado": 0,
-        "idtramo": 91,
-        "fiwareid": "EstadoTrafico_91",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2091,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3606926579328698,
-            39.463303815617515
-          ],
-          [
-            -0.3590198049055579,
-            39.46369882837946
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2091,
-        "denominacion": "PUENTE DEL ÁNGEL CUSTODIO HACIA P. Y VALERO",
-        "estado": 0,
-        "idtramo": 301,
-        "fiwareid": "EstadoTrafico_301",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2047,
       "geometry": {
         "type": "LineString",
@@ -19235,170 +19573,6 @@
         "estado": 0,
         "idtramo": 24,
         "fiwareid": "EstadoTrafico_24",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1897,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39662813446536754,
-            39.485692434348316
-          ],
-          [
-            -0.4015893759320768,
-            39.48352334995105
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1897,
-        "denominacion": "GENERAL AVILES (DE PIO XII A MESTRE RODRIGO)",
-        "estado": 0,
-        "idtramo": 201,
-        "fiwareid": "EstadoTrafico_201",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1917,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.39271933467137143,
-            39.46734513978943
-          ],
-          [
-            -0.39310699218493284,
-            39.466711146743606
-          ],
-          [
-            -0.3960769694127362,
-            39.46398147937818
-          ],
-          [
-            -0.4011893193045278,
-            39.45936097310253
-          ],
-          [
-            -0.40172138635589466,
-            39.458871995567755
-          ],
-          [
-            -0.40194886557975323,
-            39.45866210281816
-          ],
-          [
-            -0.4019518031280583,
-            39.45865905142382
-          ],
-          [
-            -0.4019548773398754,
-            39.45865607515518
-          ],
-          [
-            -0.401958076268467,
-            39.458653182754006
-          ],
-          [
-            -0.40196141119085993,
-            39.45865038348129
-          ],
-          [
-            -0.40196485921813785,
-            39.45864766781642
-          ],
-          [
-            -0.40196843162734286,
-            39.458645045020354
-          ],
-          [
-            -0.4019721048598313,
-            39.45864252357533
-          ],
-          [
-            -0.40197528358800844,
-            39.45864048656258
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1917,
-        "denominacion": "ARXIDUC CARLES CAP A TRES CREUS",
-        "estado": 0,
-        "idtramo": 83,
-        "fiwareid": "EstadoTrafico_83",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1933,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3701751419960775,
-            39.47273446711281
-          ],
-          [
-            -0.3741820187290576,
-            39.473532579702635
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1933,
-        "denominacion": "PAZ (DE GENERAL TOVAR A MARQUÉS DE DOS AGUAS)",
-        "estado": 0,
-        "idtramo": 52,
-        "fiwareid": "EstadoTrafico_52",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1882,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.33494898197116507,
-            39.45233328835126
-          ],
-          [
-            -0.33532433559092,
-            39.45008595646735
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1882,
-        "denominacion": "CAMI CANAL CAP A CAMI DE LES MORERES",
-        "estado": 0,
-        "idtramo": 464,
-        "fiwareid": "EstadoTrafico_464",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -19775,6 +19949,67 @@
     },
     {
       "type": "Feature",
+      "id": 1953,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3254880469054992,
+            39.47032440753698
+          ],
+          [
+            -0.3255164363710809,
+            39.468336465527095
+          ],
+          [
+            -0.32551609138354287,
+            39.468287522176105
+          ],
+          [
+            -0.3255136642618831,
+            39.468238620993084
+          ],
+          [
+            -0.32550915328640245,
+            39.468189806982004
+          ],
+          [
+            -0.3255025680053105,
+            39.46814113441482
+          ],
+          [
+            -0.3254939063540348,
+            39.468092657296076
+          ],
+          [
+            -0.32548318949342764,
+            39.46804443016473
+          ],
+          [
+            -0.32547041570360863,
+            39.467996498024306
+          ],
+          [
+            -0.32530607558145685,
+            39.46767742819048
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1953,
+        "denominacion": "EUGENIA VIÑES (DE HISTORIADOR COLOMA A MEDITERRÁNEO)",
+        "estado": 0,
+        "idtramo": 196,
+        "fiwareid": "EstadoTrafico_196",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2055,
       "geometry": {
         "type": "LineString",
@@ -20019,35 +20254,6 @@
         "estado": 0,
         "idtramo": 272,
         "fiwareid": null,
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1881,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.33510290823382965,
-            39.45234417803024
-          ],
-          [
-            -0.33547420456713456,
-            39.45010468930301
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1881,
-        "denominacion": "CAMI CANAL D'EIXIDA",
-        "estado": 0,
-        "idtramo": 463,
-        "fiwareid": "EstadoTrafico_463",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -20419,6 +20625,108 @@
     },
     {
       "type": "Feature",
+      "id": 2147,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3568156818589393,
+            39.46109333352103
+          ],
+          [
+            -0.3564456758092159,
+            39.46087169786291
+          ],
+          [
+            -0.3563166295118856,
+            39.4607970345028
+          ],
+          [
+            -0.3561844216152659,
+            39.46072576745901
+          ],
+          [
+            -0.356049200678655,
+            39.46065796316198
+          ],
+          [
+            -0.35591113746047454,
+            39.460593715573864
+          ],
+          [
+            -0.35577036890399866,
+            39.46053309086176
+          ],
+          [
+            -0.3556270671267067,
+            39.46047614698472
+          ],
+          [
+            -0.3554813799981232,
+            39.46042296837704
+          ],
+          [
+            -0.3553334690427629,
+            39.460373585731695
+          ],
+          [
+            -0.3551835169617023,
+            39.46032808427679
+          ],
+          [
+            -0.3550316852761055,
+            39.460286494706644
+          ],
+          [
+            -0.3542475000335308,
+            39.4601020726389
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2147,
+        "denominacion": "FRANCIA (DE PUENTE DEL REINO A TOMÁS DE MONTAÑANA)",
+        "estado": 0,
+        "idtramo": 368,
+        "fiwareid": "EstadoTrafico_368",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2160,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4089147572834343,
+            39.46973757132644
+          ],
+          [
+            -0.41534030333026467,
+            39.46930718045168
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2160,
+        "denominacion": "AV. DEL CID (DE A-3 A NUEVE DE OCTUBRE)",
+        "estado": 0,
+        "idtramo": 394,
+        "fiwareid": "EstadoTrafico_394",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1949,
       "geometry": {
         "type": "LineString",
@@ -20708,35 +21016,6 @@
     },
     {
       "type": "Feature",
-      "id": 2220,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36712991729548067,
-            39.477489668988945
-          ],
-          [
-            -0.3665402221642626,
-            39.47875893987337
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2220,
-        "denominacion": "GENERAL ELIO HACIA BLASCO IBAÑEZ",
-        "estado": 0,
-        "idtramo": 361,
-        "fiwareid": "EstadoTrafico_361",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2040,
       "geometry": {
         "type": "LineString",
@@ -20986,58 +21265,26 @@
     },
     {
       "type": "Feature",
-      "id": 1953,
+      "id": 2052,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -0.3254880469054992,
-            39.47032440753698
+            -0.35047953010418703,
+            39.481208323056784
           ],
           [
-            -0.3255164363710809,
-            39.468336465527095
-          ],
-          [
-            -0.32551609138354287,
-            39.468287522176105
-          ],
-          [
-            -0.3255136642618831,
-            39.468238620993084
-          ],
-          [
-            -0.32550915328640245,
-            39.468189806982004
-          ],
-          [
-            -0.3255025680053105,
-            39.46814113441482
-          ],
-          [
-            -0.3254939063540348,
-            39.468092657296076
-          ],
-          [
-            -0.32548318949342764,
-            39.46804443016473
-          ],
-          [
-            -0.32547041570360863,
-            39.467996498024306
-          ],
-          [
-            -0.32530607558145685,
-            39.46767742819048
+            -0.345429008767109,
+            39.47975268959036
           ]
         ]
       },
       "properties": {
-        "gid": 1953,
-        "denominacion": "EUGENIA VIÑES (DE HISTORIADOR COLOMA A MEDITERRÁNEO)",
+        "gid": 2052,
+        "denominacion": "NARANJOS (DE CATALUÑA A RAMÓN LLULL)",
         "estado": 0,
-        "idtramo": 196,
-        "fiwareid": "EstadoTrafico_196",
+        "idtramo": 261,
+        "fiwareid": "EstadoTrafico_261",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -21241,6 +21488,72 @@
     },
     {
       "type": "Feature",
+      "id": 1980,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36974500939380756,
+            39.47549506832872
+          ],
+          [
+            -0.36972262801587213,
+            39.47437208548878
+          ],
+          [
+            -0.3696185989887949,
+            39.473698243140404
+          ],
+          [
+            -0.36954137587088826,
+            39.473599362455026
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 1980,
+        "denominacion": "PLAZA DE TETUÁN",
+        "estado": 0,
+        "idtramo": 42,
+        "fiwareid": "EstadoTrafico_42",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2171,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3626953307238928,
+            39.48408194617356
+          ],
+          [
+            -0.3586096631557789,
+            39.492344021846996
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 2171,
+        "denominacion": "EMILIO BARÓ",
+        "estado": 0,
+        "idtramo": 402,
+        "fiwareid": "EstadoTrafico_402",
+        "_umap_options": {
+          "color": "#00FF00",
+          "weight": 3,
+          "opacity": 1
+        }
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2206,
       "geometry": {
         "type": "LineString",
@@ -21344,35 +21657,6 @@
     },
     {
       "type": "Feature",
-      "id": 2077,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36808641709687767,
-            39.476928883129574
-          ],
-          [
-            -0.369412562742749,
-            39.47566448461972
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2077,
-        "denominacion": "PUENTE DEL REAL HACIA VIVEROS",
-        "estado": 0,
-        "idtramo": 288,
-        "fiwareid": null,
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2195,
       "geometry": {
         "type": "LineString",
@@ -21455,35 +21739,6 @@
         "estado": 0,
         "idtramo": 366,
         "fiwareid": null,
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2160,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.4089147572834343,
-            39.46973757132644
-          ],
-          [
-            -0.41534030333026467,
-            39.46930718045168
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2160,
-        "denominacion": "AV. DEL CID (DE A-3 A NUEVE DE OCTUBRE)",
-        "estado": 0,
-        "idtramo": 394,
-        "fiwareid": "EstadoTrafico_394",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -22496,35 +22751,6 @@
     },
     {
       "type": "Feature",
-      "id": 2052,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.35047953010418703,
-            39.481208323056784
-          ],
-          [
-            -0.345429008767109,
-            39.47975268959036
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2052,
-        "denominacion": "NARANJOS (DE CATALUÑA A RAMÓN LLULL)",
-        "estado": 0,
-        "idtramo": 261,
-        "fiwareid": "EstadoTrafico_261",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2096,
       "geometry": {
         "type": "LineString",
@@ -22917,108 +23143,6 @@
     },
     {
       "type": "Feature",
-      "id": 2147,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3568156818589393,
-            39.46109333352103
-          ],
-          [
-            -0.3564456758092159,
-            39.46087169786291
-          ],
-          [
-            -0.3563166295118856,
-            39.4607970345028
-          ],
-          [
-            -0.3561844216152659,
-            39.46072576745901
-          ],
-          [
-            -0.356049200678655,
-            39.46065796316198
-          ],
-          [
-            -0.35591113746047454,
-            39.460593715573864
-          ],
-          [
-            -0.35577036890399866,
-            39.46053309086176
-          ],
-          [
-            -0.3556270671267067,
-            39.46047614698472
-          ],
-          [
-            -0.3554813799981232,
-            39.46042296837704
-          ],
-          [
-            -0.3553334690427629,
-            39.460373585731695
-          ],
-          [
-            -0.3551835169617023,
-            39.46032808427679
-          ],
-          [
-            -0.3550316852761055,
-            39.460286494706644
-          ],
-          [
-            -0.3542475000335308,
-            39.4601020726389
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2147,
-        "denominacion": "FRANCIA (DE PUENTE DEL REINO A TOMÁS DE MONTAÑANA)",
-        "estado": 0,
-        "idtramo": 368,
-        "fiwareid": "EstadoTrafico_368",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2169,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3785494746095726,
-            39.48546788535239
-          ],
-          [
-            -0.3789002160744652,
-            39.48328332991232
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2169,
-        "denominacion": "CONSTITUCIÓN (DESDE REUS HASTA LLANO DE ZAIDÍA)",
-        "estado": 0,
-        "idtramo": 396,
-        "fiwareid": "EstadoTrafico_396",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2158,
       "geometry": {
         "type": "LineString",
@@ -23187,35 +23311,6 @@
         "estado": 0,
         "idtramo": 168,
         "fiwareid": "EstadoTrafico_168",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2126,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3747682079926163,
-            39.47917038804806
-          ],
-          [
-            -0.3737146125130393,
-            39.480337884181374
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2126,
-        "denominacion": "PUENTE DE MADERA",
-        "estado": 0,
-        "idtramo": 333,
-        "fiwareid": "EstadoTrafico_333",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -23588,35 +23683,6 @@
     },
     {
       "type": "Feature",
-      "id": 1859,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3820981057104063,
-            39.482693705752965
-          ],
-          [
-            -0.3838901481611286,
-            39.481939164902236
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1859,
-        "denominacion": "MAURO GUILLEN",
-        "estado": 0,
-        "idtramo": 383,
-        "fiwareid": "EstadoTrafico_383",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1990,
       "geometry": {
         "type": "LineString",
@@ -23710,43 +23776,6 @@
         "estado": 0,
         "idtramo": 367,
         "fiwareid": "EstadoTrafico_367",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1980,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.36974500939380756,
-            39.47549506832872
-          ],
-          [
-            -0.36972262801587213,
-            39.47437208548878
-          ],
-          [
-            -0.3696185989887949,
-            39.473698243140404
-          ],
-          [
-            -0.36954137587088826,
-            39.473599362455026
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 1980,
-        "denominacion": "PLAZA DE TETUÁN",
-        "estado": 0,
-        "idtramo": 42,
-        "fiwareid": "EstadoTrafico_42",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
@@ -24349,35 +24378,6 @@
         "estado": 0,
         "idtramo": 276,
         "fiwareid": "EstadoTrafico_276",
-        "_umap_options": {
-          "color": "#00FF00",
-          "weight": 3,
-          "opacity": 1
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2171,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.3626953307238928,
-            39.48408194617356
-          ],
-          [
-            -0.3586096631557789,
-            39.492344021846996
-          ]
-        ]
-      },
-      "properties": {
-        "gid": 2171,
-        "denominacion": "EMILIO BARÓ",
-        "estado": 0,
-        "idtramo": 402,
-        "fiwareid": "EstadoTrafico_402",
         "_umap_options": {
           "color": "#00FF00",
           "weight": 3,
